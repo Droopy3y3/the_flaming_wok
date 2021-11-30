@@ -1,0 +1,1788 @@
+﻿Log file open, 11/22/21 21:17:04
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: TakeThree
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.246450
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -7:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-17155196
+LogInit: Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 7 3700X 8-Core Processor             , GPU: AMD Radeon RX 5700 XT
+LogInit: Compiled (64-bit): Aug 13 2021 06:13:13
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line: 
+LogInit: Base Directory: D:/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Jeremy/Documents/ODD/GitHub/VillageVibes/TakeThree 4.27/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.11.23-04.17.05:344][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.11.23-04.17.05:344][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.11.23-04.17.05:344][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Jeremy/Documents/ODD/GitHub/VillageVibes/TakeThree 4.27/Saved/Config/Windows/Engine.ini]
+[2021.11.23-04.17.05:344][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.11.23-04.17.05:344][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Jeremy/Documents/ODD/GitHub/VillageVibes/TakeThree 4.27/Saved/Config/Windows/Engine.ini]
+[2021.11.23-04.17.05:344][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Jeremy/Documents/ODD/GitHub/VillageVibes/TakeThree 4.27/Saved/Config/Windows/Engine.ini]
+[2021.11.23-04.17.05:344][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.11.23-04.17.05:344][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.11.23-04.17.05:344][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.11.23-04.17.05:345][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.11.23-04.17.05:345][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.11.23-04.17.05:345][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.11.23-04.17.05:345][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.11.23-04.17.05:345][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.11.23-04.17.05:345][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.11.23-04.17.05:345][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.11.23-04.17.05:345][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.11.23-04.17.05:345][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.11.23-04.17.05:345][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.11.23-04.17.05:345][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.11.23-04.17.05:345][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Jeremy/Documents/ODD/GitHub/VillageVibes/TakeThree 4.27/Saved/Config/Windows/Engine.ini]
+[2021.11.23-04.17.05:345][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.11.23-04.17.05:345][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.11.23-04.17.05:345][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.11.23-04.17.05:345][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.11.23-04.17.05:345][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.11.23-04.17.05:345][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.11.23-04.17.05:345][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.11.23-04.17.05:345][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.11.23-04.17.05:345][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.11.23-04.17.05:345][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.11.23-04.17.05:345][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.11.23-04.17.05:345][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.11.23-04.17.05:345][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.11.23-04.17.05:345][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.11.23-04.17.05:345][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Jeremy/Documents/ODD/GitHub/VillageVibes/TakeThree 4.27/Saved/Config/Windows/Engine.ini]
+[2021.11.23-04.17.05:345][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Jeremy/Documents/ODD/GitHub/VillageVibes/TakeThree 4.27/Saved/Config/Windows/Engine.ini]
+[2021.11.23-04.17.05:363][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Jeremy/Documents/ODD/GitHub/VillageVibes/TakeThree 4.27/Saved/Config/Windows/Scalability.ini]
+[2021.11.23-04.17.05:363][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.11.23-04.17.05:363][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.11.23-04.17.05:363][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Jeremy/Documents/ODD/GitHub/VillageVibes/TakeThree 4.27/Saved/Config/Windows/Scalability.ini]
+[2021.11.23-04.17.05:363][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.11.23-04.17.05:363][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Jeremy/Documents/ODD/GitHub/VillageVibes/TakeThree 4.27/Saved/Config/Windows/Scalability.ini]
+[2021.11.23-04.17.05:363][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.11.23-04.17.05:363][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.11.23-04.17.05:363][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.11.23-04.17.05:364][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.11.23-04.17.05:364][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.11.23-04.17.05:364][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.11.23-04.17.05:364][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.11.23-04.17.05:364][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.11.23-04.17.05:364][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.11.23-04.17.05:364][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.11.23-04.17.05:364][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.11.23-04.17.05:364][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.11.23-04.17.05:364][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.11.23-04.17.05:364][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.11.23-04.17.05:364][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.11.23-04.17.05:364][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.11.23-04.17.05:364][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.11.23-04.17.05:364][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.11.23-04.17.05:364][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Jeremy/Documents/ODD/GitHub/VillageVibes/TakeThree 4.27/Saved/Config/Windows/Scalability.ini]
+[2021.11.23-04.17.05:364][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.11.23-04.17.05:364][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.11.23-04.17.05:364][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.11.23-04.17.05:364][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.11.23-04.17.05:364][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.11.23-04.17.05:364][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.11.23-04.17.05:364][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.11.23-04.17.05:364][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.11.23-04.17.05:364][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.11.23-04.17.05:364][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.11.23-04.17.05:364][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.11.23-04.17.05:364][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.11.23-04.17.05:364][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.11.23-04.17.05:364][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.11.23-04.17.05:364][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.11.23-04.17.05:364][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.11.23-04.17.05:364][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.11.23-04.17.05:364][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.11.23-04.17.05:364][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.11.23-04.17.05:364][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.11.23-04.17.05:364][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.11.23-04.17.05:364][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.11.23-04.17.05:364][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.11.23-04.17.05:364][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.11.23-04.17.05:364][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.11.23-04.17.05:364][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.11.23-04.17.05:364][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.11.23-04.17.05:364][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.11.23-04.17.05:364][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.11.23-04.17.05:364][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.11.23-04.17.05:364][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Jeremy/Documents/ODD/GitHub/VillageVibes/TakeThree 4.27/Saved/Config/Windows/Scalability.ini]
+[2021.11.23-04.17.05:364][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.11.23-04.17.05:364][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.11.23-04.17.05:364][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.11.23-04.17.05:364][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.11.23-04.17.05:364][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.11.23-04.17.05:364][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.11.23-04.17.05:364][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.11.23-04.17.05:364][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.11.23-04.17.05:364][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.11.23-04.17.05:364][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Jeremy/Documents/ODD/GitHub/VillageVibes/TakeThree 4.27/Saved/Config/Windows/Scalability.ini]
+[2021.11.23-04.17.05:364][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.11.23-04.17.05:364][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.11.23-04.17.05:364][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.11.23-04.17.05:364][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.11.23-04.17.05:364][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.11.23-04.17.05:364][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.11.23-04.17.05:364][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.11.23-04.17.05:364][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.11.23-04.17.05:364][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.11.23-04.17.05:364][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.11.23-04.17.05:364][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.11.23-04.17.05:364][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.11.23-04.17.05:364][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.11.23-04.17.05:364][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.11.23-04.17.05:364][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.11.23-04.17.05:364][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.11.23-04.17.05:364][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.11.23-04.17.05:364][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.11.23-04.17.05:364][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.11.23-04.17.05:364][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.11.23-04.17.05:364][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.11.23-04.17.05:364][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.11.23-04.17.05:364][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.11.23-04.17.05:364][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.11.23-04.17.05:364][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.11.23-04.17.05:364][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.11.23-04.17.05:364][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.11.23-04.17.05:364][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2021.11.23-04.17.05:364][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Jeremy/Documents/ODD/GitHub/VillageVibes/TakeThree 4.27/Saved/Config/Windows/Scalability.ini]
+[2021.11.23-04.17.05:364][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.11.23-04.17.05:364][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.11.23-04.17.05:364][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Jeremy/Documents/ODD/GitHub/VillageVibes/TakeThree 4.27/Saved/Config/Windows/Scalability.ini]
+[2021.11.23-04.17.05:364][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.11.23-04.17.05:364][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.11.23-04.17.05:364][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.11.23-04.17.05:365][  0]LogInit: Selected Device Profile: [Windows]
+[2021.11.23-04.17.05:365][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.11.23-04.17.05:365][  0]LogHAL: Display: Platform has ~ 16 GB [17102946304 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.11.23-04.17.05:365][  0]LogInit: Going up to parent DeviceProfile []
+[2021.11.23-04.17.05:365][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Jeremy/Documents/ODD/GitHub/VillageVibes/TakeThree 4.27/Saved/Config/Windows/Scalability.ini]
+[2021.11.23-04.17.05:365][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.11.23-04.17.05:365][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.11.23-04.17.05:365][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Jeremy/Documents/ODD/GitHub/VillageVibes/TakeThree 4.27/Saved/Config/Windows/Scalability.ini]
+[2021.11.23-04.17.05:365][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.11.23-04.17.05:365][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Jeremy/Documents/ODD/GitHub/VillageVibes/TakeThree 4.27/Saved/Config/Windows/Scalability.ini]
+[2021.11.23-04.17.05:365][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.11.23-04.17.05:365][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.11.23-04.17.05:365][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.11.23-04.17.05:365][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.11.23-04.17.05:365][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.11.23-04.17.05:365][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.11.23-04.17.05:365][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.11.23-04.17.05:365][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.11.23-04.17.05:365][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.11.23-04.17.05:365][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.11.23-04.17.05:365][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.11.23-04.17.05:365][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.11.23-04.17.05:365][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.11.23-04.17.05:365][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.11.23-04.17.05:365][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.11.23-04.17.05:365][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.11.23-04.17.05:365][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.11.23-04.17.05:365][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.11.23-04.17.05:365][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Jeremy/Documents/ODD/GitHub/VillageVibes/TakeThree 4.27/Saved/Config/Windows/Scalability.ini]
+[2021.11.23-04.17.05:365][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.11.23-04.17.05:365][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.11.23-04.17.05:365][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.11.23-04.17.05:365][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.11.23-04.17.05:365][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.11.23-04.17.05:365][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.11.23-04.17.05:365][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.11.23-04.17.05:365][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.11.23-04.17.05:365][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.11.23-04.17.05:365][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.11.23-04.17.05:365][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.11.23-04.17.05:365][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.11.23-04.17.05:365][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.11.23-04.17.05:365][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.11.23-04.17.05:365][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.11.23-04.17.05:365][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.11.23-04.17.05:365][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.11.23-04.17.05:365][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.11.23-04.17.05:365][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.11.23-04.17.05:365][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.11.23-04.17.05:365][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.11.23-04.17.05:365][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.11.23-04.17.05:365][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.11.23-04.17.05:365][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.11.23-04.17.05:365][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.11.23-04.17.05:365][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.11.23-04.17.05:365][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.11.23-04.17.05:365][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.11.23-04.17.05:365][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.11.23-04.17.05:365][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.11.23-04.17.05:365][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Jeremy/Documents/ODD/GitHub/VillageVibes/TakeThree 4.27/Saved/Config/Windows/Scalability.ini]
+[2021.11.23-04.17.05:365][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.11.23-04.17.05:365][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.11.23-04.17.05:365][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.11.23-04.17.05:365][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.11.23-04.17.05:365][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.11.23-04.17.05:365][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.11.23-04.17.05:365][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.11.23-04.17.05:365][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.11.23-04.17.05:365][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.11.23-04.17.05:365][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Jeremy/Documents/ODD/GitHub/VillageVibes/TakeThree 4.27/Saved/Config/Windows/Scalability.ini]
+[2021.11.23-04.17.05:365][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.11.23-04.17.05:365][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.11.23-04.17.05:365][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.11.23-04.17.05:365][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.11.23-04.17.05:365][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.11.23-04.17.05:365][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.11.23-04.17.05:365][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.11.23-04.17.05:365][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.11.23-04.17.05:365][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.11.23-04.17.05:365][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.11.23-04.17.05:365][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.11.23-04.17.05:365][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.11.23-04.17.05:365][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.11.23-04.17.05:365][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.11.23-04.17.05:365][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.11.23-04.17.05:365][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.11.23-04.17.05:365][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.11.23-04.17.05:365][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.11.23-04.17.05:365][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.11.23-04.17.05:365][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.11.23-04.17.05:365][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.11.23-04.17.05:366][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.11.23-04.17.05:366][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.11.23-04.17.05:366][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.11.23-04.17.05:366][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.11.23-04.17.05:366][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.11.23-04.17.05:366][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.11.23-04.17.05:366][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2021.11.23-04.17.05:366][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Jeremy/Documents/ODD/GitHub/VillageVibes/TakeThree 4.27/Saved/Config/Windows/Scalability.ini]
+[2021.11.23-04.17.05:366][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.11.23-04.17.05:366][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.11.23-04.17.05:366][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Jeremy/Documents/ODD/GitHub/VillageVibes/TakeThree 4.27/Saved/Config/Windows/Scalability.ini]
+[2021.11.23-04.17.05:366][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.11.23-04.17.05:366][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.11.23-04.17.05:366][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.11.23-04.17.05:366][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.11.23-04.17.05:366][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.11.23-04.17.05:366][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.11.23-04.17.05:366][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.11.23-04.17.05:366][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Jeremy/Documents/ODD/GitHub/VillageVibes/TakeThree 4.27/Saved/Config/Windows/Engine.ini]
+[2021.11.23-04.17.05:366][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Jeremy/Documents/ODD/GitHub/VillageVibes/TakeThree 4.27/Saved/Config/Windows/Editor.ini]
+[2021.11.23-04.17.05:366][  0]LogInit: Computer: DESKTOP-RR3M4MF
+[2021.11.23-04.17.05:366][  0]LogInit: User: Jeremy
+[2021.11.23-04.17.05:366][  0]LogInit: CPU Page size=4096, Cores=8
+[2021.11.23-04.17.05:366][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.11.23-04.17.05:366][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2021.11.23-04.17.05:366][  0]LogMemory: Platform Memory Stats for Windows
+[2021.11.23-04.17.05:366][  0]LogMemory: Process Physical Memory: 147.29 MB used, 147.30 MB peak
+[2021.11.23-04.17.05:366][  0]LogMemory: Process Virtual Memory: 131.06 MB used, 131.06 MB peak
+[2021.11.23-04.17.05:366][  0]LogMemory: Physical Memory: 9362.94 MB used,  6947.70 MB free, 16310.64 MB total
+[2021.11.23-04.17.05:366][  0]LogMemory: Virtual Memory: 134197488.00 MB used,  20237.34 MB free, 134217728.00 MB total
+[2021.11.23-04.17.05:583][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.11.23-04.17.05:605][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.11.23-04.17.05:606][  0]LogInit: Using OS detected language (en-US).
+[2021.11.23-04.17.05:606][  0]LogInit: Using OS detected locale (en-US).
+[2021.11.23-04.17.05:609][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.11.23-04.17.05:817][  0]LogInit: Setting process to per monitor DPI aware
+[2021.11.23-04.17.05:827][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.11.23-04.17.05:840][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.11.23-04.17.05:840][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.11.23-04.17.06:021][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2021.11.23-04.17.06:024][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.11.23-04.17.06:024][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.11.23-04.17.06:024][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.11.23-04.17.06:024][  0]LogD3D11RHI: D3D11 adapters:
+[2021.11.23-04.17.06:060][  0]LogD3D11RHI:    0. 'AMD Radeon RX 5700 XT' (Feature Level 11_0)
+[2021.11.23-04.17.06:060][  0]LogD3D11RHI:       8151/0/8155 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x1002
+[2021.11.23-04.17.06:062][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.11.23-04.17.06:062][  0]LogD3D11RHI:       0/0/8155 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.11.23-04.17.06:062][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.11.23-04.17.06:071][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.11.23-04.17.06:071][  0]LogD3D11RHI:     GPU DeviceId: 0x731f (for the marketing name, search the web for "GPU Device Id")
+[2021.11.23-04.17.06:071][  0]LogWindows: EnumDisplayDevices:
+[2021.11.23-04.17.06:071][  0]LogWindows:    0. 'AMD Radeon RX 5700 XT' (P:1 D:1)
+[2021.11.23-04.17.06:071][  0]LogWindows:    1. 'AMD Radeon RX 5700 XT' (P:0 D:1)
+[2021.11.23-04.17.06:072][  0]LogWindows:    2. 'AMD Radeon RX 5700 XT' (P:0 D:0)
+[2021.11.23-04.17.06:072][  0]LogWindows:    3. 'AMD Radeon RX 5700 XT' (P:0 D:0)
+[2021.11.23-04.17.06:072][  0]LogWindows:    4. 'AMD Radeon RX 5700 XT' (P:0 D:0)
+[2021.11.23-04.17.06:072][  0]LogWindows:    5. 'AMD Radeon RX 5700 XT' (P:0 D:0)
+[2021.11.23-04.17.06:073][  0]LogWindows:    6. 'AMD Radeon RX 5700 XT' (P:0 D:0)
+[2021.11.23-04.17.06:073][  0]LogWindows: DebugString: FoundDriverCount:7 
+[2021.11.23-04.17.06:073][  0]LogD3D11RHI:     Adapter Name: AMD Radeon RX 5700 XT
+[2021.11.23-04.17.06:073][  0]LogD3D11RHI:   Driver Version: Adrenalin 2020 21.9.2 (internal:30.0.13017.5006, unified:30.0.13017.5006)
+[2021.11.23-04.17.06:073][  0]LogD3D11RHI:      Driver Date: 9-17-2021
+[2021.11.23-04.17.06:073][  0]LogRHI: Texture pool is 5168 MB (70% of 7383 MB)
+[2021.11.23-04.17.06:127][  0]LogD3D11RHI: Created device via AGS, feature level 11_0, supported extensions 1fffffbf.
+[2021.11.23-04.17.06:127][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.11.23-04.17.06:127][  0]LogD3D11RHI: Async texture creation enabled
+[2021.11.23-04.17.06:127][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.11.23-04.17.06:139][  0]LogD3D11RHI: GPU Timing Frequency: 100.000000 (Debug: 2 1)
+[2021.11.23-04.17.06:395][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.11.23-04.17.06:417][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.11.23-04.17.06:417][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.11.23-04.17.06:417][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.11.23-04.17.06:417][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.11.23-04.17.06:417][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.11.23-04.17.06:417][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.11.23-04.17.06:417][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.11.23-04.17.06:417][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.11.23-04.17.06:417][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.11.23-04.17.06:417][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.11.23-04.17.06:435][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.11.23-04.17.06:435][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.11.23-04.17.06:443][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.11.23-04.17.06:448][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.11.23-04.17.06:452][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.11.23-04.17.06:456][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.11.23-04.17.06:465][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.11.23-04.17.06:469][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.11.23-04.17.06:473][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.11.23-04.17.06:495][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.11.23-04.17.06:495][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.11.23-04.17.06:503][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.11.23-04.17.06:507][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.11.23-04.17.06:512][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.11.23-04.17.06:516][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.11.23-04.17.06:525][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.11.23-04.17.06:525][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.11.23-04.17.06:534][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.11.23-04.17.06:538][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.11.23-04.17.06:542][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.11.23-04.17.06:546][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.11.23-04.17.06:546][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.11.23-04.17.06:552][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.11.23-04.17.06:577][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2021.11.23-04.17.06:603][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.11.23-04.17.06:603][  0]LogShaderCompilers: Guid format shader working directory is -18 characters bigger than the processId version (C:/Users/Jeremy/Documents/ODD/GitHub/VillageVibes/TakeThree 4.27/Intermediate/Shaders/WorkingDirectory/16424/).
+[2021.11.23-04.17.06:603][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Jeremy/AppData/Local/Temp/UnrealShaderWorkingDir/79409F124FBADB6C8CDF7585AE6F5502/'.
+[2021.11.23-04.17.06:603][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2021.11.23-04.17.06:603][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.11.23-04.17.06:604][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.11.23-04.17.07:243][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.11.23-04.17.07:310][  0]LogDerivedDataCache: Loaded boot cache 0.07s 95MB C:/Users/Jeremy/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2021.11.23-04.17.07:310][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Jeremy/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2021.11.23-04.17.07:310][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/Jeremy/Documents/ODD/GitHub/VillageVibes/TakeThree 4.27/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.11.23-04.17.07:310][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.11.23-04.17.07:310][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/Jeremy/Documents/ODD/GitHub/VillageVibes/TakeThree 4.27/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.11.23-04.17.07:310][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.11.23-04.17.07:327][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.11.23-04.17.07:327][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.11.23-04.17.07:327][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.11.23-04.17.07:335][  0]LogDerivedDataCache: Speed tests for C:/Users/Jeremy/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2021.11.23-04.17.07:335][  0]LogDerivedDataCache: Display: Performance to C:/Users/Jeremy/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.03ms. RandomReadSpeed=1485.12MBs, RandomWriteSpeed=149.99MBs. Assigned SpeedClass 'Local'
+[2021.11.23-04.17.07:335][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Jeremy/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.11.23-04.17.07:336][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.11.23-04.17.07:336][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.11.23-04.17.07:379][  0]LogSlate: Using FreeType 2.10.0
+[2021.11.23-04.17.07:380][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.11.23-04.17.07:403][  0]LogAssetRegistry: FAssetRegistry took 0.0025 seconds to start up
+[2021.11.23-04.17.07:633][  0]LogInit: Selected Device Profile: [Windows]
+[2021.11.23-04.17.07:633][  0]LogInit: Active device profile: [000001612E782600][000001612DF4C240 49] Windows
+[2021.11.23-04.17.07:633][  0]LogInit: Profiles: [000001612E782600][000001612DF4C240 49] Windows, [000001612F726600][000001612DF543C0 49] WindowsNoEditor, [000001612E782C00][000001612DF5C540 49] WindowsServer, [000001612F726C00][000001612E6DA6C0 49] WindowsClient, [000001612E783600][000001612DF50800 49] IOS, [000001612F726B00][000001612E710940 49] iPadAir, [000001612E783300][000001612E718A80 49] iPadAir2, [000001612F6D5D00][000001612DF64D00 49] IPadPro, [000001612F6D5E00][000001612E71CD40 49] iPadAir3, [000001612E783400][000001612DF68EC0 49] iPadAir4, [000001612F6D6000][000001612E715040 49] iPadMini2, [000001612E781F00][000001612DF6D1C0 49] iPadMini3, [000001612F6D7F00][000001612DF71340 49] iPadMini4, [000001612E781E00][000001612DF754C0 49] iPadMini5, [000001612F701300][000001612DF79780 49] iPhone6, [000001612F701400][000001612DF597C0 49] iPodTouch6, [000001612F6D4300][000001612E07BA80 49] iPhone7, [000001612F6D4200][000001612DF7DAC0 49] iPodTouch7, [000001612F701500][000001612E07E0C0 49] iPhone5S, [000001612F6D5B00][000001612E082240 49] iPhone6Plus, [000001612F703400][000001612E0863C0 49] iPhone6S, [000001612F6D6B00][000001612E08A540 49] iPhone6SPlus, [000001612F703800][000001612E08E6C0 49] iPhone7Plus, [000001612F6D5F00][000001612E092840 49] iPhoneSE, [000001612F703700][000001612DF60980 49] iPhone8, [000001612F6D6500][00000161287BCAC0 49] iPhone8Plus, [000001612F700300][000001612BEF2C00 49] iPhoneX, [000001612F6D5100][000001612BEF6D40 49] iPhoneXS, [000001612F701100][000001612E09AEC0 49] iPhoneXSMax, [000001612F6D4600][000001612BC1B040 49] iPhoneXR, [000001612F702100][000001612BC1F1C0 49] iPhone11, [000001612F6D4800][000001612BC23340 49] iPhone11Pro, [000001612F700200][000001612BC274C0 49] iPhone11ProMax, [000001612F6D6800][000001612BC2B640 49] iPhoneSE2, [000001612F703E00][000001612BC2F7C0 49] iPhone12Mini, [000001612F6D7000][000001612BC33940 49] iPhone12, [000001612F701E00][000001612BC37AC0 49] iPhone12Pro, [000001612F6D5300][000001612BC3A0C0 49] iPhone12ProMax, [000001612F702C00][000001612BC3E240 49] iPadPro105, [000001612F6D6F00][00000161264543C0 49] iPadPro129, [000001612F702300][0000016126458540 49] iPadPro97, [000001612F6D6400][000001612645C6C0 49] iPadPro2_129, [000001612F703100][0000016126460840 49] iPad5, [000001612F6D7B00][00000161264649C0 49] iPad6, [000001612F727600][0000016126468B40 49] iPad7, [000001612E7DD700][000001612E096C80 49] iPad8, [000001612F725000][000001612646CDC0 49] iPadPro11, [000001612E7DCA00][0000016126470F00 49] iPadPro2_11, [000001612F726E00][0000016126479080 49] iPadPro3_129, [000001612E7DCF00][000001612647D200 49] iPadPro4_129, [000001612F727900][0000016126481380 49] AppleTV, [000001612E7DDB00][0000016126485500 49] AppleTV4K, [000001612F724A00][0000016126489680 49] TVOS, [000001612E7DC600][000001612648D800 49] Mac, [000001612F6D4100][0000016126491980 49] MacClient, [000001612F703B00][0000016126495B00 49] MacNoEditor, [000001612F6D6100][0000016126498100 49] MacServer, [000001612F703F00][000001612649C280 49] Linux, [000001612F6D5000][00000161264A0400 49] LinuxAArch64, [000001612F703600][00000161264A4580 49] LinuxNoEditor, [000001612F6D5700][00000161264A8700 49] LinuxAArch64NoEditor, [000001612F700F00][00000161264AC880 49] LinuxClient, [000001612F6D5500][00000161264B0A00 49] LinuxAArch64Client, [000001612F702D00][000001612E008B80 49] LinuxServer, [000001612F6D4900][000001612E00CD00 49] LinuxAArch64Server, [000001612F701A00][0000016126474E40 49] Android, [000001612F6D7400][000001612E010F80 49] Android_Low, [000001612F702F00][000001612E0150C0 49] Android_Mid, [000001612F6D5C00][000001612E01D240 49] Android_High, [000001612F703D00][000001612E0213C0 49] Android_Default, [000001612F6D5900][000001612E025540 49] Android_Adreno4xx, [000001612F700B00][000001612E0296C0 49] Android_Adreno5xx_Low, [000001612F6D7700][000001612E02D840 49] Android_Adreno5xx, [000001612E7DD000][000001612E0319C0 49] Android_Adreno6xx, [000001612F6D6300][000001612E035B40 49] Android_Adreno6xx_Vulkan, [000001612E7DD900][000001612E038140 49] Android_Mali_T6xx, [000001612F6D4700][000001612E03C2C0 49] Android_Mali_T7xx, [000001612F703900][000001612E040440 49] Android_Mali_T8xx, [000001612F6D7C00][000001612E0445C0 49] Android_Mali_G71, [000001612F703500][000001612E048740 49] Android_Mali_G72, [000001612F6D4400][000001612E04C8C0 49] Android_Mali_G72_Vulkan, [000001612F701700][000001612E050A40 49] Android_Mali_G76, [000001612F6D4F00][000001612E054BC0 49] Android_Mali_G76_Vulkan, [000001612F700E00][000001612E058D40 49] Android_Mali_G77, [000001612F6D5600][000001612E05CEC0 49] Android_Mali_G77_Vulkan, [000001612F701F00][000001612E019000 49] Android_Mali_G78, [000001612F6D4E00][000001612E061140 49] Android_Mali_G78_Vulkan, [000001612F703C00][000001612E065280 49] Android_Mali_G710, [000001612F6D7500][000001612E0693C0 49] Android_Mali_G710_Vulkan, [000001612F701D00][000001612E071540 49] Android_Vulkan_SM5, [000001612F6D5400][000001612E0756C0 49] Android_PowerVR_G6xxx, [000001612F701C00][000001612E16F840 49] Android_PowerVR_GT7xxx, [000001612F6D4500][000001612E1739C0 49] Android_PowerVR_GE8xxx, [000001612F700600][000001612E177B40 49] Android_PowerVR_GM9xxx, [000001612F6D4D00][000001612E17A140 49] Android_PowerVR_GM9xxx_Vulkan, [000001612F701200][000001612E17E2C0 49] Android_TegraK1, [000001612F726400][000001612E182440 49] Android_Unknown_Vulkan, [000001612F700100][000001612E1865C0 49] Lumin, [000001612E783100][000001612E18A740 49] Lumin_Desktop, [000001612F6D6200][000001612E18E8C0 49] HoloLens, 
+[2021.11.23-04.17.07:753][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.11.23-04.17.07:753][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.11.23-04.17.07:753][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.11.23-04.17.07:753][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.11.23-04.17.07:753][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.11.23-04.17.07:769][  0]LogNetVersion: TakeThree 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 1545721811)
+[2021.11.23-04.17.08:162][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2021.11.23-04.17.08:222][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.11.23-04.17.08:229][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2021.11.23-04.17.08:229][  0]LogUObjectAllocator: 4301856 out of 0 bytes used by permanent object pool.
+[2021.11.23-04.17.08:229][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.11.23-04.17.08:449][  0]LogPython: Using Python 3.7.7
+[2021.11.23-04.17.08:919][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 926DD3374EB057644524F69B60D0E0F1 | Instance: B4CD1B92478C39EB403F078234C3F62A (DESKTOP-RR3M4MF-16424).
+[2021.11.23-04.17.08:936][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/MenuSeparator.png' error.
+[2021.11.23-04.17.08:936][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/MenuSeparator.png
+[2021.11.23-04.17.08:936][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/Selector.png' error.
+[2021.11.23-04.17.08:936][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/Selector.png
+[2021.11.23-04.17.08:937][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/Selection.png' error.
+[2021.11.23-04.17.08:937][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/Selection.png
+[2021.11.23-04.17.08:937][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Below.png' error.
+[2021.11.23-04.17.08:937][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Below.png
+[2021.11.23-04.17.08:937][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Above.png' error.
+[2021.11.23-04.17.08:937][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Above.png
+[2021.11.23-04.17.08:937][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Onto.png' error.
+[2021.11.23-04.17.08:937][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/RoundedSelection_16x.png' error.
+[2021.11.23-04.17.08:937][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/FlatButton.png' error.
+[2021.11.23-04.17.08:937][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/RoundedSelection_16x.png
+[2021.11.23-04.17.08:937][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/FlatButton.png
+[2021.11.23-04.17.08:937][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Onto.png
+[2021.11.23-04.17.09:058][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.11.23-04.17.09:058][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.11.23-04.17.09:058][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.11.23-04.17.09:068][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.11.23-04.17.09:185][  0]SourceControl: Source control is disabled
+[2021.11.23-04.17.09:185][  0]SourceControl: Source control is disabled
+[2021.11.23-04.17.09:187][  0]SourceControl: Source control is disabled
+[2021.11.23-04.17.09:189][  0]SourceControl: Source control is disabled
+[2021.11.23-04.17.09:196][  0]SourceControl: Source control is disabled
+[2021.11.23-04.17.09:198][  0]LogUProjectInfo: Found projects:
+[2021.11.23-04.17.09:207][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.11.23-04.17.09:207][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.11.23-04.17.09:208][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.11.23-04.17.09:387][  0]LogOpenImageDenoise: OIDN starting up
+[2021.11.23-04.17.09:429][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.11.23-04.17.09:448][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.11.23-04.17.09:448][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.11.23-04.17.09:561][  0]LogCollectionManager: Loaded 0 collections in 0.000821 seconds
+[2021.11.23-04.17.09:585][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Jeremy/Documents/ODD/GitHub/VillageVibes/TakeThree 4.27/Saved/Collections/' took 0.00s
+[2021.11.23-04.17.09:585][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Jeremy/Documents/ODD/GitHub/VillageVibes/TakeThree 4.27/Content/Developers/Jeremy/Collections/' took 0.00s
+[2021.11.23-04.17.09:585][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Jeremy/Documents/ODD/GitHub/VillageVibes/TakeThree 4.27/Content/Collections/' took 0.00s
+[2021.11.23-04.17.09:585][  0]LogOcInput: OculusInput pre-init called
+[2021.11.23-04.17.09:709][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/MenuSeparator.png' error.
+[2021.11.23-04.17.09:709][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/MenuSeparator.png
+[2021.11.23-04.17.09:709][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/Selection.png' error.
+[2021.11.23-04.17.09:709][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Above.png' error.
+[2021.11.23-04.17.09:709][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Above.png
+[2021.11.23-04.17.09:709][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/Selector.png' error.
+[2021.11.23-04.17.09:709][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/Selector.png
+[2021.11.23-04.17.09:709][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/RoundedSelection_16x.png' error.
+[2021.11.23-04.17.09:709][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Onto.png' error.
+[2021.11.23-04.17.09:709][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/RoundedSelection_16x.png
+[2021.11.23-04.17.09:709][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Onto.png
+[2021.11.23-04.17.09:709][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/Selection.png
+[2021.11.23-04.17.09:789][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Below.png' error.
+[2021.11.23-04.17.09:789][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Below.png
+[2021.11.23-04.17.09:789][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/FlatButton.png' error.
+[2021.11.23-04.17.09:789][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/FlatButton.png
+[2021.11.23-04.17.09:789][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.11.23-04.17.09:789][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.11.23-04.17.09:789][  0]LogEngine: Initializing Engine...
+[2021.11.23-04.17.09:888][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2021.11.23-04.17.09:888][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.11.23-04.17.09:913][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.11.23-04.17.09:914][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.11.23-04.17.10:031][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.11.23-04.17.10:040][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.11.23-04.17.10:050][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.11.23-04.17.10:053][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2021.11.23-04.17.10:054][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2021.11.23-04.17.10:054][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.11.23-04.17.10:054][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.11.23-04.17.10:054][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.23-04.17.10:054][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.23-04.17.10:054][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.23-04.17.10:054][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.23-04.17.10:054][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.23-04.17.10:054][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.23-04.17.10:054][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.23-04.17.10:054][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.23-04.17.10:055][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.11.23-04.17.10:055][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.11.23-04.17.10:055][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.11.23-04.17.10:055][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.23-04.17.10:097][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.23-04.17.10:097][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.11.23-04.17.10:183][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.11.23-04.17.10:188][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.23-04.17.10:191][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.23-04.17.10:191][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.23-04.17.10:192][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.23-04.17.10:192][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.23-04.17.10:192][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.23-04.17.10:192][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.23-04.17.10:192][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.23-04.17.10:192][  0]LogInit: FAudioDevice initialized.
+[2021.11.23-04.17.10:193][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.11.23-04.17.10:193][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.11.23-04.17.10:248][  0]LogDerivedDataCache: Saved boot cache 0.05s 95MB C:/Users/Jeremy/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2021.11.23-04.17.10:248][  0]LogInit: Texture streaming: Enabled
+[2021.11.23-04.17.10:258][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.0-17155196+++UE4+Release-4.27
+[2021.11.23-04.17.10:262][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.11.23-04.17.10:262][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.11.23-04.17.10:263][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.11.23-04.17.10:295][  0]LogInit: Transaction tracking system initialized
+[2021.11.23-04.17.10:313][  0]BlueprintLog: New page: Editor Load
+[2021.11.23-04.17.10:367][  0]LocalizationService: Localization service is disabled
+[2021.11.23-04.17.10:388][  0]TimingProfiler: Initialize
+[2021.11.23-04.17.10:388][  0]TimingProfiler: OnSessionChanged
+[2021.11.23-04.17.10:388][  0]LoadingProfiler: Initialize
+[2021.11.23-04.17.10:388][  0]LoadingProfiler: OnSessionChanged
+[2021.11.23-04.17.10:388][  0]NetworkingProfiler: Initialize
+[2021.11.23-04.17.10:388][  0]NetworkingProfiler: OnSessionChanged
+[2021.11.23-04.17.10:388][  0]MemoryProfiler: Initialize
+[2021.11.23-04.17.10:388][  0]MemoryProfiler: OnSessionChanged
+[2021.11.23-04.17.10:439][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.11.23-04.17.10:439][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.11.23-04.17.10:439][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.11.23-04.17.10:665][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.11.23-04.17.10:665][  0]LogCook: Display: Mobile HDR setting 1
+[2021.11.23-04.17.10:841][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Jeremy/Documents/ODD/GitHub/VillageVibes/TakeThree 4.27/Content/' took 0.04s
+[2021.11.23-04.17.10:952][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/MenuSeparator.png' error.
+[2021.11.23-04.17.10:952][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/MenuSeparator.png
+[2021.11.23-04.17.10:952][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/Selector.png' error.
+[2021.11.23-04.17.10:952][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/Selector.png
+[2021.11.23-04.17.10:952][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/Selection.png' error.
+[2021.11.23-04.17.10:952][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/Selection.png
+[2021.11.23-04.17.10:952][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Below.png' error.
+[2021.11.23-04.17.10:952][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Below.png
+[2021.11.23-04.17.10:953][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Above.png' error.
+[2021.11.23-04.17.10:953][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Above.png
+[2021.11.23-04.17.10:953][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Onto.png' error.
+[2021.11.23-04.17.10:953][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Onto.png
+[2021.11.23-04.17.10:953][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/FlatButton.png' error.
+[2021.11.23-04.17.10:953][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/FlatButton.png
+[2021.11.23-04.17.10:953][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/RoundedSelection_16x.png' error.
+[2021.11.23-04.17.10:953][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/RoundedSelection_16x.png
+[2021.11.23-04.17.10:953][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.11.23-04.17.10:953][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.11.23-04.17.11:008][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.11.23-04.17.11:012][  0]SourceControl: Source control is disabled
+[2021.11.23-04.17.11:012][  0]LogUnrealEdMisc: Loading editor; pre map load, took 6.927
+[2021.11.23-04.17.11:012][  0]Cmd: MAP LOAD FILE="C:/Users/Jeremy/Documents/ODD/GitHub/VillageVibes/TakeThree 4.27/Content/TopDownBP/Maps/TopDownExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.11.23-04.17.11:012][  0]LogEditorServer: Warning: Can't find file 'C:/Users/Jeremy/Documents/ODD/GitHub/VillageVibes/TakeThree 4.27/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2021.11.23-04.17.11:012][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.11.23-04.17.11:013][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.432ms to complete.
+[2021.11.23-04.17.11:013][  0]LogFileHelpers: Loading map 'TopDownExampleMap' took 0.001
+[2021.11.23-04.17.11:015][  0]LogUnrealEdMisc: Total Editor Startup Time, took 6.930
+[2021.11.23-04.17.12:708][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.23-04.17.12:791][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.23-04.17.12:798][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.23-04.17.12:805][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.23-04.17.13:806][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.11.23-04.17.13:806][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.23-04.17.13:806][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.11.23-04.17.13:987][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.23-04.17.13:987][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2021.11.23-04.17.14:016][  0]LogPakFile: OnPakFileMounted2Time == 0.209456
+[2021.11.23-04.17.14:058][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.11.23-04.17.14:058][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.23-04.17.14:058][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.11.23-04.17.14:058][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.23-04.17.14:058][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2021.11.23-04.17.14:058][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2021.11.23-04.17.14:079][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.11.23-04.17.14:079][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.23-04.17.14:079][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.11.23-04.17.14:080][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.23-04.17.14:080][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2021.11.23-04.17.14:080][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2021.11.23-04.17.14:085][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.11.23-04.17.14:085][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.23-04.17.14:085][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.11.23-04.17.14:085][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.23-04.17.14:085][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/StarterContent.upack)
+[2021.11.23-04.17.14:085][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2021.11.23-04.17.14:087][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.11.23-04.17.14:087][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.23-04.17.14:087][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.11.23-04.17.14:087][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.23-04.17.14:087][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2021.11.23-04.17.14:087][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2021.11.23-04.17.14:089][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.11.23-04.17.14:089][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.23-04.17.14:089][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.11.23-04.17.14:089][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.23-04.17.14:089][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2021.11.23-04.17.14:089][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2021.11.23-04.17.14:091][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.11.23-04.17.14:091][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.23-04.17.14:091][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.11.23-04.17.14:091][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.23-04.17.14:091][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2021.11.23-04.17.14:091][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2021.11.23-04.17.14:094][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.11.23-04.17.14:094][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.23-04.17.14:094][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.11.23-04.17.14:094][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.23-04.17.14:094][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2021.11.23-04.17.14:094][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2021.11.23-04.17.14:113][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.11.23-04.17.14:113][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.23-04.17.14:113][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.11.23-04.17.14:113][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.23-04.17.14:113][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2021.11.23-04.17.14:113][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2021.11.23-04.17.14:201][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.11.23-04.17.14:201][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.23-04.17.14:201][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.11.23-04.17.14:201][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.23-04.17.14:201][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2021.11.23-04.17.14:201][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2021.11.23-04.17.14:206][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.11.23-04.17.14:206][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.23-04.17.14:206][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.11.23-04.17.14:206][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.23-04.17.14:206][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2021.11.23-04.17.14:206][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2021.11.23-04.17.14:207][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.11.23-04.17.14:207][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.23-04.17.14:208][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.11.23-04.17.14:208][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.23-04.17.14:208][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2021.11.23-04.17.14:208][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2021.11.23-04.17.14:211][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.11.23-04.17.14:211][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.23-04.17.14:211][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.11.23-04.17.14:211][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.23-04.17.14:211][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2021.11.23-04.17.14:211][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2021.11.23-04.17.14:212][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.11.23-04.17.14:212][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.23-04.17.14:212][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.11.23-04.17.14:212][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.23-04.17.14:212][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2021.11.23-04.17.14:212][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2021.11.23-04.17.14:237][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.11.23-04.17.14:237][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.23-04.17.14:237][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.11.23-04.17.14:237][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.23-04.17.14:237][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2021.11.23-04.17.14:237][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2021.11.23-04.17.14:266][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.11.23-04.17.14:266][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.23-04.17.14:266][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.11.23-04.17.14:266][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.23-04.17.14:266][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2021.11.23-04.17.14:266][  0]LogPakFile: OnPakFileMounted2Time == 0.000048
+[2021.11.23-04.17.14:269][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.11.23-04.17.14:269][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.23-04.17.14:269][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.11.23-04.17.14:269][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.23-04.17.14:269][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2021.11.23-04.17.14:269][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2021.11.23-04.17.14:271][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.11.23-04.17.14:271][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.23-04.17.14:271][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.11.23-04.17.14:271][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.23-04.17.14:271][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2021.11.23-04.17.14:271][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2021.11.23-04.17.14:272][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.11.23-04.17.14:272][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.23-04.17.14:272][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.11.23-04.17.14:272][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.23-04.17.14:272][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2021.11.23-04.17.14:272][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2021.11.23-04.17.14:274][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.11.23-04.17.14:274][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.23-04.17.14:274][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.11.23-04.17.14:274][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.23-04.17.14:274][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2021.11.23-04.17.14:274][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2021.11.23-04.17.14:275][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.11.23-04.17.14:275][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.23-04.17.14:275][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.11.23-04.17.14:275][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.23-04.17.14:275][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2021.11.23-04.17.14:275][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2021.11.23-04.17.14:290][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.11.23-04.17.14:290][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.23-04.17.14:290][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.11.23-04.17.14:290][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.23-04.17.14:290][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2021.11.23-04.17.14:290][  0]LogPakFile: OnPakFileMounted2Time == 0.000063
+[2021.11.23-04.17.14:301][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.11.23-04.17.14:301][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.23-04.17.14:301][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.11.23-04.17.14:301][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.23-04.17.14:301][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2021.11.23-04.17.14:301][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2021.11.23-04.17.14:304][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.11.23-04.17.14:304][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.23-04.17.14:304][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.11.23-04.17.14:304][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.23-04.17.14:304][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2021.11.23-04.17.14:304][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2021.11.23-04.17.14:307][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.11.23-04.17.14:307][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.23-04.17.14:307][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.11.23-04.17.14:307][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.23-04.17.14:307][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2021.11.23-04.17.14:307][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2021.11.23-04.17.14:310][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.11.23-04.17.14:310][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.23-04.17.14:310][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.11.23-04.17.14:310][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.23-04.17.14:310][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2021.11.23-04.17.14:310][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2021.11.23-04.17.16:516][  0]LogSlate: Took 0.000427 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.11.23-04.17.16:585][  0]LogSlate: Took 0.021927 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.11.23-04.17.16:636][  0]LogSlate: Took 0.000234 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.11.23-04.17.17:888][  0]LogRenderer: Reallocating scene render targets to support 1280x572 Format 10 NumSamples 1 (Frame:1).
+[2021.11.23-04.17.19:285][  0]LogSlate: Took 0.072730 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.11.23-04.17.19:709][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Back_Click.
+[2021.11.23-04.17.19:709][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2021.11.23-04.17.19:709][  0]LogLoad: (Engine Initialization) Total time: 15.62 seconds
+[2021.11.23-04.17.19:709][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.11.23-04.17.19:893][  0]LogEditorViewport: Clicking Background
+[2021.11.23-04.17.19:986][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0427 seconds. Added 3822 classes and 928 folders.
+[2021.11.23-04.17.20:179][  0]LogAssetRegistry: Asset discovery search completed in 12.7760 seconds
+[2021.11.23-04.17.20:184][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2021.11.23-04.17.20:226][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.11.23-04.17.20:774][  8]LogSlate: Took 0.000247 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.11.23-04.17.46:092][541]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Jeremy\Documents\ODD\villageVibes\BUTCHERshop.fbx)
+[2021.11.23-04.17.46:262][541]LogFbx: Loading FBX Scene from C:\Users\Jeremy\Documents\ODD\villageVibes\BUTCHERshop.fbx
+[2021.11.23-04.17.46:289][541]LogFbx: FBX Scene Loaded Succesfully
+[2021.11.23-04.17.59:560][541]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.11.23-04.18.00:108][541]LogFbx: Display: Triangulating static mesh Cube
+[2021.11.23-04.18.00:143][541]LogStaticMesh: Building static mesh BUTCHERshop_Cube...
+[2021.11.23-04.18.00:178][541]LogStaticMesh: Built static mesh [0.04s] /Game/Main/Maps/BUILDINGS/BUTCHERshop_Cube.BUTCHERshop_Cube
+[2021.11.23-04.18.00:222][541]LogFbx: Display: Triangulating static mesh Cube.001
+[2021.11.23-04.18.00:225][541]LogStaticMesh: Building static mesh BUTCHERshop_Cube_001...
+[2021.11.23-04.18.00:227][541]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/BUTCHERshop_Cube_001.BUTCHERshop_Cube_001
+[2021.11.23-04.18.00:231][541]LogFbx: Display: Triangulating static mesh Cube.003
+[2021.11.23-04.18.00:234][541]LogStaticMesh: Building static mesh BUTCHERshop_Cube_003...
+[2021.11.23-04.18.00:236][541]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/BUTCHERshop_Cube_003.BUTCHERshop_Cube_003
+[2021.11.23-04.18.00:241][541]LogFbx: Display: Triangulating static mesh Cube.004
+[2021.11.23-04.18.00:244][541]LogStaticMesh: Building static mesh BUTCHERshop_Cube_004...
+[2021.11.23-04.18.00:245][541]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/BUTCHERshop_Cube_004.BUTCHERshop_Cube_004
+[2021.11.23-04.18.00:250][541]LogFbx: Display: Triangulating static mesh Cube.005
+[2021.11.23-04.18.00:253][541]LogStaticMesh: Building static mesh BUTCHERshop_Cube_005...
+[2021.11.23-04.18.00:254][541]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/BUTCHERshop_Cube_005.BUTCHERshop_Cube_005
+[2021.11.23-04.18.00:258][541]LogFbx: Display: Triangulating static mesh Cube.006
+[2021.11.23-04.18.00:262][541]LogStaticMesh: Building static mesh BUTCHERshop_Cube_006...
+[2021.11.23-04.18.00:264][541]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/BUTCHERshop_Cube_006.BUTCHERshop_Cube_006
+[2021.11.23-04.18.00:268][541]LogFbx: Display: Triangulating static mesh Cube.007
+[2021.11.23-04.18.00:271][541]LogStaticMesh: Building static mesh BUTCHERshop_Cube_007...
+[2021.11.23-04.18.00:273][541]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/BUTCHERshop_Cube_007.BUTCHERshop_Cube_007
+[2021.11.23-04.18.00:277][541]LogFbx: Display: Triangulating static mesh Cube.008
+[2021.11.23-04.18.00:281][541]LogStaticMesh: Building static mesh BUTCHERshop_Cube_008...
+[2021.11.23-04.18.00:282][541]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/BUTCHERshop_Cube_008.BUTCHERshop_Cube_008
+[2021.11.23-04.18.00:286][541]LogFbx: Display: Triangulating static mesh Cube.009
+[2021.11.23-04.18.00:290][541]LogStaticMesh: Building static mesh BUTCHERshop_Cube_009...
+[2021.11.23-04.18.00:291][541]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/BUTCHERshop_Cube_009.BUTCHERshop_Cube_009
+[2021.11.23-04.18.00:296][541]LogFbx: Display: Triangulating static mesh Cube.002
+[2021.11.23-04.18.00:302][541]LogStaticMesh: Building static mesh BUTCHERshop_Cube_002...
+[2021.11.23-04.18.00:304][541]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/BUTCHERshop_Cube_002.BUTCHERshop_Cube_002
+[2021.11.23-04.18.00:326][541]LogFbx: Display: Triangulating static mesh Cube.010
+[2021.11.23-04.18.00:330][541]LogStaticMesh: Building static mesh BUTCHERshop_Cube_010...
+[2021.11.23-04.18.00:331][541]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/BUTCHERshop_Cube_010.BUTCHERshop_Cube_010
+[2021.11.23-04.18.00:335][541]LogFbx: Display: Triangulating static mesh Cube.011
+[2021.11.23-04.18.00:339][541]LogStaticMesh: Building static mesh BUTCHERshop_Cube_011...
+[2021.11.23-04.18.00:341][541]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/BUTCHERshop_Cube_011.BUTCHERshop_Cube_011
+[2021.11.23-04.18.00:345][541]LogFbx: Display: Triangulating static mesh Cube.012
+[2021.11.23-04.18.00:348][541]LogStaticMesh: Building static mesh BUTCHERshop_Cube_012...
+[2021.11.23-04.18.00:350][541]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/BUTCHERshop_Cube_012.BUTCHERshop_Cube_012
+[2021.11.23-04.18.00:354][541]LogFbx: Display: Triangulating static mesh Cube.013
+[2021.11.23-04.18.00:357][541]LogStaticMesh: Building static mesh BUTCHERshop_Cube_013...
+[2021.11.23-04.18.00:359][541]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/BUTCHERshop_Cube_013.BUTCHERshop_Cube_013
+[2021.11.23-04.18.00:363][541]LogFbx: Display: Triangulating static mesh Cube.014
+[2021.11.23-04.18.00:367][541]LogStaticMesh: Building static mesh BUTCHERshop_Cube_014...
+[2021.11.23-04.18.00:368][541]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/BUTCHERshop_Cube_014.BUTCHERshop_Cube_014
+[2021.11.23-04.18.00:372][541]LogFbx: Display: Triangulating static mesh Cube.015
+[2021.11.23-04.18.00:375][541]LogStaticMesh: Building static mesh BUTCHERshop_Cube_015...
+[2021.11.23-04.18.00:377][541]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/BUTCHERshop_Cube_015.BUTCHERshop_Cube_015
+[2021.11.23-04.18.00:382][541]LogFbx: Display: Triangulating static mesh Cube.016
+[2021.11.23-04.18.00:385][541]LogStaticMesh: Building static mesh BUTCHERshop_Cube_016...
+[2021.11.23-04.18.00:387][541]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/BUTCHERshop_Cube_016.BUTCHERshop_Cube_016
+[2021.11.23-04.18.00:390][541]LogFbx: Display: Triangulating static mesh Cube.017
+[2021.11.23-04.18.00:394][541]LogStaticMesh: Building static mesh BUTCHERshop_Cube_017...
+[2021.11.23-04.18.00:396][541]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/BUTCHERshop_Cube_017.BUTCHERshop_Cube_017
+[2021.11.23-04.18.00:400][541]LogFbx: Display: Triangulating static mesh Cube.018
+[2021.11.23-04.18.00:405][541]LogStaticMesh: Building static mesh BUTCHERshop_Cube_018...
+[2021.11.23-04.18.00:406][541]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/BUTCHERshop_Cube_018.BUTCHERshop_Cube_018
+[2021.11.23-04.18.00:410][541]LogFbx: Display: Triangulating static mesh Cube.019
+[2021.11.23-04.18.00:414][541]LogStaticMesh: Building static mesh BUTCHERshop_Cube_019...
+[2021.11.23-04.18.00:415][541]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/BUTCHERshop_Cube_019.BUTCHERshop_Cube_019
+[2021.11.23-04.18.00:419][541]LogFbx: Display: Triangulating static mesh Cube.020
+[2021.11.23-04.18.00:422][541]LogStaticMesh: Building static mesh BUTCHERshop_Cube_020...
+[2021.11.23-04.18.00:424][541]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/BUTCHERshop_Cube_020.BUTCHERshop_Cube_020
+[2021.11.23-04.18.00:428][541]LogFbx: Display: Triangulating static mesh Cube.021
+[2021.11.23-04.18.00:431][541]LogStaticMesh: Building static mesh BUTCHERshop_Cube_021...
+[2021.11.23-04.18.00:433][541]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/BUTCHERshop_Cube_021.BUTCHERshop_Cube_021
+[2021.11.23-04.18.00:438][541]LogFbx: Display: Triangulating static mesh Cube.036
+[2021.11.23-04.18.00:441][541]LogStaticMesh: Building static mesh BUTCHERshop_Cube_036...
+[2021.11.23-04.18.00:443][541]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/BUTCHERshop_Cube_036.BUTCHERshop_Cube_036
+[2021.11.23-04.18.00:446][541]LogFbx: Display: Triangulating static mesh Plane
+[2021.11.23-04.18.00:447][541]LogStaticMesh: Building static mesh BUTCHERshop_Plane...
+[2021.11.23-04.18.00:448][541]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/BUTCHERshop_Plane.BUTCHERshop_Plane
+[2021.11.23-04.18.00:448][541]LogStaticMesh: Warning: BUTCHERshop_Plane has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.11.23-04.18.00:449][541]LogStaticMesh: Warning: BUTCHERshop_Plane has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.11.23-04.18.00:452][541]LogFbx: Display: Triangulating static mesh Plane.001
+[2021.11.23-04.18.00:454][541]LogStaticMesh: Building static mesh BUTCHERshop_Plane_001...
+[2021.11.23-04.18.00:456][541]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/BUTCHERshop_Plane_001.BUTCHERshop_Plane_001
+[2021.11.23-04.18.00:456][541]LogStaticMesh: Warning: BUTCHERshop_Plane_001 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2021.11.23-04.18.00:456][541]LogStaticMesh: Warning: BUTCHERshop_Plane_001 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.11.23-04.18.00:459][541]LogFbx: Display: Triangulating static mesh Plane.002
+[2021.11.23-04.18.00:463][541]LogStaticMesh: Building static mesh BUTCHERshop_Plane_002...
+[2021.11.23-04.18.00:464][541]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/BUTCHERshop_Plane_002.BUTCHERshop_Plane_002
+[2021.11.23-04.18.00:468][541]LogFbx: Display: Triangulating static mesh Plane.003
+[2021.11.23-04.18.00:469][541]LogStaticMesh: Building static mesh BUTCHERshop_Plane_003...
+[2021.11.23-04.18.00:469][541]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/BUTCHERshop_Plane_003.BUTCHERshop_Plane_003
+[2021.11.23-04.18.00:472][541]LogFbx: Display: Triangulating static mesh Plane.004
+[2021.11.23-04.18.00:474][541]LogStaticMesh: Building static mesh BUTCHERshop_Plane_004...
+[2021.11.23-04.18.00:475][541]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/BUTCHERshop_Plane_004.BUTCHERshop_Plane_004
+[2021.11.23-04.18.00:478][541]LogFbx: Display: Triangulating static mesh Plane.005
+[2021.11.23-04.18.00:479][541]LogStaticMesh: Building static mesh BUTCHERshop_Plane_005...
+[2021.11.23-04.18.00:480][541]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/BUTCHERshop_Plane_005.BUTCHERshop_Plane_005
+[2021.11.23-04.18.00:484][541]LogFbx: Display: Triangulating static mesh Cube.022
+[2021.11.23-04.18.00:487][541]LogStaticMesh: Building static mesh BUTCHERshop_Cube_022...
+[2021.11.23-04.18.00:489][541]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/BUTCHERshop_Cube_022.BUTCHERshop_Cube_022
+[2021.11.23-04.18.00:493][541]LogFbx: Display: Triangulating static mesh Cube.023
+[2021.11.23-04.18.00:496][541]LogStaticMesh: Building static mesh BUTCHERshop_Cube_023...
+[2021.11.23-04.18.00:498][541]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/BUTCHERshop_Cube_023.BUTCHERshop_Cube_023
+[2021.11.23-04.18.00:514][541]LogFbx: Display: Triangulating static mesh Cube.024
+[2021.11.23-04.18.00:517][541]LogStaticMesh: Building static mesh BUTCHERshop_Cube_024...
+[2021.11.23-04.18.00:519][541]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/BUTCHERshop_Cube_024.BUTCHERshop_Cube_024
+[2021.11.23-04.18.00:523][541]LogFbx: Display: Triangulating static mesh Cube.025
+[2021.11.23-04.18.00:528][541]LogStaticMesh: Building static mesh BUTCHERshop_Cube_025...
+[2021.11.23-04.18.00:533][541]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/BUTCHERshop_Cube_025.BUTCHERshop_Cube_025
+[2021.11.23-04.18.00:585][541]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.11.23-04.18.00:585][541]FBXImport: Warning: BUTCHERshop_Plane has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2021.11.23-04.18.00:585][541]FBXImport: Warning: BUTCHERshop_Plane has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2021.11.23-04.18.00:585][541]FBXImport: Warning: BUTCHERshop_Plane_001 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4) 
+[2021.11.23-04.18.00:585][541]FBXImport: Warning: BUTCHERshop_Plane_001 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2021.11.23-04.18.00:778][541]LogSlate: Took 0.021538 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.11.23-04.18.04:092][921]LogSlate: Window 'Message Log' being destroyed
+[2021.11.23-04.18.04:096][921]LogSlate: Window 'Message Log' being destroyed
+[2021.11.23-04.18.17:321][143]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2021.11.23-04.18.18:948][143]LogSlate: Window 'Delete Assets' being destroyed
+[2021.11.23-04.18.19:047][143]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.11.23-04.18.22:765][497]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Jeremy\Documents\ODD\villageVibes\BUTCHERshop.fbx)
+[2021.11.23-04.18.22:772][497]LogFbx: Loading FBX Scene from C:\Users\Jeremy\Documents\ODD\villageVibes\BUTCHERshop.fbx
+[2021.11.23-04.18.22:787][497]LogFbx: FBX Scene Loaded Succesfully
+[2021.11.23-04.18.26:236][497]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.11.23-04.18.26:247][497]LogFbx: Display: Triangulating static mesh Cube
+[2021.11.23-04.18.26:251][497]LogStaticMesh: Building static mesh BUTCHERshop_Cube...
+[2021.11.23-04.18.26:252][497]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/BUTCHERshop_Cube.BUTCHERshop_Cube
+[2021.11.23-04.18.26:256][497]LogFbx: Display: Triangulating static mesh Cube.001
+[2021.11.23-04.18.26:260][497]LogStaticMesh: Building static mesh BUTCHERshop_Cube_001...
+[2021.11.23-04.18.26:261][497]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/BUTCHERshop_Cube_001.BUTCHERshop_Cube_001
+[2021.11.23-04.18.26:265][497]LogFbx: Display: Triangulating static mesh Cube.003
+[2021.11.23-04.18.26:269][497]LogStaticMesh: Building static mesh BUTCHERshop_Cube_003...
+[2021.11.23-04.18.26:270][497]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/BUTCHERshop_Cube_003.BUTCHERshop_Cube_003
+[2021.11.23-04.18.26:274][497]LogFbx: Display: Triangulating static mesh Cube.004
+[2021.11.23-04.18.26:278][497]LogStaticMesh: Building static mesh BUTCHERshop_Cube_004...
+[2021.11.23-04.18.26:279][497]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/BUTCHERshop_Cube_004.BUTCHERshop_Cube_004
+[2021.11.23-04.18.26:283][497]LogFbx: Display: Triangulating static mesh Cube.005
+[2021.11.23-04.18.26:287][497]LogStaticMesh: Building static mesh BUTCHERshop_Cube_005...
+[2021.11.23-04.18.26:288][497]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/BUTCHERshop_Cube_005.BUTCHERshop_Cube_005
+[2021.11.23-04.18.26:292][497]LogFbx: Display: Triangulating static mesh Cube.006
+[2021.11.23-04.18.26:296][497]LogStaticMesh: Building static mesh BUTCHERshop_Cube_006...
+[2021.11.23-04.18.26:297][497]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/BUTCHERshop_Cube_006.BUTCHERshop_Cube_006
+[2021.11.23-04.18.26:301][497]LogFbx: Display: Triangulating static mesh Cube.007
+[2021.11.23-04.18.26:304][497]LogStaticMesh: Building static mesh BUTCHERshop_Cube_007...
+[2021.11.23-04.18.26:305][497]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/BUTCHERshop_Cube_007.BUTCHERshop_Cube_007
+[2021.11.23-04.18.26:309][497]LogFbx: Display: Triangulating static mesh Cube.008
+[2021.11.23-04.18.26:313][497]LogStaticMesh: Building static mesh BUTCHERshop_Cube_008...
+[2021.11.23-04.18.26:314][497]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/BUTCHERshop_Cube_008.BUTCHERshop_Cube_008
+[2021.11.23-04.18.26:319][497]LogFbx: Display: Triangulating static mesh Cube.009
+[2021.11.23-04.18.26:322][497]LogStaticMesh: Building static mesh BUTCHERshop_Cube_009...
+[2021.11.23-04.18.26:324][497]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/BUTCHERshop_Cube_009.BUTCHERshop_Cube_009
+[2021.11.23-04.18.26:328][497]LogFbx: Display: Triangulating static mesh Cube.002
+[2021.11.23-04.18.26:331][497]LogStaticMesh: Building static mesh BUTCHERshop_Cube_002...
+[2021.11.23-04.18.26:332][497]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/BUTCHERshop_Cube_002.BUTCHERshop_Cube_002
+[2021.11.23-04.18.26:337][497]LogFbx: Display: Triangulating static mesh Cube.010
+[2021.11.23-04.18.26:340][497]LogStaticMesh: Building static mesh BUTCHERshop_Cube_010...
+[2021.11.23-04.18.26:342][497]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/BUTCHERshop_Cube_010.BUTCHERshop_Cube_010
+[2021.11.23-04.18.26:346][497]LogFbx: Display: Triangulating static mesh Cube.011
+[2021.11.23-04.18.26:350][497]LogStaticMesh: Building static mesh BUTCHERshop_Cube_011...
+[2021.11.23-04.18.26:352][497]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/BUTCHERshop_Cube_011.BUTCHERshop_Cube_011
+[2021.11.23-04.18.26:356][497]LogFbx: Display: Triangulating static mesh Cube.012
+[2021.11.23-04.18.26:359][497]LogStaticMesh: Building static mesh BUTCHERshop_Cube_012...
+[2021.11.23-04.18.26:361][497]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/BUTCHERshop_Cube_012.BUTCHERshop_Cube_012
+[2021.11.23-04.18.26:365][497]LogFbx: Display: Triangulating static mesh Cube.013
+[2021.11.23-04.18.26:368][497]LogStaticMesh: Building static mesh BUTCHERshop_Cube_013...
+[2021.11.23-04.18.26:369][497]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/BUTCHERshop_Cube_013.BUTCHERshop_Cube_013
+[2021.11.23-04.18.26:374][497]LogFbx: Display: Triangulating static mesh Cube.014
+[2021.11.23-04.18.26:377][497]LogStaticMesh: Building static mesh BUTCHERshop_Cube_014...
+[2021.11.23-04.18.26:378][497]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/BUTCHERshop_Cube_014.BUTCHERshop_Cube_014
+[2021.11.23-04.18.26:382][497]LogFbx: Display: Triangulating static mesh Cube.015
+[2021.11.23-04.18.26:386][497]LogStaticMesh: Building static mesh BUTCHERshop_Cube_015...
+[2021.11.23-04.18.26:387][497]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/BUTCHERshop_Cube_015.BUTCHERshop_Cube_015
+[2021.11.23-04.18.26:391][497]LogFbx: Display: Triangulating static mesh Cube.016
+[2021.11.23-04.18.26:395][497]LogStaticMesh: Building static mesh BUTCHERshop_Cube_016...
+[2021.11.23-04.18.26:396][497]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/BUTCHERshop_Cube_016.BUTCHERshop_Cube_016
+[2021.11.23-04.18.26:400][497]LogFbx: Display: Triangulating static mesh Cube.017
+[2021.11.23-04.18.26:404][497]LogStaticMesh: Building static mesh BUTCHERshop_Cube_017...
+[2021.11.23-04.18.26:406][497]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/BUTCHERshop_Cube_017.BUTCHERshop_Cube_017
+[2021.11.23-04.18.26:409][497]LogFbx: Display: Triangulating static mesh Cube.018
+[2021.11.23-04.18.26:413][497]LogStaticMesh: Building static mesh BUTCHERshop_Cube_018...
+[2021.11.23-04.18.26:414][497]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/BUTCHERshop_Cube_018.BUTCHERshop_Cube_018
+[2021.11.23-04.18.26:418][497]LogFbx: Display: Triangulating static mesh Cube.019
+[2021.11.23-04.18.26:421][497]LogStaticMesh: Building static mesh BUTCHERshop_Cube_019...
+[2021.11.23-04.18.26:423][497]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/BUTCHERshop_Cube_019.BUTCHERshop_Cube_019
+[2021.11.23-04.18.26:426][497]LogFbx: Display: Triangulating static mesh Cube.020
+[2021.11.23-04.18.26:430][497]LogStaticMesh: Building static mesh BUTCHERshop_Cube_020...
+[2021.11.23-04.18.26:431][497]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/BUTCHERshop_Cube_020.BUTCHERshop_Cube_020
+[2021.11.23-04.18.26:437][497]LogFbx: Display: Triangulating static mesh Cube.021
+[2021.11.23-04.18.26:440][497]LogStaticMesh: Building static mesh BUTCHERshop_Cube_021...
+[2021.11.23-04.18.26:442][497]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/BUTCHERshop_Cube_021.BUTCHERshop_Cube_021
+[2021.11.23-04.18.26:456][497]LogFbx: Display: Triangulating static mesh Cube.036
+[2021.11.23-04.18.26:459][497]LogStaticMesh: Building static mesh BUTCHERshop_Cube_036...
+[2021.11.23-04.18.26:461][497]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/BUTCHERshop_Cube_036.BUTCHERshop_Cube_036
+[2021.11.23-04.18.26:465][497]LogFbx: Display: Triangulating static mesh Plane
+[2021.11.23-04.18.26:466][497]LogStaticMesh: Building static mesh BUTCHERshop_Plane...
+[2021.11.23-04.18.26:466][497]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/BUTCHERshop_Plane.BUTCHERshop_Plane
+[2021.11.23-04.18.26:467][497]LogStaticMesh: Warning: BUTCHERshop_Plane has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.11.23-04.18.26:467][497]LogStaticMesh: Warning: BUTCHERshop_Plane has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.11.23-04.18.26:470][497]LogFbx: Display: Triangulating static mesh Plane.001
+[2021.11.23-04.18.26:472][497]LogStaticMesh: Building static mesh BUTCHERshop_Plane_001...
+[2021.11.23-04.18.26:474][497]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/BUTCHERshop_Plane_001.BUTCHERshop_Plane_001
+[2021.11.23-04.18.26:474][497]LogStaticMesh: Warning: BUTCHERshop_Plane_001 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2021.11.23-04.18.26:474][497]LogStaticMesh: Warning: BUTCHERshop_Plane_001 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.11.23-04.18.26:478][497]LogFbx: Display: Triangulating static mesh Plane.002
+[2021.11.23-04.18.26:481][497]LogStaticMesh: Building static mesh BUTCHERshop_Plane_002...
+[2021.11.23-04.18.26:483][497]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/BUTCHERshop_Plane_002.BUTCHERshop_Plane_002
+[2021.11.23-04.18.26:486][497]LogFbx: Display: Triangulating static mesh Plane.003
+[2021.11.23-04.18.26:487][497]LogStaticMesh: Building static mesh BUTCHERshop_Plane_003...
+[2021.11.23-04.18.26:488][497]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/BUTCHERshop_Plane_003.BUTCHERshop_Plane_003
+[2021.11.23-04.18.26:491][497]LogFbx: Display: Triangulating static mesh Plane.004
+[2021.11.23-04.18.26:492][497]LogStaticMesh: Building static mesh BUTCHERshop_Plane_004...
+[2021.11.23-04.18.26:493][497]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/BUTCHERshop_Plane_004.BUTCHERshop_Plane_004
+[2021.11.23-04.18.26:497][497]LogFbx: Display: Triangulating static mesh Plane.005
+[2021.11.23-04.18.26:497][497]LogStaticMesh: Building static mesh BUTCHERshop_Plane_005...
+[2021.11.23-04.18.26:498][497]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/BUTCHERshop_Plane_005.BUTCHERshop_Plane_005
+[2021.11.23-04.18.26:502][497]LogFbx: Display: Triangulating static mesh Cube.022
+[2021.11.23-04.18.26:506][497]LogStaticMesh: Building static mesh BUTCHERshop_Cube_022...
+[2021.11.23-04.18.26:507][497]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/BUTCHERshop_Cube_022.BUTCHERshop_Cube_022
+[2021.11.23-04.18.26:511][497]LogFbx: Display: Triangulating static mesh Cube.023
+[2021.11.23-04.18.26:515][497]LogStaticMesh: Building static mesh BUTCHERshop_Cube_023...
+[2021.11.23-04.18.26:516][497]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/BUTCHERshop_Cube_023.BUTCHERshop_Cube_023
+[2021.11.23-04.18.26:521][497]LogFbx: Display: Triangulating static mesh Cube.024
+[2021.11.23-04.18.26:524][497]LogStaticMesh: Building static mesh BUTCHERshop_Cube_024...
+[2021.11.23-04.18.26:525][497]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/BUTCHERshop_Cube_024.BUTCHERshop_Cube_024
+[2021.11.23-04.18.26:529][497]LogFbx: Display: Triangulating static mesh Cube.025
+[2021.11.23-04.18.26:534][497]LogStaticMesh: Building static mesh BUTCHERshop_Cube_025...
+[2021.11.23-04.18.26:539][497]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/BUTCHERshop_Cube_025.BUTCHERshop_Cube_025
+[2021.11.23-04.18.26:574][497]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.11.23-04.18.26:574][497]FBXImport: Warning: BUTCHERshop_Plane has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2021.11.23-04.18.26:574][497]FBXImport: Warning: BUTCHERshop_Plane has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2021.11.23-04.18.26:574][497]FBXImport: Warning: BUTCHERshop_Plane_001 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4) 
+[2021.11.23-04.18.26:574][497]FBXImport: Warning: BUTCHERshop_Plane_001 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2021.11.23-04.18.31:350][ 48]LogSlate: Window 'Message Log' being destroyed
+[2021.11.23-04.18.31:354][ 48]LogSlate: Window 'Message Log' being destroyed
+[2021.11.23-04.18.40:846][942]LogEditorViewport: Clicking Background
+[2021.11.23-04.18.45:424][373]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.11.23-04.18.46:854][373]LogSlate: Window 'Delete Assets' being destroyed
+[2021.11.23-04.18.46:907][373]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2021.11.23-04.18.50:057][707]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Jeremy\Documents\ODD\villageVibes\BUTCHERshop.fbx)
+[2021.11.23-04.18.50:064][707]LogFbx: Loading FBX Scene from C:\Users\Jeremy\Documents\ODD\villageVibes\BUTCHERshop.fbx
+[2021.11.23-04.18.50:079][707]LogFbx: FBX Scene Loaded Succesfully
+[2021.11.23-04.20.02:331][707]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.11.23-04.20.02:451][707]LogMaterial: Display: Missing cached shadermap for Material in PCD3D_SM5, Default, SM5 (DDC key hash: B42BC0CDD966F1E6CEEA036719390DAACCD078E6), compiling. 
+[2021.11.23-04.20.02:684][707]LogFbx: Display: Triangulating static mesh Cube
+[2021.11.23-04.20.02:710][707]LogStaticMesh: Building static mesh BUTCHERshop_Cube...
+[2021.11.23-04.20.02:711][707]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/BUTCHERshop_Cube.BUTCHERshop_Cube
+[2021.11.23-04.20.02:715][707]LogFbx: Display: Triangulating static mesh Cube.001
+[2021.11.23-04.20.02:720][707]LogStaticMesh: Building static mesh BUTCHERshop_Cube_001...
+[2021.11.23-04.20.02:721][707]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/BUTCHERshop_Cube_001.BUTCHERshop_Cube_001
+[2021.11.23-04.20.02:726][707]LogFbx: Display: Triangulating static mesh Cube.003
+[2021.11.23-04.20.02:730][707]LogStaticMesh: Building static mesh BUTCHERshop_Cube_003...
+[2021.11.23-04.20.02:731][707]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/BUTCHERshop_Cube_003.BUTCHERshop_Cube_003
+[2021.11.23-04.20.02:735][707]LogFbx: Display: Triangulating static mesh Cube.004
+[2021.11.23-04.20.02:739][707]LogStaticMesh: Building static mesh BUTCHERshop_Cube_004...
+[2021.11.23-04.20.02:741][707]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/BUTCHERshop_Cube_004.BUTCHERshop_Cube_004
+[2021.11.23-04.20.02:745][707]LogFbx: Display: Triangulating static mesh Cube.005
+[2021.11.23-04.20.02:749][707]LogStaticMesh: Building static mesh BUTCHERshop_Cube_005...
+[2021.11.23-04.20.02:750][707]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/BUTCHERshop_Cube_005.BUTCHERshop_Cube_005
+[2021.11.23-04.20.02:754][707]LogFbx: Display: Triangulating static mesh Cube.006
+[2021.11.23-04.20.02:758][707]LogStaticMesh: Building static mesh BUTCHERshop_Cube_006...
+[2021.11.23-04.20.02:760][707]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/BUTCHERshop_Cube_006.BUTCHERshop_Cube_006
+[2021.11.23-04.20.02:764][707]LogFbx: Display: Triangulating static mesh Cube.007
+[2021.11.23-04.20.02:768][707]LogStaticMesh: Building static mesh BUTCHERshop_Cube_007...
+[2021.11.23-04.20.02:769][707]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/BUTCHERshop_Cube_007.BUTCHERshop_Cube_007
+[2021.11.23-04.20.02:773][707]LogFbx: Display: Triangulating static mesh Cube.008
+[2021.11.23-04.20.02:778][707]LogStaticMesh: Building static mesh BUTCHERshop_Cube_008...
+[2021.11.23-04.20.02:779][707]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/BUTCHERshop_Cube_008.BUTCHERshop_Cube_008
+[2021.11.23-04.20.02:784][707]LogFbx: Display: Triangulating static mesh Cube.009
+[2021.11.23-04.20.02:788][707]LogStaticMesh: Building static mesh BUTCHERshop_Cube_009...
+[2021.11.23-04.20.02:789][707]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/BUTCHERshop_Cube_009.BUTCHERshop_Cube_009
+[2021.11.23-04.20.02:793][707]LogFbx: Display: Triangulating static mesh Cube.002
+[2021.11.23-04.20.02:797][707]LogStaticMesh: Building static mesh BUTCHERshop_Cube_002...
+[2021.11.23-04.20.02:799][707]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/BUTCHERshop_Cube_002.BUTCHERshop_Cube_002
+[2021.11.23-04.20.02:803][707]LogFbx: Display: Triangulating static mesh Cube.010
+[2021.11.23-04.20.02:807][707]LogStaticMesh: Building static mesh BUTCHERshop_Cube_010...
+[2021.11.23-04.20.02:808][707]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/BUTCHERshop_Cube_010.BUTCHERshop_Cube_010
+[2021.11.23-04.20.02:813][707]LogFbx: Display: Triangulating static mesh Cube.011
+[2021.11.23-04.20.02:817][707]LogStaticMesh: Building static mesh BUTCHERshop_Cube_011...
+[2021.11.23-04.20.02:818][707]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/BUTCHERshop_Cube_011.BUTCHERshop_Cube_011
+[2021.11.23-04.20.02:823][707]LogFbx: Display: Triangulating static mesh Cube.012
+[2021.11.23-04.20.02:827][707]LogStaticMesh: Building static mesh BUTCHERshop_Cube_012...
+[2021.11.23-04.20.02:828][707]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/BUTCHERshop_Cube_012.BUTCHERshop_Cube_012
+[2021.11.23-04.20.02:832][707]LogFbx: Display: Triangulating static mesh Cube.013
+[2021.11.23-04.20.02:836][707]LogStaticMesh: Building static mesh BUTCHERshop_Cube_013...
+[2021.11.23-04.20.02:837][707]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/BUTCHERshop_Cube_013.BUTCHERshop_Cube_013
+[2021.11.23-04.20.02:840][707]LogFbx: Display: Triangulating static mesh Cube.014
+[2021.11.23-04.20.02:844][707]LogStaticMesh: Building static mesh BUTCHERshop_Cube_014...
+[2021.11.23-04.20.02:846][707]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/BUTCHERshop_Cube_014.BUTCHERshop_Cube_014
+[2021.11.23-04.20.02:850][707]LogFbx: Display: Triangulating static mesh Cube.015
+[2021.11.23-04.20.02:854][707]LogStaticMesh: Building static mesh BUTCHERshop_Cube_015...
+[2021.11.23-04.20.02:855][707]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/BUTCHERshop_Cube_015.BUTCHERshop_Cube_015
+[2021.11.23-04.20.02:859][707]LogFbx: Display: Triangulating static mesh Cube.016
+[2021.11.23-04.20.02:864][707]LogStaticMesh: Building static mesh BUTCHERshop_Cube_016...
+[2021.11.23-04.20.02:866][707]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/BUTCHERshop_Cube_016.BUTCHERshop_Cube_016
+[2021.11.23-04.20.02:870][707]LogFbx: Display: Triangulating static mesh Cube.017
+[2021.11.23-04.20.02:874][707]LogStaticMesh: Building static mesh BUTCHERshop_Cube_017...
+[2021.11.23-04.20.02:875][707]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/BUTCHERshop_Cube_017.BUTCHERshop_Cube_017
+[2021.11.23-04.20.02:881][707]LogFbx: Display: Triangulating static mesh Cube.018
+[2021.11.23-04.20.02:885][707]LogStaticMesh: Building static mesh BUTCHERshop_Cube_018...
+[2021.11.23-04.20.02:886][707]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/BUTCHERshop_Cube_018.BUTCHERshop_Cube_018
+[2021.11.23-04.20.02:895][707]LogFbx: Display: Triangulating static mesh Cube.019
+[2021.11.23-04.20.02:898][707]LogStaticMesh: Building static mesh BUTCHERshop_Cube_019...
+[2021.11.23-04.20.02:900][707]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/BUTCHERshop_Cube_019.BUTCHERshop_Cube_019
+[2021.11.23-04.20.02:904][707]LogFbx: Display: Triangulating static mesh Cube.020
+[2021.11.23-04.20.02:908][707]LogStaticMesh: Building static mesh BUTCHERshop_Cube_020...
+[2021.11.23-04.20.02:910][707]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/BUTCHERshop_Cube_020.BUTCHERshop_Cube_020
+[2021.11.23-04.20.02:914][707]LogFbx: Display: Triangulating static mesh Cube.021
+[2021.11.23-04.20.02:918][707]LogStaticMesh: Building static mesh BUTCHERshop_Cube_021...
+[2021.11.23-04.20.02:920][707]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/BUTCHERshop_Cube_021.BUTCHERshop_Cube_021
+[2021.11.23-04.20.02:924][707]LogFbx: Display: Triangulating static mesh Cube.036
+[2021.11.23-04.20.02:928][707]LogStaticMesh: Building static mesh BUTCHERshop_Cube_036...
+[2021.11.23-04.20.02:929][707]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/BUTCHERshop_Cube_036.BUTCHERshop_Cube_036
+[2021.11.23-04.20.02:933][707]LogFbx: Display: Triangulating static mesh Plane
+[2021.11.23-04.20.02:934][707]LogStaticMesh: Building static mesh BUTCHERshop_Plane...
+[2021.11.23-04.20.02:935][707]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/BUTCHERshop_Plane.BUTCHERshop_Plane
+[2021.11.23-04.20.02:935][707]LogStaticMesh: Warning: BUTCHERshop_Plane has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.11.23-04.20.02:935][707]LogStaticMesh: Warning: BUTCHERshop_Plane has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.11.23-04.20.02:938][707]LogFbx: Display: Triangulating static mesh Plane.001
+[2021.11.23-04.20.02:941][707]LogStaticMesh: Building static mesh BUTCHERshop_Plane_001...
+[2021.11.23-04.20.02:942][707]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/BUTCHERshop_Plane_001.BUTCHERshop_Plane_001
+[2021.11.23-04.20.02:942][707]LogStaticMesh: Warning: BUTCHERshop_Plane_001 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2021.11.23-04.20.02:942][707]LogStaticMesh: Warning: BUTCHERshop_Plane_001 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.11.23-04.20.02:946][707]LogFbx: Display: Triangulating static mesh Plane.002
+[2021.11.23-04.20.02:950][707]LogStaticMesh: Building static mesh BUTCHERshop_Plane_002...
+[2021.11.23-04.20.02:951][707]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/BUTCHERshop_Plane_002.BUTCHERshop_Plane_002
+[2021.11.23-04.20.02:955][707]LogFbx: Display: Triangulating static mesh Plane.003
+[2021.11.23-04.20.02:956][707]LogStaticMesh: Building static mesh BUTCHERshop_Plane_003...
+[2021.11.23-04.20.02:956][707]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/BUTCHERshop_Plane_003.BUTCHERshop_Plane_003
+[2021.11.23-04.20.02:960][707]LogFbx: Display: Triangulating static mesh Plane.004
+[2021.11.23-04.20.02:962][707]LogStaticMesh: Building static mesh BUTCHERshop_Plane_004...
+[2021.11.23-04.20.02:962][707]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/BUTCHERshop_Plane_004.BUTCHERshop_Plane_004
+[2021.11.23-04.20.02:965][707]LogFbx: Display: Triangulating static mesh Plane.005
+[2021.11.23-04.20.02:966][707]LogStaticMesh: Building static mesh BUTCHERshop_Plane_005...
+[2021.11.23-04.20.02:967][707]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/BUTCHERshop_Plane_005.BUTCHERshop_Plane_005
+[2021.11.23-04.20.02:971][707]LogFbx: Display: Triangulating static mesh Cube.022
+[2021.11.23-04.20.02:976][707]LogStaticMesh: Building static mesh BUTCHERshop_Cube_022...
+[2021.11.23-04.20.02:977][707]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/BUTCHERshop_Cube_022.BUTCHERshop_Cube_022
+[2021.11.23-04.20.02:981][707]LogFbx: Display: Triangulating static mesh Cube.023
+[2021.11.23-04.20.02:985][707]LogStaticMesh: Building static mesh BUTCHERshop_Cube_023...
+[2021.11.23-04.20.02:986][707]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/BUTCHERshop_Cube_023.BUTCHERshop_Cube_023
+[2021.11.23-04.20.02:990][707]LogFbx: Display: Triangulating static mesh Cube.024
+[2021.11.23-04.20.02:994][707]LogStaticMesh: Building static mesh BUTCHERshop_Cube_024...
+[2021.11.23-04.20.02:995][707]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/BUTCHERshop_Cube_024.BUTCHERshop_Cube_024
+[2021.11.23-04.20.03:000][707]LogMaterial: Display: Missing cached shadermap for Material_001 in PCD3D_SM5, Default, SM5 (DDC key hash: B7C226FF3108F4FD6EE9FF8534E945306A7657CA), compiling. 
+[2021.11.23-04.20.03:002][707]LogFbx: Display: Triangulating static mesh Cube.025
+[2021.11.23-04.20.03:009][707]LogStaticMesh: Building static mesh BUTCHERshop_Cube_025...
+[2021.11.23-04.20.03:013][707]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/BUTCHERshop_Cube_025.BUTCHERshop_Cube_025
+[2021.11.23-04.20.03:049][707]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.11.23-04.20.03:049][707]FBXImport: Warning: BUTCHERshop_Plane has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2021.11.23-04.20.03:049][707]FBXImport: Warning: BUTCHERshop_Plane has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2021.11.23-04.20.03:049][707]FBXImport: Warning: BUTCHERshop_Plane_001 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4) 
+[2021.11.23-04.20.03:049][707]FBXImport: Warning: BUTCHERshop_Plane_001 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2021.11.23-04.20.03:209][712]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2021.11.23-04.20.03:213][712]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2021.11.23-04.20.03:213][712]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2021.11.23-04.20.03:213][712]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.11.23-04.20.03:254][712]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Normal' priority
+[2021.11.23-04.20.03:260][712]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2021.11.23-04.20.03:268][712]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Normal' priority
+[2021.11.23-04.20.03:334][712]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 2
+[2021.11.23-04.20.03:334][712]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 1
+[2021.11.23-04.20.03:334][712]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 28
+[2021.11.23-04.20.03:334][712]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 25
+[2021.11.23-04.20.03:334][712]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 22
+[2021.11.23-04.20.03:334][712]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 19
+[2021.11.23-04.20.03:334][712]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 16
+[2021.11.23-04.20.03:334][712]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 13
+[2021.11.23-04.20.03:334][712]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 10
+[2021.11.23-04.20.03:334][712]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 7
+[2021.11.23-04.20.03:334][712]LogShaderCompilers: Display: Started 24 'Local' shader compile jobs with 'Normal' priority
+[2021.11.23-04.20.03:334][712]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.11.23-04.20.04:954][887]LogSlate: Window 'Message Log' being destroyed
+[2021.11.23-04.20.04:970][887]LogSlate: Window 'Message Log' being destroyed
+[2021.11.23-04.20.05:333][903]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 4
+[2021.11.23-04.20.05:333][903]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.11.23-04.20.05:406][905]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 3
+[2021.11.23-04.20.05:406][905]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.11.23-04.20.05:501][909]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2021.11.23-04.20.05:501][909]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.11.23-04.20.05:531][910]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 1
+[2021.11.23-04.20.05:531][910]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.11.23-04.20.39:970][303]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.11.23-04.20.41:135][303]LogSlate: Window 'Delete Assets' being destroyed
+[2021.11.23-04.20.41:144][303]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Main/Maps/BUILDINGS/Material_001.Material_001
+[2021.11.23-04.20.43:198][303]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2021.11.23-04.20.44:736][449]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2021.11.23-04.20.46:811][449]LogSlate: Window 'Delete Assets' being destroyed
+[2021.11.23-04.20.46:819][449]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Main/Maps/BUILDINGS/Material.Material
+[2021.11.23-04.20.46:967][449]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.11.23-04.20.55:986][274]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2021.11.23-04.20.57:129][274]LogSlate: Window 'Delete Assets' being destroyed
+[2021.11.23-04.20.57:194][274]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2021.11.23-04.21.01:933][834]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2021.11.23-04.21.02:821][834]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Main/Maps/TestMapMain.TestMapMain
+[2021.11.23-04.21.02:830][834]Cmd: MAP LOAD FILE="C:/Users/Jeremy/Documents/ODD/GitHub/VillageVibes/TakeThree 4.27/Content/Main/Maps/TestMapMain.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.11.23-04.21.02:830][834]LightingResults: New page: Lighting Build
+[2021.11.23-04.21.02:831][834]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'StatsViewer' in 0.0003 seconds. Added 6 classes and 0 folders.
+[2021.11.23-04.21.02:831][834]LoadErrors: New page: Loading map: TestMapMain.umap
+[2021.11.23-04.21.02:831][834]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.11.23-04.21.02:855][834]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.23-04.21.02:866][834]MapCheck: New page: Map Check
+[2021.11.23-04.21.02:866][834]LightingResults: New page: Lighting Build
+[2021.11.23-04.21.02:870][834]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.23-04.21.02:873][834]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2021.11.23-04.21.02:874][834]LogAudio: Display: Audio Device (ID: 1) registered with world 'TestMapMain'.
+[2021.11.23-04.21.03:140][834]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.11.23-04.21.03:140][834]LogAIModule: Creating AISystem for world TestMapMain
+[2021.11.23-04.21.03:153][834]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.11.23-04.21.03:196][834]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.11.23-04.21.03:196][834]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.194ms to complete.
+[2021.11.23-04.21.03:196][834]LogFileHelpers: Loading map 'TestMapMain' took 0.367
+[2021.11.23-04.21.15:577][193]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.11.23-04.21.15:592][193]LogContentBrowser: Creating deferred item: NewFolder
+[2021.11.23-04.21.20:799][800]LogContentBrowser: Attempting asset rename: NewFolder -> butcher
+[2021.11.23-04.21.20:802][800]LogContentBrowser: End creating deferred item NewFolder
+[2021.11.23-04.21.28:076][478]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Jeremy\Documents\ODD\villageVibes\BUTCHERshop.fbx)
+[2021.11.23-04.21.28:083][478]LogFbx: Loading FBX Scene from C:\Users\Jeremy\Documents\ODD\villageVibes\BUTCHERshop.fbx
+[2021.11.23-04.21.28:099][478]LogFbx: FBX Scene Loaded Succesfully
+[2021.11.23-04.22.39:494][478]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.11.23-04.22.39:520][478]LogFbx: Display: Triangulating static mesh Cube
+[2021.11.23-04.22.39:524][478]LogStaticMesh: Building static mesh BUTCHERshop_Cube...
+[2021.11.23-04.22.39:525][478]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/butcher/BUTCHERshop_Cube.BUTCHERshop_Cube
+[2021.11.23-04.22.39:530][478]LogFbx: Display: Triangulating static mesh Cube.001
+[2021.11.23-04.22.39:533][478]LogStaticMesh: Building static mesh BUTCHERshop_Cube_001...
+[2021.11.23-04.22.39:535][478]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/butcher/BUTCHERshop_Cube_001.BUTCHERshop_Cube_001
+[2021.11.23-04.22.39:539][478]LogFbx: Display: Triangulating static mesh Cube.003
+[2021.11.23-04.22.39:542][478]LogStaticMesh: Building static mesh BUTCHERshop_Cube_003...
+[2021.11.23-04.22.39:544][478]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/butcher/BUTCHERshop_Cube_003.BUTCHERshop_Cube_003
+[2021.11.23-04.22.39:548][478]LogFbx: Display: Triangulating static mesh Cube.004
+[2021.11.23-04.22.39:552][478]LogStaticMesh: Building static mesh BUTCHERshop_Cube_004...
+[2021.11.23-04.22.39:554][478]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/butcher/BUTCHERshop_Cube_004.BUTCHERshop_Cube_004
+[2021.11.23-04.22.39:558][478]LogFbx: Display: Triangulating static mesh Cube.005
+[2021.11.23-04.22.39:561][478]LogStaticMesh: Building static mesh BUTCHERshop_Cube_005...
+[2021.11.23-04.22.39:563][478]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/butcher/BUTCHERshop_Cube_005.BUTCHERshop_Cube_005
+[2021.11.23-04.22.39:567][478]LogFbx: Display: Triangulating static mesh Cube.006
+[2021.11.23-04.22.39:571][478]LogStaticMesh: Building static mesh BUTCHERshop_Cube_006...
+[2021.11.23-04.22.39:572][478]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/butcher/BUTCHERshop_Cube_006.BUTCHERshop_Cube_006
+[2021.11.23-04.22.39:577][478]LogFbx: Display: Triangulating static mesh Cube.007
+[2021.11.23-04.22.39:581][478]LogStaticMesh: Building static mesh BUTCHERshop_Cube_007...
+[2021.11.23-04.22.39:582][478]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/butcher/BUTCHERshop_Cube_007.BUTCHERshop_Cube_007
+[2021.11.23-04.22.39:586][478]LogFbx: Display: Triangulating static mesh Cube.008
+[2021.11.23-04.22.39:590][478]LogStaticMesh: Building static mesh BUTCHERshop_Cube_008...
+[2021.11.23-04.22.39:591][478]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/butcher/BUTCHERshop_Cube_008.BUTCHERshop_Cube_008
+[2021.11.23-04.22.39:595][478]LogFbx: Display: Triangulating static mesh Cube.009
+[2021.11.23-04.22.39:598][478]LogStaticMesh: Building static mesh BUTCHERshop_Cube_009...
+[2021.11.23-04.22.39:600][478]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/butcher/BUTCHERshop_Cube_009.BUTCHERshop_Cube_009
+[2021.11.23-04.22.39:604][478]LogFbx: Display: Triangulating static mesh Cube.002
+[2021.11.23-04.22.39:609][478]LogStaticMesh: Building static mesh BUTCHERshop_Cube_002...
+[2021.11.23-04.22.39:610][478]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/butcher/BUTCHERshop_Cube_002.BUTCHERshop_Cube_002
+[2021.11.23-04.22.39:614][478]LogFbx: Display: Triangulating static mesh Cube.010
+[2021.11.23-04.22.39:617][478]LogStaticMesh: Building static mesh BUTCHERshop_Cube_010...
+[2021.11.23-04.22.39:619][478]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/butcher/BUTCHERshop_Cube_010.BUTCHERshop_Cube_010
+[2021.11.23-04.22.39:622][478]LogFbx: Display: Triangulating static mesh Cube.011
+[2021.11.23-04.22.39:625][478]LogStaticMesh: Building static mesh BUTCHERshop_Cube_011...
+[2021.11.23-04.22.39:627][478]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/butcher/BUTCHERshop_Cube_011.BUTCHERshop_Cube_011
+[2021.11.23-04.22.39:631][478]LogFbx: Display: Triangulating static mesh Cube.012
+[2021.11.23-04.22.39:634][478]LogStaticMesh: Building static mesh BUTCHERshop_Cube_012...
+[2021.11.23-04.22.39:636][478]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/butcher/BUTCHERshop_Cube_012.BUTCHERshop_Cube_012
+[2021.11.23-04.22.39:640][478]LogFbx: Display: Triangulating static mesh Cube.013
+[2021.11.23-04.22.39:643][478]LogStaticMesh: Building static mesh BUTCHERshop_Cube_013...
+[2021.11.23-04.22.39:645][478]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/butcher/BUTCHERshop_Cube_013.BUTCHERshop_Cube_013
+[2021.11.23-04.22.39:649][478]LogFbx: Display: Triangulating static mesh Cube.014
+[2021.11.23-04.22.39:653][478]LogStaticMesh: Building static mesh BUTCHERshop_Cube_014...
+[2021.11.23-04.22.39:654][478]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/butcher/BUTCHERshop_Cube_014.BUTCHERshop_Cube_014
+[2021.11.23-04.22.39:659][478]LogFbx: Display: Triangulating static mesh Cube.015
+[2021.11.23-04.22.39:662][478]LogStaticMesh: Building static mesh BUTCHERshop_Cube_015...
+[2021.11.23-04.22.39:664][478]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/butcher/BUTCHERshop_Cube_015.BUTCHERshop_Cube_015
+[2021.11.23-04.22.39:668][478]LogFbx: Display: Triangulating static mesh Cube.016
+[2021.11.23-04.22.39:672][478]LogStaticMesh: Building static mesh BUTCHERshop_Cube_016...
+[2021.11.23-04.22.39:673][478]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/butcher/BUTCHERshop_Cube_016.BUTCHERshop_Cube_016
+[2021.11.23-04.22.39:678][478]LogFbx: Display: Triangulating static mesh Cube.017
+[2021.11.23-04.22.39:682][478]LogStaticMesh: Building static mesh BUTCHERshop_Cube_017...
+[2021.11.23-04.22.39:683][478]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/butcher/BUTCHERshop_Cube_017.BUTCHERshop_Cube_017
+[2021.11.23-04.22.39:688][478]LogFbx: Display: Triangulating static mesh Cube.018
+[2021.11.23-04.22.39:691][478]LogStaticMesh: Building static mesh BUTCHERshop_Cube_018...
+[2021.11.23-04.22.39:693][478]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/butcher/BUTCHERshop_Cube_018.BUTCHERshop_Cube_018
+[2021.11.23-04.22.39:697][478]LogFbx: Display: Triangulating static mesh Cube.019
+[2021.11.23-04.22.39:701][478]LogStaticMesh: Building static mesh BUTCHERshop_Cube_019...
+[2021.11.23-04.22.39:702][478]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/butcher/BUTCHERshop_Cube_019.BUTCHERshop_Cube_019
+[2021.11.23-04.22.39:707][478]LogFbx: Display: Triangulating static mesh Cube.020
+[2021.11.23-04.22.39:711][478]LogStaticMesh: Building static mesh BUTCHERshop_Cube_020...
+[2021.11.23-04.22.39:713][478]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/butcher/BUTCHERshop_Cube_020.BUTCHERshop_Cube_020
+[2021.11.23-04.22.39:730][478]LogFbx: Display: Triangulating static mesh Cube.021
+[2021.11.23-04.22.39:734][478]LogStaticMesh: Building static mesh BUTCHERshop_Cube_021...
+[2021.11.23-04.22.39:735][478]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/butcher/BUTCHERshop_Cube_021.BUTCHERshop_Cube_021
+[2021.11.23-04.22.39:739][478]LogFbx: Display: Triangulating static mesh Cube.036
+[2021.11.23-04.22.39:742][478]LogStaticMesh: Building static mesh BUTCHERshop_Cube_036...
+[2021.11.23-04.22.39:744][478]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/butcher/BUTCHERshop_Cube_036.BUTCHERshop_Cube_036
+[2021.11.23-04.22.39:748][478]LogFbx: Display: Triangulating static mesh Plane
+[2021.11.23-04.22.39:749][478]LogStaticMesh: Building static mesh BUTCHERshop_Plane...
+[2021.11.23-04.22.39:749][478]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/butcher/BUTCHERshop_Plane.BUTCHERshop_Plane
+[2021.11.23-04.22.39:750][478]LogStaticMesh: Warning: BUTCHERshop_Plane has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.11.23-04.22.39:750][478]LogStaticMesh: Warning: BUTCHERshop_Plane has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.11.23-04.22.39:753][478]LogFbx: Display: Triangulating static mesh Plane.001
+[2021.11.23-04.22.39:756][478]LogStaticMesh: Building static mesh BUTCHERshop_Plane_001...
+[2021.11.23-04.22.39:757][478]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/butcher/BUTCHERshop_Plane_001.BUTCHERshop_Plane_001
+[2021.11.23-04.22.39:757][478]LogStaticMesh: Warning: BUTCHERshop_Plane_001 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2021.11.23-04.22.39:757][478]LogStaticMesh: Warning: BUTCHERshop_Plane_001 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.11.23-04.22.39:761][478]LogFbx: Display: Triangulating static mesh Plane.002
+[2021.11.23-04.22.39:765][478]LogStaticMesh: Building static mesh BUTCHERshop_Plane_002...
+[2021.11.23-04.22.39:766][478]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/butcher/BUTCHERshop_Plane_002.BUTCHERshop_Plane_002
+[2021.11.23-04.22.39:771][478]LogFbx: Display: Triangulating static mesh Plane.003
+[2021.11.23-04.22.39:771][478]LogStaticMesh: Building static mesh BUTCHERshop_Plane_003...
+[2021.11.23-04.22.39:772][478]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/butcher/BUTCHERshop_Plane_003.BUTCHERshop_Plane_003
+[2021.11.23-04.22.39:775][478]LogFbx: Display: Triangulating static mesh Plane.004
+[2021.11.23-04.22.39:776][478]LogStaticMesh: Building static mesh BUTCHERshop_Plane_004...
+[2021.11.23-04.22.39:777][478]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/butcher/BUTCHERshop_Plane_004.BUTCHERshop_Plane_004
+[2021.11.23-04.22.39:780][478]LogFbx: Display: Triangulating static mesh Plane.005
+[2021.11.23-04.22.39:781][478]LogStaticMesh: Building static mesh BUTCHERshop_Plane_005...
+[2021.11.23-04.22.39:782][478]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/butcher/BUTCHERshop_Plane_005.BUTCHERshop_Plane_005
+[2021.11.23-04.22.39:787][478]LogFbx: Display: Triangulating static mesh Cube.022
+[2021.11.23-04.22.39:790][478]LogStaticMesh: Building static mesh BUTCHERshop_Cube_022...
+[2021.11.23-04.22.39:792][478]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/butcher/BUTCHERshop_Cube_022.BUTCHERshop_Cube_022
+[2021.11.23-04.22.39:796][478]LogFbx: Display: Triangulating static mesh Cube.023
+[2021.11.23-04.22.39:799][478]LogStaticMesh: Building static mesh BUTCHERshop_Cube_023...
+[2021.11.23-04.22.39:801][478]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/butcher/BUTCHERshop_Cube_023.BUTCHERshop_Cube_023
+[2021.11.23-04.22.39:805][478]LogFbx: Display: Triangulating static mesh Cube.024
+[2021.11.23-04.22.39:809][478]LogStaticMesh: Building static mesh BUTCHERshop_Cube_024...
+[2021.11.23-04.22.39:810][478]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/butcher/BUTCHERshop_Cube_024.BUTCHERshop_Cube_024
+[2021.11.23-04.22.39:814][478]LogFbx: Display: Triangulating static mesh Cube.025
+[2021.11.23-04.22.39:819][478]LogStaticMesh: Building static mesh BUTCHERshop_Cube_025...
+[2021.11.23-04.22.39:824][478]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/butcher/BUTCHERshop_Cube_025.BUTCHERshop_Cube_025
+[2021.11.23-04.22.39:859][478]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.11.23-04.22.39:859][478]FBXImport: Warning: BUTCHERshop_Plane has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2021.11.23-04.22.39:859][478]FBXImport: Warning: BUTCHERshop_Plane has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2021.11.23-04.22.39:859][478]FBXImport: Warning: BUTCHERshop_Plane_001 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4) 
+[2021.11.23-04.22.39:859][478]FBXImport: Warning: BUTCHERshop_Plane_001 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2021.11.23-04.22.42:119][718]LogSlate: Window 'Message Log' being destroyed
+[2021.11.23-04.22.42:124][718]LogSlate: Window 'Message Log' being destroyed
+[2021.11.23-04.22.47:116][ 86]LogActorFactory: Actor Factory created BUTCHERshop_Cube
+[2021.11.23-04.22.47:159][ 86]LogActorFactory: Actor Factory created BUTCHERshop_Cube_001
+[2021.11.23-04.22.47:160][ 86]LogActorFactory: Actor Factory created BUTCHERshop_Cube_003
+[2021.11.23-04.22.47:160][ 86]LogActorFactory: Actor Factory created BUTCHERshop_Cube_004
+[2021.11.23-04.22.47:160][ 86]LogActorFactory: Actor Factory created BUTCHERshop_Cube_005
+[2021.11.23-04.22.47:161][ 86]LogActorFactory: Actor Factory created BUTCHERshop_Cube_006
+[2021.11.23-04.22.47:161][ 86]LogActorFactory: Actor Factory created BUTCHERshop_Cube_007
+[2021.11.23-04.22.47:162][ 86]LogActorFactory: Actor Factory created BUTCHERshop_Cube_008
+[2021.11.23-04.22.47:162][ 86]LogActorFactory: Actor Factory created BUTCHERshop_Cube_009
+[2021.11.23-04.22.47:163][ 86]LogActorFactory: Actor Factory created BUTCHERshop_Cube_002
+[2021.11.23-04.22.47:163][ 86]LogActorFactory: Actor Factory created BUTCHERshop_Cube_010
+[2021.11.23-04.22.47:163][ 86]LogActorFactory: Actor Factory created BUTCHERshop_Cube_011
+[2021.11.23-04.22.47:164][ 86]LogActorFactory: Actor Factory created BUTCHERshop_Cube_012
+[2021.11.23-04.22.47:164][ 86]LogActorFactory: Actor Factory created BUTCHERshop_Cube_013
+[2021.11.23-04.22.47:165][ 86]LogActorFactory: Actor Factory created BUTCHERshop_Cube_014
+[2021.11.23-04.22.47:165][ 86]LogActorFactory: Actor Factory created BUTCHERshop_Cube_015
+[2021.11.23-04.22.47:166][ 86]LogActorFactory: Actor Factory created BUTCHERshop_Cube_016
+[2021.11.23-04.22.47:166][ 86]LogActorFactory: Actor Factory created BUTCHERshop_Cube_017
+[2021.11.23-04.22.47:166][ 86]LogActorFactory: Actor Factory created BUTCHERshop_Cube_018
+[2021.11.23-04.22.47:167][ 86]LogActorFactory: Actor Factory created BUTCHERshop_Cube_019
+[2021.11.23-04.22.47:167][ 86]LogActorFactory: Actor Factory created BUTCHERshop_Cube_020
+[2021.11.23-04.22.47:168][ 86]LogActorFactory: Actor Factory created BUTCHERshop_Cube_021
+[2021.11.23-04.22.47:168][ 86]LogActorFactory: Actor Factory created BUTCHERshop_Cube_036
+[2021.11.23-04.22.47:169][ 86]LogActorFactory: Actor Factory created BUTCHERshop_Plane
+[2021.11.23-04.22.47:169][ 86]LogActorFactory: Actor Factory created BUTCHERshop_Plane_001
+[2021.11.23-04.22.47:169][ 86]LogActorFactory: Actor Factory created BUTCHERshop_Plane_002
+[2021.11.23-04.22.47:170][ 86]LogActorFactory: Actor Factory created BUTCHERshop_Plane_003
+[2021.11.23-04.22.47:170][ 86]LogActorFactory: Actor Factory created BUTCHERshop_Plane_004
+[2021.11.23-04.22.47:171][ 86]LogActorFactory: Actor Factory created BUTCHERshop_Plane_005
+[2021.11.23-04.22.47:171][ 86]LogActorFactory: Actor Factory created BUTCHERshop_Cube_022
+[2021.11.23-04.22.47:172][ 86]LogActorFactory: Actor Factory created BUTCHERshop_Cube_023
+[2021.11.23-04.22.47:172][ 86]LogActorFactory: Actor Factory created BUTCHERshop_Cube_024
+[2021.11.23-04.22.47:173][ 86]LogActorFactory: Actor Factory created BUTCHERshop_Cube_025
+[2021.11.23-04.22.48:090][163]LogActorFactory: Actor Factory created BUTCHERshop_Cube
+[2021.11.23-04.22.48:379][163]LogActorFactory: Actor Factory created BUTCHERshop_Cube_001
+[2021.11.23-04.22.48:393][163]LogActorFactory: Actor Factory created BUTCHERshop_Cube_003
+[2021.11.23-04.22.48:408][163]LogActorFactory: Actor Factory created BUTCHERshop_Cube_004
+[2021.11.23-04.22.48:422][163]LogActorFactory: Actor Factory created BUTCHERshop_Cube_005
+[2021.11.23-04.22.48:436][163]LogActorFactory: Actor Factory created BUTCHERshop_Cube_006
+[2021.11.23-04.22.48:450][163]LogActorFactory: Actor Factory created BUTCHERshop_Cube_007
+[2021.11.23-04.22.48:464][163]LogActorFactory: Actor Factory created BUTCHERshop_Cube_008
+[2021.11.23-04.22.48:478][163]LogActorFactory: Actor Factory created BUTCHERshop_Cube_009
+[2021.11.23-04.22.48:492][163]LogActorFactory: Actor Factory created BUTCHERshop_Cube_002
+[2021.11.23-04.22.48:506][163]LogActorFactory: Actor Factory created BUTCHERshop_Cube_010
+[2021.11.23-04.22.48:521][163]LogActorFactory: Actor Factory created BUTCHERshop_Cube_011
+[2021.11.23-04.22.48:535][163]LogActorFactory: Actor Factory created BUTCHERshop_Cube_012
+[2021.11.23-04.22.48:550][163]LogActorFactory: Actor Factory created BUTCHERshop_Cube_013
+[2021.11.23-04.22.48:564][163]LogActorFactory: Actor Factory created BUTCHERshop_Cube_014
+[2021.11.23-04.22.48:578][163]LogActorFactory: Actor Factory created BUTCHERshop_Cube_015
+[2021.11.23-04.22.48:592][163]LogActorFactory: Actor Factory created BUTCHERshop_Cube_016
+[2021.11.23-04.22.48:606][163]LogActorFactory: Actor Factory created BUTCHERshop_Cube_017
+[2021.11.23-04.22.48:620][163]LogActorFactory: Actor Factory created BUTCHERshop_Cube_018
+[2021.11.23-04.22.48:634][163]LogActorFactory: Actor Factory created BUTCHERshop_Cube_019
+[2021.11.23-04.22.48:648][163]LogActorFactory: Actor Factory created BUTCHERshop_Cube_020
+[2021.11.23-04.22.48:662][163]LogActorFactory: Actor Factory created BUTCHERshop_Cube_021
+[2021.11.23-04.22.48:676][163]LogActorFactory: Actor Factory created BUTCHERshop_Cube_036
+[2021.11.23-04.22.48:690][163]LogActorFactory: Actor Factory created BUTCHERshop_Plane
+[2021.11.23-04.22.48:705][163]LogActorFactory: Actor Factory created BUTCHERshop_Plane_001
+[2021.11.23-04.22.48:720][163]LogActorFactory: Actor Factory created BUTCHERshop_Plane_002
+[2021.11.23-04.22.48:733][163]LogActorFactory: Actor Factory created BUTCHERshop_Plane_003
+[2021.11.23-04.22.48:748][163]LogActorFactory: Actor Factory created BUTCHERshop_Plane_004
+[2021.11.23-04.22.48:762][163]LogActorFactory: Actor Factory created BUTCHERshop_Plane_005
+[2021.11.23-04.22.48:776][163]LogActorFactory: Actor Factory created BUTCHERshop_Cube_022
+[2021.11.23-04.22.48:790][163]LogActorFactory: Actor Factory created BUTCHERshop_Cube_023
+[2021.11.23-04.22.48:804][163]LogActorFactory: Actor Factory created BUTCHERshop_Cube_024
+[2021.11.23-04.22.48:818][163]LogActorFactory: Actor Factory created BUTCHERshop_Cube_025
+[2021.11.23-04.23.01:494][247]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (BUTCHERshop_Plane_002)
+[2021.11.23-04.23.04:541][491]EditorErrors: New page: Actor Reattachment
+[2021.11.23-04.23.04:862][494]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.11.23-04.23.06:754][548]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.11.23-04.23.08:264][591]Cmd: TRANSACTION UNDO
+[2021.11.23-04.23.08:264][591]LogEditorTransaction: Undo Clicking on Actors
+[2021.11.23-04.23.08:895][628]Cmd: TRANSACTION UNDO
+[2021.11.23-04.23.08:896][628]LogEditorTransaction: Undo Replace Actor(s)
+[2021.11.23-04.23.13:298][ 39]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.11.23-04.23.26:039][262]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BUTCHERshop_Cube_024)
+[2021.11.23-04.23.26:749][325]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BUTCHERshop_Plane_002)
+[2021.11.23-04.23.28:237][471]Cmd: TRANSACTION UNDO
+[2021.11.23-04.23.28:237][471]LogEditorTransaction: Undo Clicking on Actors
+[2021.11.23-04.23.28:564][483]Cmd: TRANSACTION UNDO
+[2021.11.23-04.23.28:564][483]LogEditorTransaction: Undo Clicking on Actors
+[2021.11.23-04.23.29:007][515]Cmd: TRANSACTION UNDO
+[2021.11.23-04.23.29:007][515]LogEditorTransaction: Undo Clicking on Actors
+[2021.11.23-04.23.59:092][255]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.11.23-04.24.00:596][399]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.11.23-04.24.00:670][399]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.23-04.24.00:703][399]PIE: New page: PIE session: TestMapMain (Nov 22, 2021, 2:24:00 PM)
+[2021.11.23-04.24.00:713][399]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.11.23-04.24.00:726][399]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.11.23-04.24.00:727][399]LogPlayLevel: Creating play world package: /Game/Main/Maps/UEDPIE_0_TestMapMain
+[2021.11.23-04.24.00:797][399]LogPlayLevel: PIE: StaticDuplicateObject took: (0.069398s)
+[2021.11.23-04.24.00:811][399]LogAIModule: Creating AISystem for world TestMapMain
+[2021.11.23-04.24.00:819][399]LogPlayLevel: PIE: World Init took: (0.021930s)
+[2021.11.23-04.24.00:819][399]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main/Maps/TestMapMain.TestMapMain to /Game/Main/Maps/UEDPIE_0_TestMapMain.TestMapMain (0.091593s)
+[2021.11.23-04.24.00:827][399]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2021.11.23-04.24.00:832][399]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.11.23-04.24.00:832][399]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.23-04.24.00:832][399]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.23-04.24.00:833][399]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.23-04.24.00:833][399]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.23-04.24.00:833][399]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.23-04.24.00:833][399]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.23-04.24.00:833][399]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.23-04.24.00:833][399]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.23-04.24.00:833][399]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.11.23-04.24.00:833][399]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.11.23-04.24.00:833][399]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.11.23-04.24.00:833][399]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.23-04.24.00:836][399]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.23-04.24.00:836][399]LogAudioMixer: Display: 1: FrontRight
+[2021.11.23-04.24.00:860][399]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.11.23-04.24.00:861][399]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.23-04.24.00:861][399]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.23-04.24.00:861][399]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.23-04.24.00:861][399]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.23-04.24.00:861][399]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.23-04.24.00:861][399]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.23-04.24.00:862][399]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.23-04.24.00:862][399]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.23-04.24.00:862][399]LogInit: FAudioDevice initialized.
+[2021.11.23-04.24.00:862][399]LogAudio: Display: Audio Device (ID: 2) registered with world 'TestMapMain'.
+[2021.11.23-04.24.00:892][399]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.23-04.24.00:893][399]LogLoad: Game class is 'MyGameMode_C'
+[2021.11.23-04.24.00:958][399]LogWorld: Bringing World /Game/Main/Maps/UEDPIE_0_TestMapMain.TestMapMain up for play (max tick rate 0) at 2021.11.22-21.24.00
+[2021.11.23-04.24.00:971][399]LogGameState: Error: Mixing AGameState with AGameModeBase is not compatible. Change AGameModeBase subclass (MyGameMode_C) to derive from AGameMode, or make both derive from Base
+[2021.11.23-04.24.01:006][399]LogWorld: Bringing up level for play took: 0.050702
+[2021.11.23-04.24.01:006][399]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2021.11.23-04.24.01:095][399]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2021.11.23-04.24.01:100][399]PIE: Server logged in
+[2021.11.23-04.24.01:103][399]PIE: Play in editor total start time 0.502 seconds.
+[2021.11.23-04.24.01:282][400]LogRenderer: Reallocating scene render targets to support 1912x1008 Format 10 NumSamples 1 (Frame:1).
+[2021.11.23-04.24.19:244][891]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.23-04.24.19:244][891]LogWorld: BeginTearingDown for /Game/Main/Maps/UEDPIE_0_TestMapMain
+[2021.11.23-04.24.19:245][891]LogSlate: Window 'TakeThree Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.11.23-04.24.19:250][891]LogWorld: UWorld::CleanupWorld for TestMapMain, bSessionEnded=true, bCleanupResources=true
+[2021.11.23-04.24.19:251][891]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.23-04.24.19:260][891]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.23-04.24.19:270][891]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.23-04.24.19:274][891]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.23-04.24.19:275][891]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.23-04.24.19:292][891]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.11.23-04.24.19:319][892]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2021.11.23-04.25.34:050][  0]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.11.23-04.25.34:057][  0]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2021.11.23-04.25.34:073][  0]LogContentBrowser: Creating deferred item: NewBlueprint
+[2021.11.23-04.25.37:390][205]LogContentBrowser: Attempting asset rename: NewBlueprint -> NewBlueprint
+[2021.11.23-04.25.37:676][205]LogContentBrowser: End creating deferred item NewBlueprint
+[2021.11.23-04.25.47:866][ 51]LogSavePackage: Moving 'C:/Users/Jeremy/Documents/ODD/GitHub/VillageVibes/TakeThree 4.27/Saved/BUTCHERshop_Plane_0056E24DA8E4F3B2F585E534C95DB2D4EDD.tmp' to 'C:/Users/Jeremy/Documents/ODD/GitHub/VillageVibes/TakeThree 4.27/Content/Main/Maps/BUILDINGS/butcher/BUTCHERshop_Plane_005.uasset'
+[2021.11.23-04.25.47:894][ 51]LogSavePackage: Moving 'C:/Users/Jeremy/Documents/ODD/GitHub/VillageVibes/TakeThree 4.27/Saved/BUTCHERshop_CubeF6DB9CB34073451A20EE3C99FD2AD1C3.tmp' to 'C:/Users/Jeremy/Documents/ODD/GitHub/VillageVibes/TakeThree 4.27/Content/Main/Maps/BUILDINGS/butcher/BUTCHERshop_Cube.uasset'
+[2021.11.23-04.25.47:908][ 51]LogSavePackage: Moving 'C:/Users/Jeremy/Documents/ODD/GitHub/VillageVibes/TakeThree 4.27/Saved/BUTCHERshop_Cube_001A29E55F9419987057AE71B9DD364D0F5.tmp' to 'C:/Users/Jeremy/Documents/ODD/GitHub/VillageVibes/TakeThree 4.27/Content/Main/Maps/BUILDINGS/butcher/BUTCHERshop_Cube_001.uasset'
+[2021.11.23-04.25.47:922][ 51]LogSavePackage: Moving 'C:/Users/Jeremy/Documents/ODD/GitHub/VillageVibes/TakeThree 4.27/Saved/BUTCHERshop_Cube_002ABBE11B1434387D511C01684A49C4D04.tmp' to 'C:/Users/Jeremy/Documents/ODD/GitHub/VillageVibes/TakeThree 4.27/Content/Main/Maps/BUILDINGS/butcher/BUTCHERshop_Cube_002.uasset'
+[2021.11.23-04.25.47:936][ 51]LogSavePackage: Moving 'C:/Users/Jeremy/Documents/ODD/GitHub/VillageVibes/TakeThree 4.27/Saved/BUTCHERshop_Cube_00331081CFD4F6B6C3BCE56FA8031E59A50.tmp' to 'C:/Users/Jeremy/Documents/ODD/GitHub/VillageVibes/TakeThree 4.27/Content/Main/Maps/BUILDINGS/butcher/BUTCHERshop_Cube_003.uasset'
+[2021.11.23-04.25.47:951][ 51]LogSavePackage: Moving 'C:/Users/Jeremy/Documents/ODD/GitHub/VillageVibes/TakeThree 4.27/Saved/BUTCHERshop_Cube_0045DD83F9540965AEAAD90969CD2377BAA.tmp' to 'C:/Users/Jeremy/Documents/ODD/GitHub/VillageVibes/TakeThree 4.27/Content/Main/Maps/BUILDINGS/butcher/BUTCHERshop_Cube_004.uasset'
+[2021.11.23-04.25.47:965][ 51]LogSavePackage: Moving 'C:/Users/Jeremy/Documents/ODD/GitHub/VillageVibes/TakeThree 4.27/Saved/BUTCHERshop_Cube_0054034BCA94DB9F55F44A6FB81E449EA54.tmp' to 'C:/Users/Jeremy/Documents/ODD/GitHub/VillageVibes/TakeThree 4.27/Content/Main/Maps/BUILDINGS/butcher/BUTCHERshop_Cube_005.uasset'
+[2021.11.23-04.25.47:979][ 51]LogSavePackage: Moving 'C:/Users/Jeremy/Documents/ODD/GitHub/VillageVibes/TakeThree 4.27/Saved/BUTCHERshop_Cube_006904279B44995E6F47DFC3F8F930D7870.tmp' to 'C:/Users/Jeremy/Documents/ODD/GitHub/VillageVibes/TakeThree 4.27/Content/Main/Maps/BUILDINGS/butcher/BUTCHERshop_Cube_006.uasset'
+[2021.11.23-04.25.47:995][ 51]LogSavePackage: Moving 'C:/Users/Jeremy/Documents/ODD/GitHub/VillageVibes/TakeThree 4.27/Saved/BUTCHERshop_Cube_007AD20A7224E5A030118DD57AC71B5DEC8.tmp' to 'C:/Users/Jeremy/Documents/ODD/GitHub/VillageVibes/TakeThree 4.27/Content/Main/Maps/BUILDINGS/butcher/BUTCHERshop_Cube_007.uasset'
+[2021.11.23-04.25.48:010][ 51]LogSavePackage: Moving 'C:/Users/Jeremy/Documents/ODD/GitHub/VillageVibes/TakeThree 4.27/Saved/BUTCHERshop_Cube_0080542FA2F4A6B0F518D7FFCA2D959100D.tmp' to 'C:/Users/Jeremy/Documents/ODD/GitHub/VillageVibes/TakeThree 4.27/Content/Main/Maps/BUILDINGS/butcher/BUTCHERshop_Cube_008.uasset'
+[2021.11.23-04.25.48:027][ 51]LogSavePackage: Moving 'C:/Users/Jeremy/Documents/ODD/GitHub/VillageVibes/TakeThree 4.27/Saved/BUTCHERshop_Cube_0096E6A37C74C6E9DA94FE8AF9FF652704C.tmp' to 'C:/Users/Jeremy/Documents/ODD/GitHub/VillageVibes/TakeThree 4.27/Content/Main/Maps/BUILDINGS/butcher/BUTCHERshop_Cube_009.uasset'
+[2021.11.23-04.25.48:041][ 51]LogSavePackage: Moving 'C:/Users/Jeremy/Documents/ODD/GitHub/VillageVibes/TakeThree 4.27/Saved/BUTCHERshop_Cube_010CFB810C84B41A11CBF5F04B1413B24C8.tmp' to 'C:/Users/Jeremy/Documents/ODD/GitHub/VillageVibes/TakeThree 4.27/Content/Main/Maps/BUILDINGS/butcher/BUTCHERshop_Cube_010.uasset'
+[2021.11.23-04.25.48:055][ 51]LogSavePackage: Moving 'C:/Users/Jeremy/Documents/ODD/GitHub/VillageVibes/TakeThree 4.27/Saved/BUTCHERshop_Cube_0110EF7C1CB444E69DF286536890EA95800.tmp' to 'C:/Users/Jeremy/Documents/ODD/GitHub/VillageVibes/TakeThree 4.27/Content/Main/Maps/BUILDINGS/butcher/BUTCHERshop_Cube_011.uasset'
+[2021.11.23-04.25.48:070][ 51]LogSavePackage: Moving 'C:/Users/Jeremy/Documents/ODD/GitHub/VillageVibes/TakeThree 4.27/Saved/BUTCHERshop_Cube_012C49DF492438DFA5E45B023B8B4CCDA6D.tmp' to 'C:/Users/Jeremy/Documents/ODD/GitHub/VillageVibes/TakeThree 4.27/Content/Main/Maps/BUILDINGS/butcher/BUTCHERshop_Cube_012.uasset'
+[2021.11.23-04.25.48:084][ 51]LogSavePackage: Moving 'C:/Users/Jeremy/Documents/ODD/GitHub/VillageVibes/TakeThree 4.27/Saved/BUTCHERshop_Cube_0131342F4674681C6FFCDE141AE649D32F6.tmp' to 'C:/Users/Jeremy/Documents/ODD/GitHub/VillageVibes/TakeThree 4.27/Content/Main/Maps/BUILDINGS/butcher/BUTCHERshop_Cube_013.uasset'
+[2021.11.23-04.25.48:098][ 51]LogSavePackage: Moving 'C:/Users/Jeremy/Documents/ODD/GitHub/VillageVibes/TakeThree 4.27/Saved/BUTCHERshop_Cube_014B43C95514E62EEF4EAD917B8651BF87C.tmp' to 'C:/Users/Jeremy/Documents/ODD/GitHub/VillageVibes/TakeThree 4.27/Content/Main/Maps/BUILDINGS/butcher/BUTCHERshop_Cube_014.uasset'
+[2021.11.23-04.25.48:114][ 51]LogSavePackage: Moving 'C:/Users/Jeremy/Documents/ODD/GitHub/VillageVibes/TakeThree 4.27/Saved/BUTCHERshop_Cube_015C2E7EC9D4B9C7EEDE1F688BD64CD73C0.tmp' to 'C:/Users/Jeremy/Documents/ODD/GitHub/VillageVibes/TakeThree 4.27/Content/Main/Maps/BUILDINGS/butcher/BUTCHERshop_Cube_015.uasset'
+[2021.11.23-04.25.48:129][ 51]LogSavePackage: Moving 'C:/Users/Jeremy/Documents/ODD/GitHub/VillageVibes/TakeThree 4.27/Saved/BUTCHERshop_Cube_01635C4E9A44F77BCE596023E9F0D38F87B.tmp' to 'C:/Users/Jeremy/Documents/ODD/GitHub/VillageVibes/TakeThree 4.27/Content/Main/Maps/BUILDINGS/butcher/BUTCHERshop_Cube_016.uasset'
+[2021.11.23-04.25.48:144][ 51]LogSavePackage: Moving 'C:/Users/Jeremy/Documents/ODD/GitHub/VillageVibes/TakeThree 4.27/Saved/BUTCHERshop_Cube_017269A7AF142262C1097D84E89B72FF807.tmp' to 'C:/Users/Jeremy/Documents/ODD/GitHub/VillageVibes/TakeThree 4.27/Content/Main/Maps/BUILDINGS/butcher/BUTCHERshop_Cube_017.uasset'
+[2021.11.23-04.25.48:158][ 51]LogSavePackage: Moving 'C:/Users/Jeremy/Documents/ODD/GitHub/VillageVibes/TakeThree 4.27/Saved/BUTCHERshop_Cube_0189604421443875716905C328F0DDB2934.tmp' to 'C:/Users/Jeremy/Documents/ODD/GitHub/VillageVibes/TakeThree 4.27/Content/Main/Maps/BUILDINGS/butcher/BUTCHERshop_Cube_018.uasset'
+[2021.11.23-04.25.48:173][ 51]LogSavePackage: Moving 'C:/Users/Jeremy/Documents/ODD/GitHub/VillageVibes/TakeThree 4.27/Saved/BUTCHERshop_Cube_0197CB7FBC744675426013334B50B98DF3B.tmp' to 'C:/Users/Jeremy/Documents/ODD/GitHub/VillageVibes/TakeThree 4.27/Content/Main/Maps/BUILDINGS/butcher/BUTCHERshop_Cube_019.uasset'
+[2021.11.23-04.25.48:187][ 51]LogSavePackage: Moving 'C:/Users/Jeremy/Documents/ODD/GitHub/VillageVibes/TakeThree 4.27/Saved/BUTCHERshop_Cube_0205D20A0FC431E3A0630F762A8195345FD.tmp' to 'C:/Users/Jeremy/Documents/ODD/GitHub/VillageVibes/TakeThree 4.27/Content/Main/Maps/BUILDINGS/butcher/BUTCHERshop_Cube_020.uasset'
+[2021.11.23-04.25.48:202][ 51]LogSavePackage: Moving 'C:/Users/Jeremy/Documents/ODD/GitHub/VillageVibes/TakeThree 4.27/Saved/BUTCHERshop_Cube_021418A964E4D94FE6A4EDCDC854C03B7E9.tmp' to 'C:/Users/Jeremy/Documents/ODD/GitHub/VillageVibes/TakeThree 4.27/Content/Main/Maps/BUILDINGS/butcher/BUTCHERshop_Cube_021.uasset'
+[2021.11.23-04.25.48:218][ 51]LogSavePackage: Moving 'C:/Users/Jeremy/Documents/ODD/GitHub/VillageVibes/TakeThree 4.27/Saved/BUTCHERshop_Cube_02278A35C894B974D6BCBCF19973C6425BD.tmp' to 'C:/Users/Jeremy/Documents/ODD/GitHub/VillageVibes/TakeThree 4.27/Content/Main/Maps/BUILDINGS/butcher/BUTCHERshop_Cube_022.uasset'
+[2021.11.23-04.25.48:232][ 51]LogSavePackage: Moving 'C:/Users/Jeremy/Documents/ODD/GitHub/VillageVibes/TakeThree 4.27/Saved/BUTCHERshop_Cube_023CCB02407413C8949C3058C97D80AE273.tmp' to 'C:/Users/Jeremy/Documents/ODD/GitHub/VillageVibes/TakeThree 4.27/Content/Main/Maps/BUILDINGS/butcher/BUTCHERshop_Cube_023.uasset'
+[2021.11.23-04.25.48:246][ 51]LogSavePackage: Moving 'C:/Users/Jeremy/Documents/ODD/GitHub/VillageVibes/TakeThree 4.27/Saved/BUTCHERshop_Cube_024757020794DEF7789B42B76BEF27C7961.tmp' to 'C:/Users/Jeremy/Documents/ODD/GitHub/VillageVibes/TakeThree 4.27/Content/Main/Maps/BUILDINGS/butcher/BUTCHERshop_Cube_024.uasset'
+[2021.11.23-04.25.48:261][ 51]LogSavePackage: Moving 'C:/Users/Jeremy/Documents/ODD/GitHub/VillageVibes/TakeThree 4.27/Saved/BUTCHERshop_Cube_0250345789E44A063BC2363F781CD0514EC.tmp' to 'C:/Users/Jeremy/Documents/ODD/GitHub/VillageVibes/TakeThree 4.27/Content/Main/Maps/BUILDINGS/butcher/BUTCHERshop_Cube_025.uasset'
+[2021.11.23-04.25.48:275][ 51]LogSavePackage: Moving 'C:/Users/Jeremy/Documents/ODD/GitHub/VillageVibes/TakeThree 4.27/Saved/BUTCHERshop_Cube_036049D2EEC46C5C35A41D7EDAE3FC6E724.tmp' to 'C:/Users/Jeremy/Documents/ODD/GitHub/VillageVibes/TakeThree 4.27/Content/Main/Maps/BUILDINGS/butcher/BUTCHERshop_Cube_036.uasset'
+[2021.11.23-04.25.48:290][ 51]LogSavePackage: Moving 'C:/Users/Jeremy/Documents/ODD/GitHub/VillageVibes/TakeThree 4.27/Saved/BUTCHERshop_PlaneC6EC5A1A4E70081B5E6459A60BE37A34.tmp' to 'C:/Users/Jeremy/Documents/ODD/GitHub/VillageVibes/TakeThree 4.27/Content/Main/Maps/BUILDINGS/butcher/BUTCHERshop_Plane.uasset'
+[2021.11.23-04.25.48:304][ 51]LogSavePackage: Moving 'C:/Users/Jeremy/Documents/ODD/GitHub/VillageVibes/TakeThree 4.27/Saved/BUTCHERshop_Plane_0010851BEF840C31C823B1CCAAE5D65E474.tmp' to 'C:/Users/Jeremy/Documents/ODD/GitHub/VillageVibes/TakeThree 4.27/Content/Main/Maps/BUILDINGS/butcher/BUTCHERshop_Plane_001.uasset'
+[2021.11.23-04.25.48:319][ 51]LogSavePackage: Moving 'C:/Users/Jeremy/Documents/ODD/GitHub/VillageVibes/TakeThree 4.27/Saved/BUTCHERshop_Plane_00233E5FB8E46DD1523F009628B8FE24328.tmp' to 'C:/Users/Jeremy/Documents/ODD/GitHub/VillageVibes/TakeThree 4.27/Content/Main/Maps/BUILDINGS/butcher/BUTCHERshop_Plane_002.uasset'
+[2021.11.23-04.25.48:333][ 51]LogSavePackage: Moving 'C:/Users/Jeremy/Documents/ODD/GitHub/VillageVibes/TakeThree 4.27/Saved/BUTCHERshop_Plane_0034D9BCA2040678F87B36449AED1F15A10.tmp' to 'C:/Users/Jeremy/Documents/ODD/GitHub/VillageVibes/TakeThree 4.27/Content/Main/Maps/BUILDINGS/butcher/BUTCHERshop_Plane_003.uasset'
+[2021.11.23-04.25.48:347][ 51]LogSavePackage: Moving 'C:/Users/Jeremy/Documents/ODD/GitHub/VillageVibes/TakeThree 4.27/Saved/BUTCHERshop_Plane_00490F60AEC4D0FB46A5126548B63F9523A.tmp' to 'C:/Users/Jeremy/Documents/ODD/GitHub/VillageVibes/TakeThree 4.27/Content/Main/Maps/BUILDINGS/butcher/BUTCHERshop_Plane_004.uasset'
+[2021.11.23-04.25.48:429][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.11.23-04.25.48:490][ 51]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.23-04.25.48:490][ 51]LogContentValidation: Display: Validating StaticMesh /Game/Main/Maps/BUILDINGS/butcher/BUTCHERshop_Cube_025.BUTCHERshop_Cube_025
+[2021.11.23-04.25.48:490][ 51]LogContentValidation: Display: Validating StaticMesh /Game/Main/Maps/BUILDINGS/butcher/BUTCHERshop_Cube_024.BUTCHERshop_Cube_024
+[2021.11.23-04.25.48:491][ 51]LogContentValidation: Display: Validating StaticMesh /Game/Main/Maps/BUILDINGS/butcher/BUTCHERshop_Cube_023.BUTCHERshop_Cube_023
+[2021.11.23-04.25.48:491][ 51]LogContentValidation: Display: Validating StaticMesh /Game/Main/Maps/BUILDINGS/butcher/BUTCHERshop_Cube_022.BUTCHERshop_Cube_022
+[2021.11.23-04.25.48:491][ 51]LogContentValidation: Display: Validating StaticMesh /Game/Main/Maps/BUILDINGS/butcher/BUTCHERshop_Plane_005.BUTCHERshop_Plane_005
+[2021.11.23-04.25.48:491][ 51]LogContentValidation: Display: Validating StaticMesh /Game/Main/Maps/BUILDINGS/butcher/BUTCHERshop_Plane_004.BUTCHERshop_Plane_004
+[2021.11.23-04.25.48:491][ 51]LogContentValidation: Display: Validating StaticMesh /Game/Main/Maps/BUILDINGS/butcher/BUTCHERshop_Plane_003.BUTCHERshop_Plane_003
+[2021.11.23-04.25.48:491][ 51]LogContentValidation: Display: Validating StaticMesh /Game/Main/Maps/BUILDINGS/butcher/BUTCHERshop_Plane_002.BUTCHERshop_Plane_002
+[2021.11.23-04.25.48:491][ 51]LogContentValidation: Display: Validating StaticMesh /Game/Main/Maps/BUILDINGS/butcher/BUTCHERshop_Plane_001.BUTCHERshop_Plane_001
+[2021.11.23-04.25.48:491][ 51]LogContentValidation: Display: Validating StaticMesh /Game/Main/Maps/BUILDINGS/butcher/BUTCHERshop_Plane.BUTCHERshop_Plane
+[2021.11.23-04.25.48:491][ 51]LogContentValidation: Display: Validating StaticMesh /Game/Main/Maps/BUILDINGS/butcher/BUTCHERshop_Cube_036.BUTCHERshop_Cube_036
+[2021.11.23-04.25.48:491][ 51]LogContentValidation: Display: Validating StaticMesh /Game/Main/Maps/BUILDINGS/butcher/BUTCHERshop_Cube_021.BUTCHERshop_Cube_021
+[2021.11.23-04.25.48:491][ 51]LogContentValidation: Display: Validating StaticMesh /Game/Main/Maps/BUILDINGS/butcher/BUTCHERshop_Cube_020.BUTCHERshop_Cube_020
+[2021.11.23-04.25.48:491][ 51]LogContentValidation: Display: Validating StaticMesh /Game/Main/Maps/BUILDINGS/butcher/BUTCHERshop_Cube_019.BUTCHERshop_Cube_019
+[2021.11.23-04.25.48:491][ 51]LogContentValidation: Display: Validating StaticMesh /Game/Main/Maps/BUILDINGS/butcher/BUTCHERshop_Cube_018.BUTCHERshop_Cube_018
+[2021.11.23-04.25.48:491][ 51]LogContentValidation: Display: Validating StaticMesh /Game/Main/Maps/BUILDINGS/butcher/BUTCHERshop_Cube_017.BUTCHERshop_Cube_017
+[2021.11.23-04.25.48:491][ 51]LogContentValidation: Display: Validating StaticMesh /Game/Main/Maps/BUILDINGS/butcher/BUTCHERshop_Cube_016.BUTCHERshop_Cube_016
+[2021.11.23-04.25.48:491][ 51]LogContentValidation: Display: Validating StaticMesh /Game/Main/Maps/BUILDINGS/butcher/BUTCHERshop_Cube_015.BUTCHERshop_Cube_015
+[2021.11.23-04.25.48:491][ 51]LogContentValidation: Display: Validating StaticMesh /Game/Main/Maps/BUILDINGS/butcher/BUTCHERshop_Cube_014.BUTCHERshop_Cube_014
+[2021.11.23-04.25.48:491][ 51]LogContentValidation: Display: Validating StaticMesh /Game/Main/Maps/BUILDINGS/butcher/BUTCHERshop_Cube_013.BUTCHERshop_Cube_013
+[2021.11.23-04.25.48:491][ 51]LogContentValidation: Display: Validating StaticMesh /Game/Main/Maps/BUILDINGS/butcher/BUTCHERshop_Cube_012.BUTCHERshop_Cube_012
+[2021.11.23-04.25.48:491][ 51]LogContentValidation: Display: Validating StaticMesh /Game/Main/Maps/BUILDINGS/butcher/BUTCHERshop_Cube_011.BUTCHERshop_Cube_011
+[2021.11.23-04.25.48:491][ 51]LogContentValidation: Display: Validating StaticMesh /Game/Main/Maps/BUILDINGS/butcher/BUTCHERshop_Cube_010.BUTCHERshop_Cube_010
+[2021.11.23-04.25.48:491][ 51]LogContentValidation: Display: Validating StaticMesh /Game/Main/Maps/BUILDINGS/butcher/BUTCHERshop_Cube_002.BUTCHERshop_Cube_002
+[2021.11.23-04.25.48:491][ 51]LogContentValidation: Display: Validating StaticMesh /Game/Main/Maps/BUILDINGS/butcher/BUTCHERshop_Cube_009.BUTCHERshop_Cube_009
+[2021.11.23-04.25.48:491][ 51]LogContentValidation: Display: Validating StaticMesh /Game/Main/Maps/BUILDINGS/butcher/BUTCHERshop_Cube_008.BUTCHERshop_Cube_008
+[2021.11.23-04.25.48:491][ 51]LogContentValidation: Display: Validating StaticMesh /Game/Main/Maps/BUILDINGS/butcher/BUTCHERshop_Cube_007.BUTCHERshop_Cube_007
+[2021.11.23-04.25.48:491][ 51]LogContentValidation: Display: Validating StaticMesh /Game/Main/Maps/BUILDINGS/butcher/BUTCHERshop_Cube_006.BUTCHERshop_Cube_006
+[2021.11.23-04.25.48:491][ 51]LogContentValidation: Display: Validating StaticMesh /Game/Main/Maps/BUILDINGS/butcher/BUTCHERshop_Cube_005.BUTCHERshop_Cube_005
+[2021.11.23-04.25.48:491][ 51]LogContentValidation: Display: Validating StaticMesh /Game/Main/Maps/BUILDINGS/butcher/BUTCHERshop_Cube_004.BUTCHERshop_Cube_004
+[2021.11.23-04.25.48:491][ 51]LogContentValidation: Display: Validating StaticMesh /Game/Main/Maps/BUILDINGS/butcher/BUTCHERshop_Cube_003.BUTCHERshop_Cube_003
+[2021.11.23-04.25.48:491][ 51]LogContentValidation: Display: Validating StaticMesh /Game/Main/Maps/BUILDINGS/butcher/BUTCHERshop_Cube_001.BUTCHERshop_Cube_001
+[2021.11.23-04.25.48:491][ 51]LogContentValidation: Display: Validating StaticMesh /Game/Main/Maps/BUILDINGS/butcher/BUTCHERshop_Cube.BUTCHERshop_Cube
+[2021.11.23-04.25.51:537][362]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BUTCHERshop_Cube_003)
+[2021.11.23-04.25.58:683][ 48]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BUTCHERshop_Cube_001)
+[2021.11.23-04.26.00:149][191]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (BUTCHERshop_Plane_001)
+[2021.11.23-04.26.00:987][271]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (BUTCHERshop_Plane_002)
+[2021.11.23-04.26.12:702][421]Cmd: DELETE
+[2021.11.23-04.26.12:718][421]Cmd: ACTOR DELETE
+[2021.11.23-04.26.12:872][421]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.23-04.26.12:872][421]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.23-04.26.12:872][421]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.23-04.26.12:872][421]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.23-04.26.12:872][421]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.23-04.26.12:873][421]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.23-04.26.12:873][421]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.23-04.26.12:873][421]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.23-04.26.12:873][421]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.23-04.26.12:873][421]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.23-04.26.12:873][421]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.23-04.26.12:873][421]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.23-04.26.12:874][421]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.23-04.26.12:874][421]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.23-04.26.12:874][421]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.23-04.26.12:874][421]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.23-04.26.12:874][421]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.23-04.26.12:874][421]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.23-04.26.12:874][421]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.23-04.26.12:875][421]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.23-04.26.12:875][421]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.23-04.26.12:875][421]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.23-04.26.12:875][421]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.23-04.26.12:875][421]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.23-04.26.12:875][421]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.23-04.26.12:875][421]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.23-04.26.12:875][421]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.23-04.26.12:876][421]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.23-04.26.12:876][421]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.23-04.26.12:876][421]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.23-04.26.12:876][421]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.23-04.26.12:876][421]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.23-04.26.12:876][421]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.23-04.26.12:880][421]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.11.23-04.26.12:882][421]LogEditorActor: Deleted 33 Actors (0.036 secs)
+[2021.11.23-04.26.20:868][212]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2021.11.23-04.26.21:207][212]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.340 s
+[2021.11.23-04.26.21:208][212]LogOutputDevice: Error: === Handled ensure: ===
+[2021.11.23-04.26.21:208][212]LogOutputDevice: Error: 
+[2021.11.23-04.26.21:208][212]LogOutputDevice: Error: Ensure condition failed: !SeenPaths.Contains(NewPath) [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/CoreUObject/Private/Misc/RedirectCollector.cpp] [Line: 222]
+[2021.11.23-04.26.21:208][212]LogOutputDevice: Error: Found circular redirect from /Game/Main/Maps/BUILDINGS/butcher/NewBlueprint.NewBlueprint_C to /Game/Main/Maps/BUILDINGS/butcher/NewBlueprint.NewBlueprint_C! Returning None instead
+[2021.11.23-04.26.21:208][212]LogOutputDevice: Error: Stack: 
+[2021.11.23-04.26.21:208][212]LogOutputDevice: Error: [Callstack] 0x00007ff981d6ff53 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.23-04.26.21:208][212]LogOutputDevice: Error: [Callstack] 0x00007ff9818e3e30 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.23-04.26.21:208][212]LogOutputDevice: Error: [Callstack] 0x00007ff981c81e16 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.23-04.26.21:208][212]LogOutputDevice: Error: [Callstack] 0x00007ff981c9bbbe UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.23-04.26.21:208][212]LogOutputDevice: Error: [Callstack] 0x00007ff981950877 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.23-04.26.21:208][212]LogOutputDevice: Error: [Callstack] 0x00007ff97568dd32 UE4Editor-Core.dll!UnknownFunction []
+[2021.11.23-04.26.21:208][212]LogOutputDevice: Error: [Callstack] 0x00007ff981c936d3 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.23-04.26.21:208][212]LogOutputDevice: Error: [Callstack] 0x00007ff981b98929 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.23-04.26.21:208][212]LogOutputDevice: Error: [Callstack] 0x00007ff9819c6e76 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.23-04.26.21:208][212]LogOutputDevice: Error: [Callstack] 0x00007ff981c3c307 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.23-04.26.21:208][212]LogOutputDevice: Error: [Callstack] 0x00007ff981c3c629 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.23-04.26.21:208][212]LogOutputDevice: Error: [Callstack] 0x00007ff9819ca0c8 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.23-04.26.21:208][212]LogOutputDevice: Error: [Callstack] 0x00007ff9819c7b0c UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.23-04.26.21:208][212]LogOutputDevice: Error: [Callstack] 0x00007ff9819c6f8e UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.23-04.26.21:208][212]LogOutputDevice: Error: [Callstack] 0x00007ff981c3c307 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.23-04.26.21:208][212]LogOutputDevice: Error: [Callstack] 0x00007ff981bdca76 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.23-04.26.21:208][212]LogOutputDevice: Error: [Callstack] 0x00007ff981c3c629 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.23-04.26.21:208][212]LogOutputDevice: Error: [Callstack] 0x00007ff9819ca0c8 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.23-04.26.21:208][212]LogOutputDevice: Error: [Callstack] 0x00007ff9819c7b0c UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.23-04.26.21:208][212]LogOutputDevice: Error: [Callstack] 0x00007ff981b86c34 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.23-04.26.21:208][212]LogOutputDevice: Error: [Callstack] 0x00007ff981b83330 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.23-04.26.21:208][212]LogOutputDevice: Error: [Callstack] 0x00007ff981b82d9b UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.23-04.26.21:208][212]LogOutputDevice: Error: [Callstack] 0x00007ff968b9d160 UE4Editor-Engine.dll!UnknownFunction []
+[2021.11.23-04.26.21:208][212]LogOutputDevice: Error: [Callstack] 0x00007ff968b9cd54 UE4Editor-Engine.dll!UnknownFunction []
+[2021.11.23-04.26.21:208][212]LogOutputDevice: Error: [Callstack] 0x00007ff981c1f522 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.23-04.26.21:208][212]LogOutputDevice: Error: [Callstack] 0x00007ff981c4043b UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.23-04.26.21:208][212]LogOutputDevice: Error: [Callstack] 0x00007ff981c264cc UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.23-04.26.21:208][212]LogOutputDevice: Error: [Callstack] 0x00007ff959cb83ce UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.11.23-04.26.21:208][212]LogOutputDevice: Error: [Callstack] 0x00007ff959cb8ebe UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.11.23-04.26.21:208][212]LogOutputDevice: Error: [Callstack] 0x00007ff959cf325e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.11.23-04.26.21:208][212]LogOutputDevice: Error: [Callstack] 0x00007ff959cefb7c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.11.23-04.26.21:208][212]LogOutputDevice: Error: [Callstack] 0x00007ff95a550467 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.11.23-04.26.21:208][212]LogOutputDevice: Error: [Callstack] 0x00007ff95a01dd83 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.11.23-04.26.21:208][212]LogOutputDevice: Error: [Callstack] 0x00007ff95a01c69d UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.11.23-04.26.21:208][212]LogOutputDevice: Error: [Callstack] 0x00007ff95a0329d0 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.11.23-04.26.21:208][212]LogOutputDevice: Error: [Callstack] 0x00007ff9403f6ca7 UE4Editor-AssetTools.dll!UnknownFunction []
+[2021.11.23-04.26.21:208][212]LogOutputDevice: Error: [Callstack] 0x00007ff940395b6a UE4Editor-AssetTools.dll!UnknownFunction []
+[2021.11.23-04.26.21:208][212]LogOutputDevice: Error: [Callstack] 0x00007ff940410bc2 UE4Editor-AssetTools.dll!UnknownFunction []
+[2021.11.23-04.26.21:208][212]LogOutputDevice: Error: [Callstack] 0x00007ff9403dc612 UE4Editor-AssetTools.dll!UnknownFunction []
+[2021.11.23-04.26.21:208][212]LogOutputDevice: Error: [Callstack] 0x00007ff92dbd2768 UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2021.11.23-04.26.21:208][212]LogOutputDevice: Error: [Callstack] 0x00007ff92dbd2bf5 UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2021.11.23-04.26.21:208][212]LogOutputDevice: Error: [Callstack] 0x00007ff92db92710 UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2021.11.23-04.26.21:208][212]LogOutputDevice: Error: [Callstack] 0x00007ff94eccaadf UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.11.23-04.26.21:208][212]LogOutputDevice: Error: [Callstack] 0x00007ff94ecfed1b UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.11.23-04.26.21:208][212]LogOutputDevice: Error: [Callstack] 0x00007ff94ed5373d UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.11.23-04.26.21:208][212]LogOutputDevice: Error: [Callstack] 0x00007ff97e581b55 UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.23-04.26.21:208][212]LogOutputDevice: Error: [Callstack] 0x00007ff97e588370 UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.23-04.26.21:208][212]LogOutputDevice: Error: [Callstack] 0x00007ff97e55c587 UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.23-04.26.21:208][212]LogOutputDevice: Error: [Callstack] 0x00007ff97e5fa6fe UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.23-04.26.21:208][212]LogOutputDevice: Error: [Callstack] 0x00007ff97e61280e UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.23-04.26.21:208][212]LogOutputDevice: Error: [Callstack] 0x00007ff97e589ae5 UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.23-04.26.21:208][212]LogOutputDevice: Error: [Callstack] 0x00007ff97e46421e UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.23-04.26.21:208][212]LogOutputDevice: Error: [Callstack] 0x00007ff97e4de104 UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.23-04.26.21:208][212]LogOutputDevice: Error: [Callstack] 0x00007ff97e4c7097 UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.23-04.26.21:208][212]LogOutputDevice: Error: [Callstack] 0x00007ff97e4b9b62 UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.23-04.26.21:208][212]LogOutputDevice: Error: [Callstack] 0x00007ff9ad75c025 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.11.23-04.26.21:208][212]LogOutputDevice: Error: [Callstack] 0x00007ff9ad7492b7 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.11.23-04.26.21:208][212]LogOutputDevice: Error: [Callstack] 0x00007ff9ad75e465 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.11.23-04.26.21:208][212]LogOutputDevice: Error: [Callstack] 0x00007ff9ad744410 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.11.23-04.26.21:208][212]LogOutputDevice: Error: [Callstack] 0x00007ff9e297e7e8 USER32.dll!UnknownFunction []
+[2021.11.23-04.26.21:208][212]LogOutputDevice: Error: [Callstack] 0x00007ff9e297e229 USER32.dll!UnknownFunction []
+[2021.11.23-04.26.21:208][212]LogOutputDevice: Error: [Callstack] 0x00007ff9ad75fcd4 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.11.23-04.26.21:208][212]LogOutputDevice: Error: [Callstack] 0x00007ff7b8cf7621 UE4Editor.exe!UnknownFunction []
+[2021.11.23-04.26.21:208][212]LogOutputDevice: Error: [Callstack] 0x00007ff7b8d10fbc UE4Editor.exe!UnknownFunction []
+[2021.11.23-04.26.21:208][212]LogOutputDevice: Error: [Callstack] 0x00007ff7b8d110aa UE4Editor.exe!UnknownFunction []
+[2021.11.23-04.26.21:208][212]LogOutputDevice: Error: [Callstack] 0x00007ff7b8d140cd UE4Editor.exe!UnknownFunction []
+[2021.11.23-04.26.21:208][212]LogOutputDevice: Error: [Callstack] 0x00007ff7b8d25984 UE4Editor.exe!UnknownFunction []
+[2021.11.23-04.26.21:208][212]LogOutputDevice: Error: [Callstack] 0x00007ff7b8d2853a UE4Editor.exe!UnknownFunction []
+[2021.11.23-04.26.21:208][212]LogOutputDevice: Error: [Callstack] 0x00007ff9e20a7034 KERNEL32.DLL!UnknownFunction []
+[2021.11.23-04.26.21:208][212]LogOutputDevice: Error: [Callstack] 0x00007ff9e31c2651 ntdll.dll!UnknownFunction []
+[2021.11.23-04.26.21:208][212]LogOutputDevice: Error: 

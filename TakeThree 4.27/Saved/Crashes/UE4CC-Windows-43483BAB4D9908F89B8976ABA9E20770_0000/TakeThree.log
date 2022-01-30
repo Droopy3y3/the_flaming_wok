@@ -1,0 +1,1392 @@
+﻿Log file open, 01/28/22 19:38:19
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: TakeThree
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.907746
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -7:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-17735300
+LogInit: Engine Version: 4.27.1-17735300+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-4790 CPU @ 3.60GHz, GPU: AMD Radeon(TM) R5 240
+LogInit: Compiled (64-bit): Oct  6 2021 14:42:51
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.01.29-02.38.21:853][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.01.29-02.38.21:853][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.01.29-02.38.21:853][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Saved/Config/Windows/Engine.ini]
+[2022.01.29-02.38.21:853][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.01.29-02.38.21:853][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Saved/Config/Windows/Engine.ini]
+[2022.01.29-02.38.21:853][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Saved/Config/Windows/Engine.ini]
+[2022.01.29-02.38.21:853][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.01.29-02.38.21:853][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.01.29-02.38.21:853][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.01.29-02.38.21:853][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.01.29-02.38.21:853][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.01.29-02.38.21:853][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.01.29-02.38.21:853][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.01.29-02.38.21:853][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.01.29-02.38.21:853][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.01.29-02.38.21:853][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.01.29-02.38.21:853][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.01.29-02.38.21:853][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.01.29-02.38.21:853][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.01.29-02.38.21:853][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.01.29-02.38.21:853][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Saved/Config/Windows/Engine.ini]
+[2022.01.29-02.38.21:853][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.01.29-02.38.21:853][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.01.29-02.38.21:853][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.01.29-02.38.21:853][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.01.29-02.38.21:853][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.01.29-02.38.21:853][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.01.29-02.38.21:853][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.01.29-02.38.21:853][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.01.29-02.38.21:853][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.01.29-02.38.21:853][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.01.29-02.38.21:853][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.01.29-02.38.21:853][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.01.29-02.38.21:853][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.01.29-02.38.21:853][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.01.29-02.38.21:853][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Saved/Config/Windows/Engine.ini]
+[2022.01.29-02.38.21:853][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Saved/Config/Windows/Engine.ini]
+[2022.01.29-02.38.21:865][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Saved/Config/Windows/Scalability.ini]
+[2022.01.29-02.38.21:865][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.01.29-02.38.21:865][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.01.29-02.38.21:865][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Saved/Config/Windows/Scalability.ini]
+[2022.01.29-02.38.21:865][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.01.29-02.38.21:865][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Saved/Config/Windows/Scalability.ini]
+[2022.01.29-02.38.21:865][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.01.29-02.38.21:865][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.01.29-02.38.21:865][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.01.29-02.38.21:865][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.01.29-02.38.21:865][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.01.29-02.38.21:865][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.01.29-02.38.21:865][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.01.29-02.38.21:865][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.01.29-02.38.21:865][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.01.29-02.38.21:865][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.01.29-02.38.21:865][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.01.29-02.38.21:865][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.01.29-02.38.21:865][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.01.29-02.38.21:865][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.01.29-02.38.21:865][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.01.29-02.38.21:865][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.01.29-02.38.21:865][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.01.29-02.38.21:865][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.01.29-02.38.21:865][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Saved/Config/Windows/Scalability.ini]
+[2022.01.29-02.38.21:865][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.01.29-02.38.21:865][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.01.29-02.38.21:865][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.01.29-02.38.21:865][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.01.29-02.38.21:865][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.01.29-02.38.21:865][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.01.29-02.38.21:865][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.01.29-02.38.21:865][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.01.29-02.38.21:865][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.01.29-02.38.21:865][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.01.29-02.38.21:865][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.01.29-02.38.21:865][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.01.29-02.38.21:865][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.01.29-02.38.21:866][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.01.29-02.38.21:866][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.01.29-02.38.21:866][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.01.29-02.38.21:866][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.01.29-02.38.21:866][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.01.29-02.38.21:866][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.01.29-02.38.21:866][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.01.29-02.38.21:866][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.01.29-02.38.21:866][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.01.29-02.38.21:866][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.01.29-02.38.21:866][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.01.29-02.38.21:866][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.01.29-02.38.21:866][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.01.29-02.38.21:866][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.01.29-02.38.21:866][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.01.29-02.38.21:866][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.01.29-02.38.21:866][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.01.29-02.38.21:866][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Saved/Config/Windows/Scalability.ini]
+[2022.01.29-02.38.21:866][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.01.29-02.38.21:866][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.01.29-02.38.21:866][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.01.29-02.38.21:866][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.01.29-02.38.21:866][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.01.29-02.38.21:866][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.01.29-02.38.21:866][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.01.29-02.38.21:866][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.01.29-02.38.21:866][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.01.29-02.38.21:866][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Saved/Config/Windows/Scalability.ini]
+[2022.01.29-02.38.21:866][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.01.29-02.38.21:866][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.01.29-02.38.21:866][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.01.29-02.38.21:866][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.01.29-02.38.21:866][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.01.29-02.38.21:866][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.01.29-02.38.21:866][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.01.29-02.38.21:866][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.01.29-02.38.21:866][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.01.29-02.38.21:866][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.01.29-02.38.21:866][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.01.29-02.38.21:866][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.01.29-02.38.21:866][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.01.29-02.38.21:866][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.01.29-02.38.21:866][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.01.29-02.38.21:866][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.01.29-02.38.21:866][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.01.29-02.38.21:866][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.01.29-02.38.21:866][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.01.29-02.38.21:866][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.01.29-02.38.21:866][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.01.29-02.38.21:866][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.01.29-02.38.21:866][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.01.29-02.38.21:866][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.01.29-02.38.21:866][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.01.29-02.38.21:866][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.01.29-02.38.21:866][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.01.29-02.38.21:866][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.01.29-02.38.21:866][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Saved/Config/Windows/Scalability.ini]
+[2022.01.29-02.38.21:866][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.01.29-02.38.21:866][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.01.29-02.38.21:866][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Saved/Config/Windows/Scalability.ini]
+[2022.01.29-02.38.21:866][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.01.29-02.38.21:866][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.01.29-02.38.21:866][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.01.29-02.38.21:866][  0]LogInit: Selected Device Profile: [Windows]
+[2022.01.29-02.38.21:866][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.01.29-02.38.21:866][  0]LogHAL: Display: Platform has ~ 32 GB [34299072512 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.01.29-02.38.21:866][  0]LogInit: Going up to parent DeviceProfile []
+[2022.01.29-02.38.21:866][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Saved/Config/Windows/Scalability.ini]
+[2022.01.29-02.38.21:866][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.01.29-02.38.21:866][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.01.29-02.38.21:867][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Saved/Config/Windows/Scalability.ini]
+[2022.01.29-02.38.21:867][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.01.29-02.38.21:867][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Saved/Config/Windows/Scalability.ini]
+[2022.01.29-02.38.21:867][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.01.29-02.38.21:867][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.01.29-02.38.21:867][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.01.29-02.38.21:867][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.01.29-02.38.21:867][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.01.29-02.38.21:867][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.01.29-02.38.21:867][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.01.29-02.38.21:867][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.01.29-02.38.21:867][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.01.29-02.38.21:867][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.01.29-02.38.21:867][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.01.29-02.38.21:867][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.01.29-02.38.21:867][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.01.29-02.38.21:867][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.01.29-02.38.21:867][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.01.29-02.38.21:867][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.01.29-02.38.21:867][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.01.29-02.38.21:867][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.01.29-02.38.21:867][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Saved/Config/Windows/Scalability.ini]
+[2022.01.29-02.38.21:867][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.01.29-02.38.21:867][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.01.29-02.38.21:867][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.01.29-02.38.21:867][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.01.29-02.38.21:867][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.01.29-02.38.21:867][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.01.29-02.38.21:867][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.01.29-02.38.21:867][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.01.29-02.38.21:867][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.01.29-02.38.21:867][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.01.29-02.38.21:867][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.01.29-02.38.21:867][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.01.29-02.38.21:867][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.01.29-02.38.21:867][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.01.29-02.38.21:867][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.01.29-02.38.21:867][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.01.29-02.38.21:867][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.01.29-02.38.21:867][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.01.29-02.38.21:867][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.01.29-02.38.21:867][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.01.29-02.38.21:867][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.01.29-02.38.21:867][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.01.29-02.38.21:867][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.01.29-02.38.21:867][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.01.29-02.38.21:867][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.01.29-02.38.21:867][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.01.29-02.38.21:867][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.01.29-02.38.21:867][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.01.29-02.38.21:867][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.01.29-02.38.21:867][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.01.29-02.38.21:867][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Saved/Config/Windows/Scalability.ini]
+[2022.01.29-02.38.21:867][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.01.29-02.38.21:867][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.01.29-02.38.21:867][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.01.29-02.38.21:867][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.01.29-02.38.21:867][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.01.29-02.38.21:867][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.01.29-02.38.21:867][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.01.29-02.38.21:867][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.01.29-02.38.21:867][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.01.29-02.38.21:867][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Saved/Config/Windows/Scalability.ini]
+[2022.01.29-02.38.21:867][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.01.29-02.38.21:867][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.01.29-02.38.21:867][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.01.29-02.38.21:867][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.01.29-02.38.21:867][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.01.29-02.38.21:867][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.01.29-02.38.21:867][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.01.29-02.38.21:867][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.01.29-02.38.21:867][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.01.29-02.38.21:867][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.01.29-02.38.21:867][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.01.29-02.38.21:867][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.01.29-02.38.21:867][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.01.29-02.38.21:867][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.01.29-02.38.21:867][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.01.29-02.38.21:867][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.01.29-02.38.21:867][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.01.29-02.38.21:867][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.01.29-02.38.21:867][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.01.29-02.38.21:867][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.01.29-02.38.21:867][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.01.29-02.38.21:868][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.01.29-02.38.21:868][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.01.29-02.38.21:868][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.01.29-02.38.21:868][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.01.29-02.38.21:868][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.01.29-02.38.21:868][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.01.29-02.38.21:868][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.01.29-02.38.21:868][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Saved/Config/Windows/Scalability.ini]
+[2022.01.29-02.38.21:868][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.01.29-02.38.21:868][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.01.29-02.38.21:868][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Saved/Config/Windows/Scalability.ini]
+[2022.01.29-02.38.21:868][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.01.29-02.38.21:868][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.01.29-02.38.21:868][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.01.29-02.38.21:868][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.01.29-02.38.21:869][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.01.29-02.38.21:869][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.01.29-02.38.21:869][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.01.29-02.38.21:869][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Saved/Config/Windows/Engine.ini]
+[2022.01.29-02.38.21:869][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Saved/Config/Windows/Editor.ini]
+[2022.01.29-02.38.21:869][  0]LogInit: Computer: DESKTOP-RJUVOGR
+[2022.01.29-02.38.21:869][  0]LogInit: User: Rental
+[2022.01.29-02.38.21:869][  0]LogInit: CPU Page size=4096, Cores=4
+[2022.01.29-02.38.21:869][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.01.29-02.38.21:869][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2022.01.29-02.38.21:869][  0]LogMemory: Platform Memory Stats for Windows
+[2022.01.29-02.38.21:869][  0]LogMemory: Process Physical Memory: 144.77 MB used, 144.78 MB peak
+[2022.01.29-02.38.21:869][  0]LogMemory: Process Virtual Memory: 129.30 MB used, 129.30 MB peak
+[2022.01.29-02.38.21:869][  0]LogMemory: Physical Memory: 8821.82 MB used,  23888.32 MB free, 32710.14 MB total
+[2022.01.29-02.38.21:869][  0]LogMemory: Virtual Memory: 134190704.00 MB used,  27026.82 MB free, 134217728.00 MB total
+[2022.01.29-02.38.21:878][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.01.29-02.38.21:943][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.01.29-02.38.21:945][  0]LogInit: Using OS detected language (en-US).
+[2022.01.29-02.38.21:945][  0]LogInit: Using OS detected locale (en-US).
+[2022.01.29-02.38.21:958][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2022.01.29-02.38.22:337][  0]LogInit: Setting process to per monitor DPI aware
+[2022.01.29-02.38.22:478][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.01.29-02.38.22:892][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.01.29-02.38.22:892][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.01.29-02.38.27:130][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2022.01.29-02.38.27:138][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.01.29-02.38.27:138][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.01.29-02.38.27:138][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.01.29-02.38.27:138][  0]LogD3D11RHI: D3D11 adapters:
+[2022.01.29-02.38.27:165][  0]LogD3D11RHI:    0. 'AMD Radeon(TM) R5 240' (Feature Level 11_0)
+[2022.01.29-02.38.27:166][  0]LogD3D11RHI:       1004/0/16355 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2022.01.29-02.38.27:171][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.01.29-02.38.27:171][  0]LogD3D11RHI:       0/0/16355 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.01.29-02.38.27:171][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2022.01.29-02.38.27:171][  0]LogD3D11RHI:     Description : AMD Radeon(TM) R5 240
+[2022.01.29-02.38.27:171][  0]LogD3D11RHI:     VendorId    : 1002
+[2022.01.29-02.38.27:171][  0]LogD3D11RHI:     DeviceId    : 6611
+[2022.01.29-02.38.27:171][  0]LogD3D11RHI:     SubSysId    : 210b1028
+[2022.01.29-02.38.27:171][  0]LogD3D11RHI:     Revision    : 0000
+[2022.01.29-02.38.27:171][  0]LogD3D11RHI:     DedicatedVideoMemory : 1053327360 bytes
+[2022.01.29-02.38.27:171][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.01.29-02.38.27:171][  0]LogD3D11RHI:     SharedSystemMemory : 17149536256 bytes
+[2022.01.29-02.38.27:171][  0]LogD3D11RHI:     AdapterLuid : 0 44209
+[2022.01.29-02.38.27:181][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.01.29-02.38.27:181][  0]LogD3D11RHI:     GPU DeviceId: 0x6611 (for the marketing name, search the web for "GPU Device Id")
+[2022.01.29-02.38.27:181][  0]LogWindows: EnumDisplayDevices:
+[2022.01.29-02.38.27:181][  0]LogWindows:    0. 'AMD Radeon(TM) R5 240' (P:1 D:1)
+[2022.01.29-02.38.27:182][  0]LogWindows:    1. 'AMD Radeon(TM) R5 240' (P:0 D:0)
+[2022.01.29-02.38.27:183][  0]LogWindows:    2. 'AMD Radeon(TM) R5 240' (P:0 D:0)
+[2022.01.29-02.38.27:183][  0]LogWindows:    3. 'AMD Radeon(TM) R5 240' (P:0 D:0)
+[2022.01.29-02.38.27:184][  0]LogWindows:    4. 'AMD Radeon(TM) R5 240' (P:0 D:0)
+[2022.01.29-02.38.27:185][  0]LogWindows:    5. 'AMD Radeon(TM) R5 240' (P:0 D:0)
+[2022.01.29-02.38.27:186][  0]LogWindows:    6. 'AMD Radeon(TM) R5 240' (P:0 D:0)
+[2022.01.29-02.38.27:187][  0]LogWindows:    7. 'AMD Radeon(TM) R5 240' (P:0 D:0)
+[2022.01.29-02.38.27:187][  0]LogWindows:    8. 'AMD Radeon(TM) R5 240' (P:0 D:0)
+[2022.01.29-02.38.27:188][  0]LogWindows:    9. 'AMD Radeon(TM) R5 240' (P:0 D:0)
+[2022.01.29-02.38.27:189][  0]LogWindows:    10. 'AMD Radeon(TM) R5 240' (P:0 D:0)
+[2022.01.29-02.38.27:190][  0]LogWindows:    11. 'AMD Radeon(TM) R5 240' (P:0 D:0)
+[2022.01.29-02.38.27:190][  0]LogWindows:    12. 'AMD Radeon(TM) R5 240' (P:0 D:0)
+[2022.01.29-02.38.27:191][  0]LogWindows:    13. 'AMD Radeon(TM) R5 240' (P:0 D:0)
+[2022.01.29-02.38.27:192][  0]LogWindows:    14. 'AMD Radeon(TM) R5 240' (P:0 D:0)
+[2022.01.29-02.38.27:193][  0]LogWindows:    15. 'AMD Radeon(TM) R5 240' (P:0 D:0)
+[2022.01.29-02.38.27:194][  0]LogWindows: DebugString: FoundDriverCount:16 
+[2022.01.29-02.38.27:194][  0]LogD3D11RHI:     Adapter Name: AMD Radeon(TM) R5 240
+[2022.01.29-02.38.27:194][  0]LogD3D11RHI:   Driver Version: Crimson ReLive 17.7 (internal:23.20.806.256, unified:23.20.806.256)
+[2022.01.29-02.38.27:194][  0]LogD3D11RHI:      Driver Date: 12-7-2017
+[2022.01.29-02.38.27:194][  0]LogRHI: Texture pool is 597 MB (70% of 853 MB)
+[2022.01.29-02.38.27:245][  0]LogD3D11RHI: Creating D3DDevice with AMD AGS, using adapter:
+[2022.01.29-02.38.27:245][  0]LogD3D11RHI:     Description : AMD Radeon(TM) R5 240
+[2022.01.29-02.38.27:245][  0]LogD3D11RHI:     VendorId    : 1002
+[2022.01.29-02.38.27:245][  0]LogD3D11RHI:     DeviceId    : 6611
+[2022.01.29-02.38.27:245][  0]LogD3D11RHI:     SubSysId    : 210b1028
+[2022.01.29-02.38.27:245][  0]LogD3D11RHI:     Revision    : 0000
+[2022.01.29-02.38.27:245][  0]LogD3D11RHI:     DedicatedVideoMemory : 1053327360 bytes
+[2022.01.29-02.38.27:245][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.01.29-02.38.27:245][  0]LogD3D11RHI:     SharedSystemMemory : 17149536256 bytes
+[2022.01.29-02.38.27:245][  0]LogD3D11RHI:     AdapterLuid : 0 44209
+[2022.01.29-02.38.27:266][  0]LogD3D11RHI: Created device via AGS, feature level 11_0, supported extensions 1fffbf.
+[2022.01.29-02.38.27:266][  0]LogD3D11RHI: RHI does not have support for 64 bit atomics
+[2022.01.29-02.38.27:266][  0]LogD3D11RHI: Async texture creation enabled
+[2022.01.29-02.38.27:266][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.01.29-02.38.27:279][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2022.01.29-02.38.27:920][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.01.29-02.38.27:950][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.01.29-02.38.27:950][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.01.29-02.38.27:950][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.01.29-02.38.27:950][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.01.29-02.38.27:950][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.01.29-02.38.27:951][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.01.29-02.38.27:951][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.01.29-02.38.27:951][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.01.29-02.38.27:951][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.01.29-02.38.27:951][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.01.29-02.38.27:985][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.01.29-02.38.27:985][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.01.29-02.38.28:003][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.01.29-02.38.28:012][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.01.29-02.38.28:020][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.01.29-02.38.28:028][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.01.29-02.38.28:046][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.01.29-02.38.28:055][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.01.29-02.38.28:063][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.01.29-02.38.28:135][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.01.29-02.38.28:135][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.01.29-02.38.28:154][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.01.29-02.38.28:162][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.01.29-02.38.28:169][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.01.29-02.38.28:177][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.01.29-02.38.28:194][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.01.29-02.38.28:194][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.01.29-02.38.28:211][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.01.29-02.38.28:220][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.01.29-02.38.28:228][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.01.29-02.38.28:238][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.01.29-02.38.28:238][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.01.29-02.38.28:256][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.01.29-02.38.28:332][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2022.01.29-02.38.28:396][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.01.29-02.38.28:396][  0]LogShaderCompilers: Guid format shader working directory is -32 characters bigger than the processId version (../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Intermediate/Shaders/WorkingDirectory/11864/).
+[2022.01.29-02.38.28:396][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Rental/AppData/Local/Temp/UnrealShaderWorkingDir/701D7BC84DAEC2CCC96EAD8AC3E1B705/'.
+[2022.01.29-02.38.28:397][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.01.29-02.38.28:397][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.01.29-02.38.28:397][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.01.29-02.38.35:276][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.01.29-02.38.36:511][  0]LogDerivedDataCache: Loaded boot cache 1.24s 96MB C:/Users/Rental/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.01.29-02.38.36:512][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Rental/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2022.01.29-02.38.36:512][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.01.29-02.38.36:512][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.01.29-02.38.36:512][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.01.29-02.38.36:512][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.01.29-02.38.36:549][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.01.29-02.38.36:549][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.01.29-02.38.36:549][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.01.29-02.38.36:613][  0]LogDerivedDataCache: Speed tests for C:/Users/Rental/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.06 seconds
+[2022.01.29-02.38.36:613][  0]LogDerivedDataCache: Display: Performance to C:/Users/Rental/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.08ms. RandomReadSpeed=148.78MBs, RandomWriteSpeed=16.63MBs. Assigned SpeedClass 'Local'
+[2022.01.29-02.38.36:613][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Rental/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.01.29-02.38.36:614][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.01.29-02.38.36:614][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.01.29-02.38.36:665][  0]LogSlate: Using FreeType 2.10.0
+[2022.01.29-02.38.36:688][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.01.29-02.38.36:860][  0]LogAssetRegistry: FAssetRegistry took 0.0035 seconds to start up
+[2022.01.29-02.38.37:173][  0]LogInit: Selected Device Profile: [Windows]
+[2022.01.29-02.38.37:174][  0]LogInit: Active device profile: [000001E90BD95300][000001E900DEB580 49] Windows
+[2022.01.29-02.38.37:174][  0]LogInit: Profiles: [000001E90BD95300][000001E900DEB580 49] Windows, [000001E90BD52E00][000001E904DCF700 49] WindowsNoEditor, [000001E90BD96500][000001E90B719880 49] WindowsServer, [000001E90BD53C00][000001E90B71DA00 49] WindowsClient, [000001E90BD97200][000001E90B721B80 49] IOS, [000001E90BD51300][000001E90B724180 49] iPadAir, [000001E90BD96900][000001E90B728300 49] iPadAir2, [000001E90CCE1C00][000001E90B7305C0 49] IPadPro, [000001E90CCE1D00][000001E90B72C600 49] iPadAir3, [000001E90BD51800][000001E90B734780 49] iPadAir4, [000001E90CCE2C00][000001E90B738900 49] iPadMini2, [000001E90BD51C00][000001E90B73CA80 49] iPadMini3, [000001E90CCE0B00][000001E904DCABC0 49] iPadMini4, [000001E90BD51700][000001E97E64ED00 49] iPadMini5, [000001E90BD21300][000001E97E656F40 49] iPhone6, [000001E90BD21400][000001E97E652F80 49] iPodTouch6, [000001E90BD95600][000001E97E663240 49] iPhone7, [000001E90BD96B00][000001E97E65F280 49] iPodTouch7, [000001E90CCE3B00][000001E97E667400 49] iPhone5S, [000001E90BD95800][000001E97E66B580 49] iPhone6Plus, [000001E90CCE3000][000001E97E66F700 49] iPhone6S, [000001E90BD97B00][000001E97E673880 49] iPhone6SPlus, [000001E90CCE1500][000001E97E677A00 49] iPhone7Plus, [000001E90BD94100][000001E90CD11B80 49] iPhoneSE, [000001E90BD94B00][000001E90CD14180 49] iPhone8, [000001E90BD20800][000001E90CD18300 49] iPhone8Plus, [000001E90BD95400][000001E90CD1C480 49] iPhoneX, [000001E90BD20F00][000001E90CD20600 49] iPhoneXS, [000001E90BD97700][000001E90CD2E780 49] iPhoneXSMax, [000001E90BD23100][000001E90CD32900 49] iPhoneXR, [000001E90BD97800][000001E90CD36A80 49] iPhone11, [000001E90BD23D00][000001E90CD3AC00 49] iPhone11Pro, [000001E90CCE2700][000001E97E65AD40 49] iPhone11ProMax, [000001E90BD20600][000001E90CD3EE80 49] iPhoneSE2, [000001E90CCE2100][000001E90CD42FC0 49] iPhone12Mini, [000001E90BD23800][000001E90CD47100 49] iPhone12, [000001E90CCE1A00][000001E90CD4F280 49] iPhone12Pro, [000001E90BD21E00][000001E90CD53400 49] iPhone12ProMax, [000001E90CCE3F00][000001E90CD57580 49] iPadPro105, [000001E90BD23400][000001E90CD5B700 49] iPadPro129, [000001E90CCE3700][000001E90CD5F880 49] iPadPro97, [000001E90BD22200][000001E90CD63A00 49] iPadPro2_129, [000001E90CCE1600][000001E90CD67B80 49] iPad5, [000001E90BD20C00][000001E90CD6A180 49] iPad6, [000001E90CCE2500][000001E90CD6E300 49] iPad7, [000001E90BD22B00][000001E90CD72480 49] iPad8, [000001E90CCE1300][000001E90CD76600 49] iPadPro11, [000001E90BD23E00][000001E90CD7A780 49] iPadPro2_11, [000001E90CCE2000][000001E90CD7E900 49] iPadPro3_129, [000001E90BD20100][000001E90CD82A80 49] iPadPro4_129, [000001E90CCE0F00][000001E90CD86C00 49] AppleTV, [000001E90BD23B00][000001E90CD8AD80 49] AppleTV4K, [000001E90CCE1800][000001E90CD8EF00 49] TVOS, [000001E90BD20400][000001E90CD4B040 49] Mac, [000001E90CCE3400][000001E90CD93180 49] MacClient, [000001E90BD22800][000001E90CD972C0 49] MacNoEditor, [000001E90CCE2D00][000001E90CD9F440 49] MacServer, [000001E90BD21900][000001E90CDA35C0 49] Linux, [000001E90CCE3200][000001E90CDA7740 49] LinuxAArch64, [000001E90BD22000][000001E90CDAB8C0 49] LinuxNoEditor, [000001E90CCE2800][000001E90CDAFA40 49] LinuxAArch64NoEditor, [000001E90BD20A00][000001E90CDB3BC0 49] LinuxClient, [000001E90CCE0500][000001E90CDB61C0 49] LinuxAArch64Client, [000001E90BD22100][000001E90CDBA340 49] LinuxServer, [000001E90CCE3100][000001E90CDBE4C0 49] LinuxAArch64Server, [000001E90BD22E00][000001E90CDC2640 49] Android, [000001E90CCE3500][000001E90CDC67C0 49] Android_Low, [000001E90BD20900][000001E90CDCA940 49] Android_Mid, [000001E90CCE3A00][000001E90CDCEAC0 49] Android_High, [000001E90BD21700][000001E90CDD2C40 49] Android_Default, [000001E90CCE0300][000001E90CDD6DC0 49] Android_Adreno4xx, [000001E90BD20E00][000001E90CDDAF40 49] Android_Adreno5xx_Low, [000001E90CCE0E00][000001E90CDDF0C0 49] Android_Adreno5xx, [000001E90BD23300][000001E90CD9B200 49] Android_Adreno6xx, [000001E90CCE2600][000001E90CDE3340 49] Android_Adreno6xx_Vulkan, [000001E90BD22400][000001E90CDE7480 49] Android_Mali_T6xx, [000001E90CCE3E00][000001E90CDEB5C0 49] Android_Mali_T7xx, [000001E90BD20500][000001E90CDF3740 49] Android_Mali_T8xx, [000001E90CCE3300][000001E90CDF78C0 49] Android_Mali_G71, [000001E90BD23600][000001E90CDFBA40 49] Android_Mali_G72, [000001E90CCE1B00][000001E90CDFFBC0 49] Android_Mali_G72_Vulkan, [000001E90BD22C00][000001E90CE021C0 49] Android_Mali_G76, [000001E90CCE2F00][000001E90CE06340 49] Android_Mali_G76_Vulkan, [000001E90BD94300][000001E90CE0A4C0 49] Android_Mali_G77, [000001E90BD53500][000001E90CE0E640 49] Android_Mali_G77_Vulkan, [000001E90BD96A00][000001E90CE127C0 49] Android_Mali_G78, [000001E90BD51900][000001E90CE16940 49] Android_Mali_G78_Vulkan, [000001E90BD94900][000001E90CE1AAC0 49] Android_Mali_G710, [000001E90BD52C00][000001E90CE1EC40 49] Android_Mali_G710_Vulkan, [000001E90BD97300][000001E90CE22DC0 49] Android_Vulkan_SM5, [000001E90BD51400][000001E90CE26F40 49] Android_PowerVR_G6xxx, [000001E90BD94600][000001E90CE2B0C0 49] Android_PowerVR_GT7xxx, [000001E90BD53700][000001E90CE2F240 49] Android_PowerVR_GE8xxx, [000001E90BD96000][000001E90CDEF380 49] Android_PowerVR_GM9xxx, [000001E90BD52F00][000001E90CE334C0 49] Android_PowerVR_GM9xxx_Vulkan, [000001E90BD97600][000001E90CE37600 49] Android_TegraK1, [000001E90BD51000][000001E90CE3B740 49] Android_Unknown_Vulkan, [000001E90BD96100][000001E90CE438C0 49] Lumin, [000001E90BD51600][000001E90CE47A40 49] Lumin_Desktop, [000001E90BD95D00][000001E90CE4BBC0 49] HoloLens, 
+[2022.01.29-02.38.37:365][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.01.29-02.38.37:365][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.01.29-02.38.37:365][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.01.29-02.38.37:365][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.01.29-02.38.37:365][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.01.29-02.38.37:406][  0]LogNetVersion: TakeThree 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 1545721811)
+[2022.01.29-02.38.38:198][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.01.29-02.38.38:282][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.01.29-02.38.38:289][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2022.01.29-02.38.38:289][  0]LogUObjectAllocator: 4301856 out of 0 bytes used by permanent object pool.
+[2022.01.29-02.38.38:289][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.01.29-02.38.38:647][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: DC42BD0F49DD99F0886EB6A71BD6440B | Instance: 62F529AE4DB3BD2EF5FC139C80CCBDE9 (DESKTOP-RJUVOGR-11864).
+[2022.01.29-02.38.39:071][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2022.01.29-02.38.39:071][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2022.01.29-02.38.39:071][  0]LogPython: Using Python 3.7.7
+[2022.01.29-02.38.39:963][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.01.29-02.38.39:982][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.01.29-02.38.40:309][  0]SourceControl: Source control is disabled
+[2022.01.29-02.38.40:309][  0]SourceControl: Source control is disabled
+[2022.01.29-02.38.40:316][  0]SourceControl: Source control is disabled
+[2022.01.29-02.38.40:323][  0]SourceControl: Source control is disabled
+[2022.01.29-02.38.40:335][  0]SourceControl: Source control is disabled
+[2022.01.29-02.38.40:351][  0]LogUProjectInfo: Found projects:
+[2022.01.29-02.38.40:952][  0]LogOpenImageDenoise: OIDN starting up
+[2022.01.29-02.38.41:034][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.01.29-02.38.41:081][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.01.29-02.38.41:081][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.01.29-02.38.41:357][  0]LogCollectionManager: Loaded 0 collections in 0.003611 seconds
+[2022.01.29-02.38.41:405][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Saved/Collections/' took 0.00s
+[2022.01.29-02.38.41:405][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Content/Developers/Rental/Collections/' took 0.00s
+[2022.01.29-02.38.41:405][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Content/Collections/' took 0.00s
+[2022.01.29-02.38.41:405][  0]LogOcInput: OculusInput pre-init called
+[2022.01.29-02.38.41:805][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2022.01.29-02.38.41:805][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2022.01.29-02.38.41:918][  0]LogEngine: Initializing Engine...
+[2022.01.29-02.38.42:058][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2022.01.29-02.38.42:059][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.01.29-02.38.42:059][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.01.29-02.38.42:060][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.01.29-02.38.42:263][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.01.29-02.38.42:278][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.01.29-02.38.42:284][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.01.29-02.38.42:293][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.01.29-02.38.42:295][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.01.29-02.38.42:296][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.01.29-02.38.42:296][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.01.29-02.38.42:296][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.29-02.38.42:296][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.29-02.38.42:296][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.29-02.38.42:296][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.29-02.38.42:296][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.29-02.38.42:296][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.29-02.38.42:296][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.29-02.38.42:296][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.29-02.38.42:297][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.01.29-02.38.42:297][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.01.29-02.38.42:297][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.01.29-02.38.42:297][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.29-02.38.42:350][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.29-02.38.42:350][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.01.29-02.38.42:452][  0]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek High Definition Audio)
+[2022.01.29-02.38.42:453][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.29-02.38.42:463][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.29-02.38.42:463][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.29-02.38.42:464][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.01.29-02.38.42:464][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.01.29-02.38.42:464][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.01.29-02.38.42:465][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.01.29-02.38.42:465][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.01.29-02.38.42:465][  0]LogInit: FAudioDevice initialized.
+[2022.01.29-02.38.42:465][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.01.29-02.38.42:465][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.01.29-02.38.43:026][  0]LogDerivedDataCache: Saved boot cache 0.56s 96MB C:/Users/Rental/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.01.29-02.38.43:027][  0]LogInit: Texture streaming: Enabled
+[2022.01.29-02.38.43:054][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.1-17735300+++UE4+Release-4.27
+[2022.01.29-02.38.43:191][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.01.29-02.38.43:191][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.01.29-02.38.43:220][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.01.29-02.38.43:317][  0]LogInit: Transaction tracking system initialized
+[2022.01.29-02.38.43:361][  0]BlueprintLog: New page: Editor Load
+[2022.01.29-02.38.43:486][  0]LocalizationService: Localization service is disabled
+[2022.01.29-02.38.43:537][  0]TimingProfiler: Initialize
+[2022.01.29-02.38.43:537][  0]TimingProfiler: OnSessionChanged
+[2022.01.29-02.38.43:537][  0]LoadingProfiler: Initialize
+[2022.01.29-02.38.43:537][  0]LoadingProfiler: OnSessionChanged
+[2022.01.29-02.38.43:537][  0]NetworkingProfiler: Initialize
+[2022.01.29-02.38.43:537][  0]NetworkingProfiler: OnSessionChanged
+[2022.01.29-02.38.43:537][  0]MemoryProfiler: Initialize
+[2022.01.29-02.38.43:537][  0]MemoryProfiler: OnSessionChanged
+[2022.01.29-02.38.43:903][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.01.29-02.38.43:903][  0]LogCook: Display: Mobile HDR setting 1
+[2022.01.29-02.38.44:251][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Content/' took 0.02s
+[2022.01.29-02.38.44:720][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2022.01.29-02.38.44:720][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2022.01.29-02.38.44:818][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.01.29-02.38.44:828][  0]SourceControl: Source control is disabled
+[2022.01.29-02.38.44:829][  0]LogUnrealEdMisc: Loading editor; pre map load, took 29.821
+[2022.01.29-02.38.44:829][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Content/TopDownBP/Maps/TopDownExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.01.29-02.38.44:829][  0]LogEditorServer: Warning: Can't find file '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2022.01.29-02.38.44:829][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.01.29-02.38.44:829][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.25ms to complete.
+[2022.01.29-02.38.44:829][  0]LogFileHelpers: Loading map 'TopDownExampleMap' took 0.001
+[2022.01.29-02.38.44:832][  0]LogUnrealEdMisc: Total Editor Startup Time, took 29.824
+[2022.01.29-02.38.45:262][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.29-02.38.45:273][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.29-02.38.45:280][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.29-02.38.45:287][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.29-02.38.45:417][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0290 seconds. Added 3822 classes and 928 folders.
+[2022.01.29-02.38.45:449][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2022.01.29-02.38.45:633][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.01.29-02.38.45:633][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.29-02.38.45:633][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.01.29-02.38.45:633][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.29-02.38.45:634][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2022.01.29-02.38.45:634][  0]LogPakFile: OnPakFileMounted2Time == 0.000085
+[2022.01.29-02.38.45:653][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.01.29-02.38.45:653][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.29-02.38.45:653][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.01.29-02.38.45:653][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.29-02.38.45:653][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2022.01.29-02.38.45:653][  0]LogPakFile: OnPakFileMounted2Time == 0.000053
+[2022.01.29-02.38.45:667][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2022.01.29-02.38.45:667][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.29-02.38.45:668][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2022.01.29-02.38.45:668][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.29-02.38.45:668][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2022.01.29-02.38.45:668][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2022.01.29-02.38.45:673][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.01.29-02.38.45:673][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.29-02.38.45:673][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.01.29-02.38.45:673][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.29-02.38.45:673][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack)
+[2022.01.29-02.38.45:673][  0]LogPakFile: OnPakFileMounted2Time == 0.000047
+[2022.01.29-02.38.45:698][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.01.29-02.38.45:698][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.29-02.38.45:698][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.01.29-02.38.45:698][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.29-02.38.45:699][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2022.01.29-02.38.45:699][  0]LogPakFile: OnPakFileMounted2Time == 0.000048
+[2022.01.29-02.38.45:718][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.01.29-02.38.45:718][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.29-02.38.45:718][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.01.29-02.38.45:718][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.29-02.38.45:718][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2022.01.29-02.38.45:718][  0]LogPakFile: OnPakFileMounted2Time == 0.000045
+[2022.01.29-02.38.45:736][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.01.29-02.38.45:736][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.29-02.38.45:736][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.01.29-02.38.45:736][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.29-02.38.45:736][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2022.01.29-02.38.45:736][  0]LogPakFile: OnPakFileMounted2Time == 0.000045
+[2022.01.29-02.38.45:753][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.01.29-02.38.45:753][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.29-02.38.45:753][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.01.29-02.38.45:753][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.29-02.38.45:753][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2022.01.29-02.38.45:754][  0]LogPakFile: OnPakFileMounted2Time == 0.000099
+[2022.01.29-02.38.45:778][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.01.29-02.38.45:778][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.29-02.38.45:778][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.01.29-02.38.45:778][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.29-02.38.45:778][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2022.01.29-02.38.45:778][  0]LogPakFile: OnPakFileMounted2Time == 0.000045
+[2022.01.29-02.38.45:854][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.01.29-02.38.45:854][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.29-02.38.45:854][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.01.29-02.38.45:854][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.29-02.38.45:854][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2022.01.29-02.38.45:854][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2022.01.29-02.38.45:876][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.01.29-02.38.45:877][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.29-02.38.45:877][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.01.29-02.38.45:877][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.29-02.38.45:877][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2022.01.29-02.38.45:877][  0]LogPakFile: OnPakFileMounted2Time == 0.000045
+[2022.01.29-02.38.45:893][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.01.29-02.38.45:893][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.29-02.38.45:893][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.01.29-02.38.45:893][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.29-02.38.45:893][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2022.01.29-02.38.45:893][  0]LogPakFile: OnPakFileMounted2Time == 0.000046
+[2022.01.29-02.38.45:948][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.01.29-02.38.45:948][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.29-02.38.45:948][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.01.29-02.38.45:948][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.29-02.38.45:948][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2022.01.29-02.38.45:948][  0]LogPakFile: OnPakFileMounted2Time == 0.000049
+[2022.01.29-02.38.45:986][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.01.29-02.38.45:986][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.29-02.38.45:986][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.01.29-02.38.45:986][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.29-02.38.45:986][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2022.01.29-02.38.45:986][  0]LogPakFile: OnPakFileMounted2Time == 0.000053
+[2022.01.29-02.38.46:215][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.01.29-02.38.46:215][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.29-02.38.46:215][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.01.29-02.38.46:215][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.29-02.38.46:215][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2022.01.29-02.38.46:215][  0]LogPakFile: OnPakFileMounted2Time == 0.000046
+[2022.01.29-02.38.46:229][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.01.29-02.38.46:229][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.29-02.38.46:229][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.01.29-02.38.46:229][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.29-02.38.46:229][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2022.01.29-02.38.46:229][  0]LogPakFile: OnPakFileMounted2Time == 0.000080
+[2022.01.29-02.38.46:249][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.01.29-02.38.46:249][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.29-02.38.46:249][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.01.29-02.38.46:249][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.29-02.38.46:249][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2022.01.29-02.38.46:249][  0]LogPakFile: OnPakFileMounted2Time == 0.000059
+[2022.01.29-02.38.46:270][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.01.29-02.38.46:270][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.29-02.38.46:270][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.01.29-02.38.46:270][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.29-02.38.46:270][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2022.01.29-02.38.46:270][  0]LogPakFile: OnPakFileMounted2Time == 0.000056
+[2022.01.29-02.38.46:292][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.01.29-02.38.46:292][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.29-02.38.46:292][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.01.29-02.38.46:292][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.29-02.38.46:292][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2022.01.29-02.38.46:292][  0]LogPakFile: OnPakFileMounted2Time == 0.000052
+[2022.01.29-02.38.46:314][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.01.29-02.38.46:315][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.29-02.38.46:315][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.01.29-02.38.46:315][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.29-02.38.46:315][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2022.01.29-02.38.46:315][  0]LogPakFile: OnPakFileMounted2Time == 0.000045
+[2022.01.29-02.38.46:329][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.01.29-02.38.46:329][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.29-02.38.46:329][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.01.29-02.38.46:329][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.29-02.38.46:329][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2022.01.29-02.38.46:329][  0]LogPakFile: OnPakFileMounted2Time == 0.000051
+[2022.01.29-02.38.46:342][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.01.29-02.38.46:342][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.29-02.38.46:342][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.01.29-02.38.46:342][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.29-02.38.46:342][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2022.01.29-02.38.46:342][  0]LogPakFile: OnPakFileMounted2Time == 0.000064
+[2022.01.29-02.38.46:356][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2022.01.29-02.38.46:356][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.29-02.38.46:356][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2022.01.29-02.38.46:356][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.29-02.38.46:356][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2022.01.29-02.38.46:356][  0]LogPakFile: OnPakFileMounted2Time == 0.000045
+[2022.01.29-02.38.46:371][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.01.29-02.38.46:371][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.29-02.38.46:371][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.01.29-02.38.46:371][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.29-02.38.46:371][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2022.01.29-02.38.46:371][  0]LogPakFile: OnPakFileMounted2Time == 0.000045
+[2022.01.29-02.38.46:391][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.01.29-02.38.46:391][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.29-02.38.46:391][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.01.29-02.38.46:391][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.29-02.38.46:391][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2022.01.29-02.38.46:392][  0]LogPakFile: OnPakFileMounted2Time == 0.000046
+[2022.01.29-02.38.46:408][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.01.29-02.38.46:408][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.29-02.38.46:408][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.01.29-02.38.46:408][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.29-02.38.46:408][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2022.01.29-02.38.46:408][  0]LogPakFile: OnPakFileMounted2Time == 0.000057
+[2022.01.29-02.38.53:757][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2022.01.29-02.38.53:759][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2022.01.29-02.38.54:058][  0]LogSlate: Took 0.000823 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.01.29-02.38.54:080][  0]LogSlate: Took 0.021875 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.01.29-02.38.54:085][  0]LogSlate: Took 0.001398 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.01.29-02.38.54:612][  0]LogRenderer: Reallocating scene render targets to support 956x556 Format 10 NumSamples 1 (Frame:1).
+[2022.01.29-02.38.55:440][  0]LogSlate: Took 0.024092 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.01.29-02.38.55:585][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.01.29-02.38.55:585][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Back_Click.
+[2022.01.29-02.38.55:585][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2022.01.29-02.38.55:585][  0]LogLoad: (Engine Initialization) Total time: 40.58 seconds
+[2022.01.29-02.38.55:585][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.01.29-02.38.55:635][  0]LogAssetRegistry: Asset discovery search completed in 18.7754 seconds
+[2022.01.29-02.38.55:648][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2022.01.29-02.38.55:650][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.01.29-02.39.05:218][251]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2022.01.29-02.39.05:237][251]LogSlate: Took 0.000849 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.01.29-02.39.12:250][251]LogStaticMesh: Building static mesh keeplvl1_Frame_001...
+[2022.01.29-02.39.12:260][251]LogStaticMesh: Built static mesh [0.03s] /Game/Main/Maps/BUILDINGS/TownHallLvl1/parts/keeplvl1_Frame_001.keeplvl1_Frame_001
+[2022.01.29-02.39.12:335][251]LogStaticMesh: Building static mesh keeplvl1_Frame...
+[2022.01.29-02.39.12:345][251]LogStaticMesh: Built static mesh [0.06s] /Game/Main/Maps/BUILDINGS/TownHallLvl1/parts/keeplvl1_Frame.keeplvl1_Frame
+[2022.01.29-02.39.12:573][251]LogStaticMesh: Building static mesh keeplvl1_Cylinder...
+[2022.01.29-02.39.12:595][251]LogStaticMesh: Built static mesh [0.04s] /Game/Main/Maps/BUILDINGS/TownHallLvl1/parts/keeplvl1_Cylinder.keeplvl1_Cylinder
+[2022.01.29-02.39.12:620][251]LogStaticMesh: Building static mesh keeplvl1_Cube_222...
+[2022.01.29-02.39.13:966][251]LogStaticMesh: Built static mesh [1.37s] /Game/Main/Maps/BUILDINGS/TownHallLvl1/parts/keeplvl1_Cube_222.keeplvl1_Cube_222
+[2022.01.29-02.39.14:312][251]LogStaticMesh: Building static mesh keeplvl1_Cube_1417...
+[2022.01.29-02.39.15:270][251]LogStaticMesh: Built static mesh [0.96s] /Game/Main/Maps/BUILDINGS/TownHallLvl1/parts/keeplvl1_Cube_1417.keeplvl1_Cube_1417
+[2022.01.29-02.39.16:201][251]LogStaticMesh: Building static mesh BUTCHERshop_Cube_011...
+[2022.01.29-02.39.16:212][251]LogStaticMesh: Built static mesh [0.04s] /Game/Main/Maps/BUILDINGS/HuntersLodge/parts/BUTCHERshop_Cube_011.BUTCHERshop_Cube_011
+[2022.01.29-02.39.16:233][251]LogStaticMesh: Building static mesh BUTCHERshop_Cube_009...
+[2022.01.29-02.39.16:238][251]LogStaticMesh: Built static mesh [0.01s] /Game/Main/Maps/BUILDINGS/HuntersLodge/parts/BUTCHERshop_Cube_009.BUTCHERshop_Cube_009
+[2022.01.29-02.39.16:259][251]LogStaticMesh: Building static mesh BUTCHERshop_Cube_012...
+[2022.01.29-02.39.16:264][251]LogStaticMesh: Built static mesh [0.02s] /Game/Main/Maps/BUILDINGS/HuntersLodge/parts/BUTCHERshop_Cube_012.BUTCHERshop_Cube_012
+[2022.01.29-02.39.16:267][251]LogStaticMesh: Building static mesh BUTCHERshop_Cube_010...
+[2022.01.29-02.39.16:272][251]LogStaticMesh: Built static mesh [0.01s] /Game/Main/Maps/BUILDINGS/HuntersLodge/parts/BUTCHERshop_Cube_010.BUTCHERshop_Cube_010
+[2022.01.29-02.39.17:151][251]LogStaticMesh: Building static mesh BUTCHERshop_Plane_002...
+[2022.01.29-02.39.17:163][251]LogStaticMesh: Built static mesh [0.01s] /Game/Main/Maps/BUILDINGS/HuntersLodge/parts/BUTCHERshop_Plane_002.BUTCHERshop_Plane_002
+[2022.01.29-02.39.17:166][251]LogStaticMesh: Building static mesh BUTCHERshop_Plane_001...
+[2022.01.29-02.39.17:170][251]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/HuntersLodge/parts/BUTCHERshop_Plane_001.BUTCHERshop_Plane_001
+[2022.01.29-02.39.17:201][251]LogStaticMesh: Building static mesh BUTCHERshop_Plane...
+[2022.01.29-02.39.17:204][251]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/HuntersLodge/parts/BUTCHERshop_Plane.BUTCHERshop_Plane
+[2022.01.29-02.39.17:405][251]LogStaticMesh: Building static mesh BUTCHERshop_Cube_036...
+[2022.01.29-02.39.17:412][251]LogStaticMesh: Built static mesh [0.04s] /Game/Main/Maps/BUILDINGS/HuntersLodge/parts/BUTCHERshop_Cube_036.BUTCHERshop_Cube_036
+[2022.01.29-02.39.18:484][251]LogStaticMesh: Building static mesh BUTCHERshop_Cube_014...
+[2022.01.29-02.39.18:490][251]LogStaticMesh: Built static mesh [0.01s] /Game/Main/Maps/BUILDINGS/HuntersLodge/parts/BUTCHERshop_Cube_014.BUTCHERshop_Cube_014
+[2022.01.29-02.39.18:541][251]LogStaticMesh: Building static mesh BUTCHERshop_Cube_015...
+[2022.01.29-02.39.18:547][251]LogStaticMesh: Built static mesh [0.01s] /Game/Main/Maps/BUILDINGS/HuntersLodge/parts/BUTCHERshop_Cube_015.BUTCHERshop_Cube_015
+[2022.01.29-02.39.18:597][251]LogStaticMesh: Building static mesh BUTCHERshop_Cube_013...
+[2022.01.29-02.39.18:602][251]LogStaticMesh: Built static mesh [0.04s] /Game/Main/Maps/BUILDINGS/HuntersLodge/parts/BUTCHERshop_Cube_013.BUTCHERshop_Cube_013
+[2022.01.29-02.39.18:674][251]LogStaticMesh: Building static mesh BUTCHERshop_Plane_005...
+[2022.01.29-02.39.18:678][251]LogStaticMesh: Built static mesh [0.06s] /Game/Main/Maps/BUILDINGS/HuntersLodge/parts/BUTCHERshop_Plane_005.BUTCHERshop_Plane_005
+[2022.01.29-02.39.19:513][251]LogStaticMesh: Building static mesh keeplvl1_Frame_005...
+[2022.01.29-02.39.19:516][251]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/TownHallLvl1/parts/keeplvl1_Frame_005.keeplvl1_Frame_005
+[2022.01.29-02.39.19:517][251]LogStaticMesh: Building static mesh keeplvl1_Frame_004...
+[2022.01.29-02.39.19:520][251]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/TownHallLvl1/parts/keeplvl1_Frame_004.keeplvl1_Frame_004
+[2022.01.29-02.39.19:550][251]LogStaticMesh: Building static mesh keeplvl1_Frame_003...
+[2022.01.29-02.39.19:553][251]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/TownHallLvl1/parts/keeplvl1_Frame_003.keeplvl1_Frame_003
+[2022.01.29-02.39.19:792][251]LogStaticMesh: Building static mesh keeplvl1_Frame_002...
+[2022.01.29-02.39.19:799][251]LogStaticMesh: Built static mesh [0.01s] /Game/Main/Maps/BUILDINGS/TownHallLvl1/parts/keeplvl1_Frame_002.keeplvl1_Frame_002
+[2022.01.29-02.39.29:507][251]LogStaticMesh: Building static mesh BUTCHERshop_Cube_006...
+[2022.01.29-02.39.29:515][251]LogStaticMesh: Built static mesh [0.01s] /Game/Main/Maps/BUILDINGS/HuntersLodge/parts/BUTCHERshop_Cube_006.BUTCHERshop_Cube_006
+[2022.01.29-02.39.29:564][251]LogStaticMesh: Building static mesh BUTCHERshop_Cube_008...
+[2022.01.29-02.39.29:578][251]LogStaticMesh: Built static mesh [0.02s] /Game/Main/Maps/BUILDINGS/HuntersLodge/parts/BUTCHERshop_Cube_008.BUTCHERshop_Cube_008
+[2022.01.29-02.39.29:616][251]LogStaticMesh: Building static mesh BUTCHERshop_Cube_007...
+[2022.01.29-02.39.29:621][251]LogStaticMesh: Built static mesh [0.01s] /Game/Main/Maps/BUILDINGS/HuntersLodge/parts/BUTCHERshop_Cube_007.BUTCHERshop_Cube_007
+[2022.01.29-02.39.29:876][251]LogStaticMesh: Building static mesh BUTCHERshop_Cube...
+[2022.01.29-02.39.29:879][251]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/HuntersLodge/parts/BUTCHERshop_Cube.BUTCHERshop_Cube
+[2022.01.29-02.39.29:880][251]LogStaticMesh: Building static mesh BUTCHERshop_Cube_002...
+[2022.01.29-02.39.29:883][251]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/HuntersLodge/parts/BUTCHERshop_Cube_002.BUTCHERshop_Cube_002
+[2022.01.29-02.39.29:884][251]LogStaticMesh: Building static mesh BUTCHERshop_Cube_001...
+[2022.01.29-02.39.29:887][251]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/HuntersLodge/parts/BUTCHERshop_Cube_001.BUTCHERshop_Cube_001
+[2022.01.29-02.39.29:933][251]LogStaticMesh: Building static mesh BUTCHERshop_Cube_003...
+[2022.01.29-02.39.29:935][251]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/HuntersLodge/parts/BUTCHERshop_Cube_003.BUTCHERshop_Cube_003
+[2022.01.29-02.39.30:061][251]LogStaticMesh: Building static mesh BUTCHERshop_Cube_004...
+[2022.01.29-02.39.30:068][251]LogStaticMesh: Built static mesh [0.01s] /Game/Main/Maps/BUILDINGS/HuntersLodge/parts/BUTCHERshop_Cube_004.BUTCHERshop_Cube_004
+[2022.01.29-02.39.30:073][251]LogStaticMesh: Building static mesh BUTCHERshop_Cube_005...
+[2022.01.29-02.39.30:084][251]LogStaticMesh: Built static mesh [0.01s] /Game/Main/Maps/BUILDINGS/HuntersLodge/parts/BUTCHERshop_Cube_005.BUTCHERshop_Cube_005
+[2022.01.29-02.39.30:089][251]LogStaticMesh: Building static mesh BUTCHERshop_Cube_018...
+[2022.01.29-02.39.30:097][251]LogStaticMesh: Built static mesh [0.01s] /Game/Main/Maps/BUILDINGS/HuntersLodge/parts/BUTCHERshop_Cube_018.BUTCHERshop_Cube_018
+[2022.01.29-02.39.30:099][251]LogStaticMesh: Building static mesh BUTCHERshop_Cube_019...
+[2022.01.29-02.39.30:103][251]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/HuntersLodge/parts/BUTCHERshop_Cube_019.BUTCHERshop_Cube_019
+[2022.01.29-02.39.30:129][251]LogStaticMesh: Building static mesh BUTCHERshop_Cube_021...
+[2022.01.29-02.39.30:135][251]LogStaticMesh: Built static mesh [0.01s] /Game/Main/Maps/BUILDINGS/HuntersLodge/parts/BUTCHERshop_Cube_021.BUTCHERshop_Cube_021
+[2022.01.29-02.39.30:195][251]LogStaticMesh: Building static mesh BUTCHERshop_Cube_020...
+[2022.01.29-02.39.30:199][251]LogStaticMesh: Built static mesh [0.01s] /Game/Main/Maps/BUILDINGS/HuntersLodge/parts/BUTCHERshop_Cube_020.BUTCHERshop_Cube_020
+[2022.01.29-02.39.30:202][251]LogStaticMesh: Building static mesh BUTCHERshop_Cube_016...
+[2022.01.29-02.39.30:206][251]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/HuntersLodge/parts/BUTCHERshop_Cube_016.BUTCHERshop_Cube_016
+[2022.01.29-02.39.30:208][251]LogStaticMesh: Building static mesh BUTCHERshop_Cube_017...
+[2022.01.29-02.39.30:212][251]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/HuntersLodge/parts/BUTCHERshop_Cube_017.BUTCHERshop_Cube_017
+[2022.01.29-02.39.30:215][251]LogStaticMesh: Building static mesh BUTCHERshop_Cube_022...
+[2022.01.29-02.39.30:219][251]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/HuntersLodge/parts/BUTCHERshop_Cube_022.BUTCHERshop_Cube_022
+[2022.01.29-02.39.30:373][251]LogStaticMesh: Building static mesh BUTCHERshop_Cube_023...
+[2022.01.29-02.39.30:378][251]LogStaticMesh: Built static mesh [0.01s] /Game/Main/Maps/BUILDINGS/HuntersLodge/parts/BUTCHERshop_Cube_023.BUTCHERshop_Cube_023
+[2022.01.29-02.39.30:415][251]LogStaticMesh: Building static mesh BUTCHERshop_Cube_024...
+[2022.01.29-02.39.30:420][251]LogStaticMesh: Built static mesh [0.01s] /Game/Main/Maps/BUILDINGS/HuntersLodge/parts/BUTCHERshop_Cube_024.BUTCHERshop_Cube_024
+[2022.01.29-02.39.30:422][251]LogStaticMesh: Building static mesh BUTCHERshop_Cube_025...
+[2022.01.29-02.39.30:435][251]LogStaticMesh: Built static mesh [0.01s] /Game/Main/Maps/BUILDINGS/HuntersLodge/parts/BUTCHERshop_Cube_025.BUTCHERshop_Cube_025
+[2022.01.29-02.39.30:457][251]LogStaticMesh: Building static mesh BUTCHERshop_Plane_003...
+[2022.01.29-02.39.30:460][251]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/HuntersLodge/parts/BUTCHERshop_Plane_003.BUTCHERshop_Plane_003
+[2022.01.29-02.39.30:462][251]LogStaticMesh: Building static mesh BUTCHERshop_Plane_004...
+[2022.01.29-02.39.30:466][251]LogStaticMesh: Built static mesh [0.00s] /Game/Main/Maps/BUILDINGS/HuntersLodge/parts/BUTCHERshop_Plane_004.BUTCHERshop_Plane_004
+[2022.01.29-02.39.30:925][251]LogStaticMesh: Building static mesh keeplvl1_Cube...
+[2022.01.29-02.39.30:935][251]LogStaticMesh: Built static mesh [0.01s] /Game/Main/Maps/BUILDINGS/TownHallLvl1/parts/keeplvl1_Cube.keeplvl1_Cube
+[2022.01.29-02.39.31:415][251]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Main/Maps/TestMapMain.TestMapMain
+[2022.01.29-02.39.31:415][251]Cmd: MAP LOAD FILE="../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Content/Main/Maps/TestMapMain.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.01.29-02.39.31:415][251]LightingResults: New page: Lighting Build
+[2022.01.29-02.39.31:417][251]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'StatsViewer' in 0.0004 seconds. Added 6 classes and 0 folders.
+[2022.01.29-02.39.31:417][251]LoadErrors: New page: Loading map: TestMapMain.umap
+[2022.01.29-02.39.31:418][251]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.01.29-02.39.31:418][251]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.29-02.39.31:418][251]MapCheck: New page: Map Check
+[2022.01.29-02.39.31:418][251]LightingResults: New page: Lighting Build
+[2022.01.29-02.39.31:425][251]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.01.29-02.39.31:452][251]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2022.01.29-02.39.31:456][251]LogAudio: Display: Audio Device (ID: 1) registered with world 'TestMapMain'.
+[2022.01.29-02.39.34:286][251]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.01.29-02.39.34:286][251]LogAIModule: Creating AISystem for world TestMapMain
+[2022.01.29-02.39.34:309][251]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2022.01.29-02.39.34:327][251]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.01.29-02.39.34:328][251]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.197ms to complete.
+[2022.01.29-02.39.34:328][251]LogFileHelpers: Loading map 'TestMapMain' took 2.914
+[2022.01.29-02.41.52:491][971]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Main/Blueprints/Buildings/GhostBuilding_BP.GhostBuilding_BP
+[2022.01.29-02.41.54:499][971]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0010 seconds. Added 126 classes and 0 folders.
+[2022.01.29-02.41.56:149][971]LogSlate: Took 0.000802 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.01.29-02.41.56:492][972]LogSlate: Took 0.021349 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.01.29-02.42.02:829][119]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Main/Blueprints/Construction/ConstructionProxy_BP.ConstructionProxy_BP
+[2022.01.29-02.42.05:630][176]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Main/Blueprints/Construction/ConstructionManager_BP.ConstructionManager_BP
+[2022.01.29-02.43.03:442][866]LogContentBrowser: Deferred new asset file creation: BuildingParent_Child
+[2022.01.29-02.43.03:485][866]LogContentBrowser: Creating deferred item: BuildingParent_Child
+[2022.01.29-02.43.09:788][ 30]LogContentBrowser: Attempting asset rename: BuildingParent_Child -> ResidentialParent
+[2022.01.29-02.43.09:791][ 30]LogContentBrowser: End creating deferred item BuildingParent_Child
+[2022.01.29-02.43.14:400][226]LogContentBrowser: Deferred new asset file creation: BuildingParent_Child
+[2022.01.29-02.43.14:442][226]LogContentBrowser: Creating deferred item: BuildingParent_Child
+[2022.01.29-02.43.23:057][573]LogContentBrowser: Attempting asset rename: BuildingParent_Child -> ResourceParent
+[2022.01.29-02.43.23:061][573]LogContentBrowser: End creating deferred item BuildingParent_Child
+[2022.01.29-02.43.26:366][633]LogSavePackage: Moving '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Saved/ResourceParent4B52A5444826CA0C634F868577657920.tmp' to '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Content/Main/Maps/BUILDINGS/ResourceParent.uasset'
+[2022.01.29-02.43.26:382][633]AssetCheck: New page: Asset Save: ResourceParent
+[2022.01.29-02.43.26:382][633]LogContentValidation: Display: Validating Blueprint /Game/Main/Maps/BUILDINGS/ResourceParent.ResourceParent
+[2022.01.29-02.43.27:959][656]LogSavePackage: Moving '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Saved/ResidentialParentDCF69EF34336B81475B2C49C9CA77893.tmp' to '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Content/Main/Maps/BUILDINGS/ResidentialParent.uasset'
+[2022.01.29-02.43.27:972][656]AssetCheck: New page: Asset Save: ResidentialParent
+[2022.01.29-02.43.27:972][656]LogContentValidation: Display: Validating Blueprint /Game/Main/Maps/BUILDINGS/ResidentialParent.ResidentialParent
+[2022.01.29-02.43.37:808][911]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.01.29-02.43.37:826][911]LogContentBrowser: Creating deferred item: NewFolder
+[2022.01.29-02.43.40:501][981]LogContentBrowser: Attempting asset rename: NewFolder -> Residential
+[2022.01.29-02.43.40:502][981]LogContentBrowser: End creating deferred item NewFolder
+[2022.01.29-02.43.44:264][171]LogMetaData: Removing '/Game/Main/Maps/BUILDINGS/Residential/peasantHomes/Cottage1.Cottage1_C' ref from Metadata '/Game/Main/Maps/BUILDINGS/peasantHomes/Cottage1.PackageMetaData'
+[2022.01.29-02.43.44:264][171]LogMetaData: Removing '/Game/Main/Maps/BUILDINGS/Residential/peasantHomes/Cottage1.Cottage1:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Main/Maps/BUILDINGS/peasantHomes/Cottage1.PackageMetaData'
+[2022.01.29-02.43.44:264][171]LogMetaData: Removing '/Game/Main/Maps/BUILDINGS/Residential/peasantHomes/Cottage1.Cottage1:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Main/Maps/BUILDINGS/peasantHomes/Cottage1.PackageMetaData'
+[2022.01.29-02.43.44:264][171]LogMetaData: Removing '/Game/Main/Maps/BUILDINGS/Residential/peasantHomes/Cottage1.Cottage1:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Main/Maps/BUILDINGS/peasantHomes/Cottage1.PackageMetaData'
+[2022.01.29-02.43.44:265][171]LogMetaData: Removing '/Game/Main/Maps/BUILDINGS/Residential/peasantHomes/Cottage1.Cottage1:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Main/Maps/BUILDINGS/peasantHomes/Cottage1.PackageMetaData'
+[2022.01.29-02.43.44:265][171]LogMetaData: Removing '/Game/Main/Maps/BUILDINGS/Residential/peasantHomes/Cottage1.SKEL_Cottage1_C:ReceiveBeginPlay' ref from Metadata '/Game/Main/Maps/BUILDINGS/peasantHomes/Cottage1.PackageMetaData'
+[2022.01.29-02.43.44:265][171]LogMetaData: Removing '/Game/Main/Maps/BUILDINGS/Residential/peasantHomes/Cottage1.SKEL_Cottage1_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Main/Maps/BUILDINGS/peasantHomes/Cottage1.PackageMetaData'
+[2022.01.29-02.43.44:265][171]LogMetaData: Removing '/Game/Main/Maps/BUILDINGS/Residential/peasantHomes/Cottage1.SKEL_Cottage1_C:ReceiveTick' ref from Metadata '/Game/Main/Maps/BUILDINGS/peasantHomes/Cottage1.PackageMetaData'
+[2022.01.29-02.43.44:265][171]LogMetaData: Removing '/Game/Main/Maps/BUILDINGS/Residential/peasantHomes/Cottage1.SKEL_Cottage1_C:UserConstructionScript' ref from Metadata '/Game/Main/Maps/BUILDINGS/peasantHomes/Cottage1.PackageMetaData'
+[2022.01.29-02.43.44:265][171]LogMetaData: Removing '/Game/Main/Maps/BUILDINGS/Residential/peasantHomes/Cottage1.SKEL_Cottage1_C' ref from Metadata '/Game/Main/Maps/BUILDINGS/peasantHomes/Cottage1.PackageMetaData'
+[2022.01.29-02.43.44:314][171]LogMetaData: Removing '/Game/Main/Maps/BUILDINGS/Residential/peasantHomes/shack1.shack1:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Main/Maps/BUILDINGS/peasantHomes/shack1.PackageMetaData'
+[2022.01.29-02.43.44:314][171]LogMetaData: Removing '/Game/Main/Maps/BUILDINGS/Residential/peasantHomes/shack1.shack1_C' ref from Metadata '/Game/Main/Maps/BUILDINGS/peasantHomes/shack1.PackageMetaData'
+[2022.01.29-02.43.44:314][171]LogMetaData: Removing '/Game/Main/Maps/BUILDINGS/Residential/peasantHomes/shack1.shack1:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Main/Maps/BUILDINGS/peasantHomes/shack1.PackageMetaData'
+[2022.01.29-02.43.44:314][171]LogMetaData: Removing '/Game/Main/Maps/BUILDINGS/Residential/peasantHomes/shack1.shack1:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Main/Maps/BUILDINGS/peasantHomes/shack1.PackageMetaData'
+[2022.01.29-02.43.44:314][171]LogMetaData: Removing '/Game/Main/Maps/BUILDINGS/Residential/peasantHomes/shack1.shack1:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Main/Maps/BUILDINGS/peasantHomes/shack1.PackageMetaData'
+[2022.01.29-02.43.44:314][171]LogMetaData: Removing '/Game/Main/Maps/BUILDINGS/Residential/peasantHomes/shack1.SKEL_shack1_C:ReceiveBeginPlay' ref from Metadata '/Game/Main/Maps/BUILDINGS/peasantHomes/shack1.PackageMetaData'
+[2022.01.29-02.43.44:314][171]LogMetaData: Removing '/Game/Main/Maps/BUILDINGS/Residential/peasantHomes/shack1.SKEL_shack1_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Main/Maps/BUILDINGS/peasantHomes/shack1.PackageMetaData'
+[2022.01.29-02.43.44:314][171]LogMetaData: Removing '/Game/Main/Maps/BUILDINGS/Residential/peasantHomes/shack1.SKEL_shack1_C:ReceiveTick' ref from Metadata '/Game/Main/Maps/BUILDINGS/peasantHomes/shack1.PackageMetaData'
+[2022.01.29-02.43.44:314][171]LogMetaData: Removing '/Game/Main/Maps/BUILDINGS/Residential/peasantHomes/shack1.SKEL_shack1_C:UserConstructionScript' ref from Metadata '/Game/Main/Maps/BUILDINGS/peasantHomes/shack1.PackageMetaData'
+[2022.01.29-02.43.44:314][171]LogMetaData: Removing '/Game/Main/Maps/BUILDINGS/Residential/peasantHomes/shack1.SKEL_shack1_C' ref from Metadata '/Game/Main/Maps/BUILDINGS/peasantHomes/shack1.PackageMetaData'
+[2022.01.29-02.43.44:437][171]LogSavePackage: Moving '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Saved/wood54599A9048172FE516233C961868F4A3.tmp' to '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Content/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/wood.uasset'
+[2022.01.29-02.43.44:487][171]LogSavePackage: Moving '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Saved/cottage_home_lvl2__circleWindowTDCAB35944472AA5DF68BB59041775FDC.tmp' to '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Content/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/cottage_home_lvl2__circleWindowTrim.uasset'
+[2022.01.29-02.43.44:566][171]LogSavePackage: Moving '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Saved/cottage_home_lvl2__circleWindowTDF3650734208D243368C258526895A2C.tmp' to '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Content/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/cottage_home_lvl2__circleWindowTrim_001.uasset'
+[2022.01.29-02.43.44:616][171]LogSavePackage: Moving '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Saved/doorF07D03FB4BC1EB85242F10AF586396AE.tmp' to '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Content/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/door.uasset'
+[2022.01.29-02.43.44:669][171]LogSavePackage: Moving '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Saved/cottage_home_lvl2__Cube_02040D10232436D3A09663424ACD2F64EED.tmp' to '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Content/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/cottage_home_lvl2__Cube_020.uasset'
+[2022.01.29-02.43.44:718][171]LogSavePackage: Moving '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Saved/cottage_home_lvl2__Cube_02130A0B5AB499BDC5CB82197B26CD5E756.tmp' to '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Content/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/cottage_home_lvl2__Cube_021.uasset'
+[2022.01.29-02.43.44:777][171]LogSavePackage: Moving '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Saved/cottage_home_lvl2__Cube_024DDB0FB2B4F68E73EF16BBBB0D392E123.tmp' to '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Content/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/cottage_home_lvl2__Cube_024.uasset'
+[2022.01.29-02.43.44:846][171]LogSavePackage: Moving '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Saved/cottage_home_lvl2__Cube_033BAD8284F4F57CD289C02AFA0E7864DC3.tmp' to '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Content/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/cottage_home_lvl2__Cube_033.uasset'
+[2022.01.29-02.43.44:918][171]LogSavePackage: Moving '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Saved/cottage_home_lvl2__Cube_034842CBA0D4DB641202DE52B89B263450B.tmp' to '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Content/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/cottage_home_lvl2__Cube_034.uasset'
+[2022.01.29-02.43.44:971][171]LogSavePackage: Moving '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Saved/cottage_home_lvl2__Cube_0355AB256774C973C7DAEC32889CB382EFF.tmp' to '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Content/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/cottage_home_lvl2__Cube_035.uasset'
+[2022.01.29-02.43.45:037][171]LogSavePackage: Moving '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Saved/cottage_home_lvl2__Cube_0365AFBCCC84C3A2DACF716BFB01F49C3EC.tmp' to '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Content/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/cottage_home_lvl2__Cube_036.uasset'
+[2022.01.29-02.43.45:089][171]LogSavePackage: Moving '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Saved/cottage_home_lvl2__Cube_037BD5F3A2C43288EE16DC0A4906D421F0C.tmp' to '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Content/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/cottage_home_lvl2__Cube_037.uasset'
+[2022.01.29-02.43.45:142][171]LogSavePackage: Moving '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Saved/cottage_home_lvl2__Cube_0385250E70E4E38EF803C82C8B6AB7D64BD.tmp' to '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Content/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/cottage_home_lvl2__Cube_038.uasset'
+[2022.01.29-02.43.45:195][171]LogSavePackage: Moving '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Saved/cottage_home_lvl2__Cube_0390DEE06D64586F416F27F489054806ACF.tmp' to '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Content/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/cottage_home_lvl2__Cube_039.uasset'
+[2022.01.29-02.43.45:244][171]LogSavePackage: Moving '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Saved/cottage_home_lvl2__Cube_041FFF256C84298CB8A23C287A084384F34.tmp' to '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Content/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/cottage_home_lvl2__Cube_041.uasset'
+[2022.01.29-02.43.45:293][171]LogSavePackage: Moving '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Saved/cottage_home_lvl2__Cube_043985D908D4DD91D9D33CAFEBCBC7BB497.tmp' to '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Content/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/cottage_home_lvl2__Cube_043.uasset'
+[2022.01.29-02.43.45:360][171]LogSavePackage: Moving '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Saved/cottage_home_lvl2__Cube_04492DC3432412DB7EDB19CAFA01A9A069C.tmp' to '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Content/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/cottage_home_lvl2__Cube_044.uasset'
+[2022.01.29-02.43.45:422][171]LogSavePackage: Moving '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Saved/cottage_home_lvl2__Cube_045BC7FC4EE4F3A99F992DFFAB3F49CE4FA.tmp' to '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Content/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/cottage_home_lvl2__Cube_045.uasset'
+[2022.01.29-02.43.45:488][171]LogSavePackage: Moving '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Saved/cottage_home_lvl2__Cube_046C2DA69EF41E8B245A13FADAF103191FA.tmp' to '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Content/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/cottage_home_lvl2__Cube_046.uasset'
+[2022.01.29-02.43.45:543][171]LogSavePackage: Moving '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Saved/cottage_home_lvl2__Cube_054E66F72F2449AC20CC113FA8592484734.tmp' to '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Content/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/cottage_home_lvl2__Cube_054.uasset'
+[2022.01.29-02.43.45:591][171]LogSavePackage: Moving '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Saved/cottage_home_lvl2__Cube_055B517859B4CEF2CED3D4DD1B21581DAE7.tmp' to '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Content/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/cottage_home_lvl2__Cube_055.uasset'
+[2022.01.29-02.43.45:641][171]LogSavePackage: Moving '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Saved/cottage_home_lvl2__Cube_056612C765B4AA112191C02AFAF389D1C3D.tmp' to '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Content/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/cottage_home_lvl2__Cube_056.uasset'
+[2022.01.29-02.43.45:722][171]LogSavePackage: Moving '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Saved/cottage_home_lvl2__Cube_059977CDB5D41804D9E59FD85AF48847446.tmp' to '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Content/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/cottage_home_lvl2__Cube_059.uasset'
+[2022.01.29-02.43.45:772][171]LogSavePackage: Moving '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Saved/cottage_home_lvl2__Cube_06107FA70484F6144C75A8BFFAB8F72FE57.tmp' to '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Content/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/cottage_home_lvl2__Cube_061.uasset'
+[2022.01.29-02.43.45:821][171]LogSavePackage: Moving '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Saved/cottage_home_lvl2__Cube_06346C6911541C17A7154740C83DD1A7EA4.tmp' to '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Content/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/cottage_home_lvl2__Cube_063.uasset'
+[2022.01.29-02.43.45:871][171]LogSavePackage: Moving '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Saved/cottage_home_lvl2__Cube_064E26909AB4ECF402F8A03F4906B04E421.tmp' to '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Content/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/cottage_home_lvl2__Cube_064.uasset'
+[2022.01.29-02.43.45:919][171]LogSavePackage: Moving '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Saved/cottage_home_lvl2__Cube_06806649BCB411D9B7C30CC2D84D93BA9B5.tmp' to '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Content/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/cottage_home_lvl2__Cube_068.uasset'
+[2022.01.29-02.43.45:994][171]LogSavePackage: Moving '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Saved/cottage_home_lvl2__Cube_0699F6D41354FB7914D26B7F485F0F3128C.tmp' to '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Content/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/cottage_home_lvl2__Cube_069.uasset'
+[2022.01.29-02.43.46:057][171]LogSavePackage: Moving '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Saved/cottage_home_lvl2__Cube_0705562164A41806733BA0CB8B8C0D29FB7.tmp' to '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Content/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/cottage_home_lvl2__Cube_070.uasset'
+[2022.01.29-02.43.46:106][171]LogSavePackage: Moving '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Saved/cottage_home_lvl2__Cube_0719E94A6284F1D800E17A75D8F0038B613.tmp' to '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Content/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/cottage_home_lvl2__Cube_071.uasset'
+[2022.01.29-02.43.46:166][171]LogSavePackage: Moving '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Saved/cottage_home_lvl2__Cube_0731FE41DFE480532488DAF4A86665FD38D.tmp' to '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Content/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/cottage_home_lvl2__Cube_073.uasset'
+[2022.01.29-02.43.46:218][171]LogSavePackage: Moving '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Saved/cottage_home_lvl2__Cube_0748C77A43942CCA3EFB83D05B4A04C3EEB.tmp' to '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Content/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/cottage_home_lvl2__Cube_074.uasset'
+[2022.01.29-02.43.46:270][171]LogSavePackage: Moving '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Saved/cottage_home_lvl2__Cube_077DC08D6E348B9791BF8785492A58C19F8.tmp' to '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Content/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/cottage_home_lvl2__Cube_077.uasset'
+[2022.01.29-02.43.46:343][171]LogSavePackage: Moving '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Saved/cottage_home_lvl2__Cube_07827F533BD4CA01807E553EEA4DA8A4BCD.tmp' to '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Content/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/cottage_home_lvl2__Cube_078.uasset'
+[2022.01.29-02.43.46:394][171]LogSavePackage: Moving '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Saved/cottage_home_lvl2__Cube_0790747F0BC4987C89194A216B1C1323E4C.tmp' to '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Content/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/cottage_home_lvl2__Cube_079.uasset'
+[2022.01.29-02.43.46:443][171]LogSavePackage: Moving '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Saved/cottage_home_lvl2__Cube_080456ED47D41705D5E9B3EA8A2788D09C9.tmp' to '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Content/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/cottage_home_lvl2__Cube_080.uasset'
+[2022.01.29-02.43.46:526][171]LogSavePackage: Moving '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Saved/cottage_home_lvl2__Cube_081BD106B584B364FA4E9E50F8D05BC4647.tmp' to '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Content/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/cottage_home_lvl2__Cube_081.uasset'
+[2022.01.29-02.43.46:587][171]LogSavePackage: Moving '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Saved/cottage_home_lvl2__Cube_0844366FF1443DB1C68AC8B08AE4CFB2457.tmp' to '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Content/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/cottage_home_lvl2__Cube_084.uasset'
+[2022.01.29-02.43.46:657][171]LogSavePackage: Moving '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Saved/cottage_home_lvl2__Cube_085C941F6854AE2C96042574FBE1607DDE0.tmp' to '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Content/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/cottage_home_lvl2__Cube_085.uasset'
+[2022.01.29-02.43.46:724][171]LogSavePackage: Moving '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Saved/shingles8E4BA3F04BF340398F388CA6E504F75B.tmp' to '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Content/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/shingles.uasset'
+[2022.01.29-02.43.46:831][171]LogSavePackage: Moving '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Saved/cottage_home_lvl2__Cube_086E688615E4E8E042124E53DA50DA9B978.tmp' to '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Content/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/cottage_home_lvl2__Cube_086.uasset'
+[2022.01.29-02.43.46:881][171]LogSavePackage: Moving '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Saved/cottage_home_lvl2__Cube_112310F3049423468949BD5BF9995A2D547.tmp' to '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Content/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/cottage_home_lvl2__Cube_112.uasset'
+[2022.01.29-02.43.46:931][171]LogSavePackage: Moving '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Saved/cottage_home_lvl2__Cube_1140F232CCF4A19C791E09A34A525FA0A9E.tmp' to '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Content/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/cottage_home_lvl2__Cube_114.uasset'
+[2022.01.29-02.43.46:980][171]LogSavePackage: Moving '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Saved/cottage_home_lvl2__Cube_119448B35734A05CCB68DC8C09B83F22252.tmp' to '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Content/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/cottage_home_lvl2__Cube_119.uasset'
+[2022.01.29-02.43.47:034][171]LogSavePackage: Moving '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Saved/cottage_home_lvl2__Cube_1201E321EF84A1F0552FEB917B42E2A01B0.tmp' to '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Content/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/cottage_home_lvl2__Cube_120.uasset'
+[2022.01.29-02.43.47:083][171]LogSavePackage: Moving '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Saved/cottage_home_lvl2__Cube_121728C5A4F407E81EECB010289C8FF44FB.tmp' to '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Content/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/cottage_home_lvl2__Cube_121.uasset'
+[2022.01.29-02.43.47:151][171]LogSavePackage: Moving '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Saved/cottage_home_lvl2__Cube_1224E8DA1944F7CCFB2AF96B48C29BCB6E3.tmp' to '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Content/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/cottage_home_lvl2__Cube_122.uasset'
+[2022.01.29-02.43.47:220][171]LogSavePackage: Moving '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Saved/cottage_home_lvl2__Cube_123BED17BA04E609A6F0A089C9937D3DBF5.tmp' to '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Content/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/cottage_home_lvl2__Cube_123.uasset'
+[2022.01.29-02.43.47:276][171]LogSavePackage: Moving '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Saved/cottage_home_lvl2__Cube_12462BFE3434BEF78A79CC871932B9EF52F.tmp' to '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Content/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/cottage_home_lvl2__Cube_124.uasset'
+[2022.01.29-02.43.47:345][171]LogSavePackage: Moving '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Saved/cottage_home_lvl2__Cube_1251CE1552A4EBF8C83E4D1E8BDEF3AFC54.tmp' to '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Content/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/cottage_home_lvl2__Cube_125.uasset'
+[2022.01.29-02.43.47:465][171]LogSavePackage: Moving '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Saved/cottage_home_lvl2__Cube_1298EDF1F584F72FB6688885DB7F714A124.tmp' to '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Content/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/cottage_home_lvl2__Cube_129.uasset'
+[2022.01.29-02.43.47:539][171]LogSavePackage: Moving '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Saved/cottage_home_lvl2__Cube_13095FF6E4846A5CDB590176C90BD2951E7.tmp' to '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Content/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/cottage_home_lvl2__Cube_130.uasset'
+[2022.01.29-02.43.47:598][171]LogSavePackage: Moving '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Saved/cottage_home_lvl2__Cube_13211764D79487E8368B7A2A0A58EF44A3A.tmp' to '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Content/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/cottage_home_lvl2__Cube_132.uasset'
+[2022.01.29-02.43.47:656][171]LogSavePackage: Moving '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Saved/cottage_home_lvl2__Cube_134D955C4E84D3E41D6ECD97EA018A0AA64.tmp' to '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Content/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/cottage_home_lvl2__Cube_134.uasset'
+[2022.01.29-02.43.47:747][171]LogSavePackage: Moving '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Saved/cottage_home_lvl2__Cube_137910F187243251636C9CDEB8C6AF50C32.tmp' to '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Content/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/cottage_home_lvl2__Cube_137.uasset'
+[2022.01.29-02.43.47:816][171]LogSavePackage: Moving '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Saved/cottage_home_lvl2__Cube_1397F0A67054BDCDF5054468D84FE915F4C.tmp' to '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Content/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/cottage_home_lvl2__Cube_139.uasset'
+[2022.01.29-02.43.47:873][171]LogSavePackage: Moving '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Saved/cottage_home_lvl2__Cube_1403C0299244E175130C1469C937B533AA6.tmp' to '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Content/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/cottage_home_lvl2__Cube_140.uasset'
+[2022.01.29-02.43.47:925][171]LogSavePackage: Moving '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Saved/cottage_home_lvl2__Cube_14497A57DC741B45764DD90BD863DA0280A.tmp' to '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Content/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/cottage_home_lvl2__Cube_144.uasset'
+[2022.01.29-02.43.47:992][171]LogSavePackage: Moving '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Saved/cottage_home_lvl2__Cube_14643B69AEF4E05EAA2DAD118AF8C731915.tmp' to '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Content/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/cottage_home_lvl2__Cube_146.uasset'
+[2022.01.29-02.43.48:067][171]LogSavePackage: Moving '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Saved/cottage_home_lvl2__Cube_1479EBB11254D2C410D6FF34984FA5F5DD3.tmp' to '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Content/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/cottage_home_lvl2__Cube_147.uasset'
+[2022.01.29-02.43.48:125][171]LogSavePackage: Moving '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Saved/cottage_home_lvl2__Cube_1533577C37F4FAE456D130A1CAEA709CD09.tmp' to '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Content/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/cottage_home_lvl2__Cube_153.uasset'
+[2022.01.29-02.43.48:175][171]LogSavePackage: Moving '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Saved/cottage_home_lvl2__Cube_154866FFBA44D6F2C5D6769FF841A3FE043.tmp' to '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Content/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/cottage_home_lvl2__Cube_154.uasset'
+[2022.01.29-02.43.48:225][171]LogSavePackage: Moving '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Saved/MaterialBB9CE2AF461C2E1D4456A98AD292217A.tmp' to '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Content/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/Material.uasset'
+[2022.01.29-02.43.48:293][171]LogSavePackage: Moving '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Saved/cottage_home_lvl2__Cylinder055DA4004E8186379FD16EADC8B4E60C.tmp' to '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Content/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/cottage_home_lvl2__Cylinder.uasset'
+[2022.01.29-02.43.48:349][171]LogSavePackage: Moving '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Saved/cottage_home_lvl2__Icosphere_001C9D25194475E42456D290DA07B8FD5DA.tmp' to '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Content/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/cottage_home_lvl2__Icosphere_001.uasset'
+[2022.01.29-02.43.48:406][171]LogSavePackage: Moving '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Saved/walls28DF8C424AA57F812572718B1CC9C5BB.tmp' to '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Content/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/walls.uasset'
+[2022.01.29-02.43.48:484][171]LogSavePackage: Moving '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Saved/cottage_home_lvl2__Plane_001785A0C3D42AC29E0F6D8099E4294AE9E.tmp' to '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Content/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/cottage_home_lvl2__Plane_001.uasset'
+[2022.01.29-02.43.48:529][171]LogSavePackage: Moving '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Saved/tarpaper210038F1460B362CB54F36A6E9D21626.tmp' to '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Content/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/tarpaper.uasset'
+[2022.01.29-02.43.48:580][171]LogSavePackage: Moving '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Saved/cottage_home_lvl2__Plane_0024EA93B9C4363C01EC58D3292EF888A5D.tmp' to '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Content/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/cottage_home_lvl2__Plane_002.uasset'
+[2022.01.29-02.43.48:661][171]LogSavePackage: Moving '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Saved/cottage_home_lvl2__Plane_003CC18CF794516B4BA4D69D3AD5972EC26.tmp' to '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Content/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/cottage_home_lvl2__Plane_003.uasset'
+[2022.01.29-02.43.48:782][171]LogSavePackage: Moving '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Saved/cottage_home_lvl2__Plane_0067D26125349EA5E44C79715AB61B7A6BB.tmp' to '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Content/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/cottage_home_lvl2__Plane_006.uasset'
+[2022.01.29-02.43.48:842][171]LogSavePackage: Moving '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Saved/cottage_home_lvl2__Plane_007EF745D7042ACD5BFB01A45B40FB0B5E3.tmp' to '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Content/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/cottage_home_lvl2__Plane_007.uasset'
+[2022.01.29-02.43.48:891][171]LogSavePackage: Moving '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Saved/cottage_home_lvl2__Plane_008104060C14D924E53B9AD4392A585BB57.tmp' to '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Content/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/cottage_home_lvl2__Plane_008.uasset'
+[2022.01.29-02.43.49:068][171]LogSavePackage: Moving '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Saved/cottage_home_lvl2__Plane_0107467971744B0073E8285D8B07096991B.tmp' to '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Content/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/cottage_home_lvl2__Plane_010.uasset'
+[2022.01.29-02.43.49:258][171]LogSavePackage: Moving '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Saved/Cottage18FBD9236410180851C8F29ABED0CCF26.tmp' to '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Content/Main/Maps/BUILDINGS/Residential/peasantHomes/Cottage1.uasset'
+[2022.01.29-02.43.49:265][171]LogSavePackage: Moving '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Saved/Cottage1A71A39AA448AE552DF4DF3A0DC0C684E.tmp' to '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Content/Main/Maps/BUILDINGS/peasantHomes/Cottage1.uasset'
+[2022.01.29-02.43.49:334][171]LogSavePackage: Moving '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Saved/shack_home_1_Cube_021261A4DE2453A6C16828A92B574262D6A.tmp' to '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Content/Main/Maps/BUILDINGS/Residential/peasantHomes/shackHome1Parts/shack_home_1_Cube_021.uasset'
+[2022.01.29-02.43.49:427][171]LogSavePackage: Moving '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Saved/shack_home_1_Plane59768DF7460BD7CC8872768DA032B9B8.tmp' to '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Content/Main/Maps/BUILDINGS/Residential/peasantHomes/shackHome1Parts/shack_home_1_Plane.uasset'
+[2022.01.29-02.43.49:499][171]LogSavePackage: Moving '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Saved/shack_home_1_Plane_0017359BC7C4DE326A8AC7B65AB8EB7246C.tmp' to '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Content/Main/Maps/BUILDINGS/Residential/peasantHomes/shackHome1Parts/shack_home_1_Plane_001.uasset'
+[2022.01.29-02.43.49:553][171]LogSavePackage: Moving '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Saved/shack_home_1_Plane_002D64D6652427B1307457F659C80F19B6E.tmp' to '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Content/Main/Maps/BUILDINGS/Residential/peasantHomes/shackHome1Parts/shack_home_1_Plane_002.uasset'
+[2022.01.29-02.43.49:602][171]LogSavePackage: Moving '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Saved/shack_home_1_Plane_003B002F06041AC91BF9ED569BCDB945B4F.tmp' to '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Content/Main/Maps/BUILDINGS/Residential/peasantHomes/shackHome1Parts/shack_home_1_Plane_003.uasset'
+[2022.01.29-02.43.49:650][171]LogSavePackage: Moving '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Saved/shack_home_1_Plane_004849AB8C14BB40CE888492E939ED0C10D.tmp' to '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Content/Main/Maps/BUILDINGS/Residential/peasantHomes/shackHome1Parts/shack_home_1_Plane_004.uasset'
+[2022.01.29-02.43.49:700][171]LogSavePackage: Moving '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Saved/shack_home_1_Plane_0056148BAB747B5A66DECE3F196AC74FADA.tmp' to '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Content/Main/Maps/BUILDINGS/Residential/peasantHomes/shackHome1Parts/shack_home_1_Plane_005.uasset'
+[2022.01.29-02.43.49:749][171]LogSavePackage: Moving '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Saved/shack_home_1_Plane_0060F82B7434CC9E98BFB369EB7B4AF8B84.tmp' to '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Content/Main/Maps/BUILDINGS/Residential/peasantHomes/shackHome1Parts/shack_home_1_Plane_006.uasset'
+[2022.01.29-02.43.49:869][171]LogSavePackage: Moving '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Saved/shack109C75C194BE47A57AF92D1B03E7100EF.tmp' to '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Content/Main/Maps/BUILDINGS/Residential/peasantHomes/shack1.uasset'
+[2022.01.29-02.43.49:877][171]LogSavePackage: Moving '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Saved/shack1B673A7864153DFC9D48D8FBFB50C8A81.tmp' to '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Content/Main/Maps/BUILDINGS/peasantHomes/shack1.uasset'
+[2022.01.29-02.43.51:006][171]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2022.01.29-02.43.51:032][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.01.29-02.43.51:057][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.01.29-02.43.51:081][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.01.29-02.43.51:106][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.01.29-02.43.51:131][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.01.29-02.43.51:156][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.01.29-02.43.51:181][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.01.29-02.43.51:210][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.01.29-02.43.51:236][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.01.29-02.43.51:261][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.01.29-02.43.51:286][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.01.29-02.43.51:311][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.01.29-02.43.51:334][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.01.29-02.43.51:359][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.01.29-02.43.51:384][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.01.29-02.43.51:410][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.01.29-02.43.51:434][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.01.29-02.43.51:458][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.01.29-02.43.51:483][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.01.29-02.43.51:508][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.01.29-02.43.51:533][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.01.29-02.43.51:558][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.01.29-02.43.51:583][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.01.29-02.43.51:608][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.01.29-02.43.51:635][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.01.29-02.43.51:659][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.01.29-02.43.51:684][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.01.29-02.43.51:710][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.01.29-02.43.51:735][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.01.29-02.43.51:759][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2022.01.29-02.43.51:784][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.01.29-02.43.51:821][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.01.29-02.43.51:851][171]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2022.01.29-02.43.51:877][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.01.29-02.43.51:902][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.01.29-02.43.51:926][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.01.29-02.43.51:950][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.01.29-02.43.51:974][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.01.29-02.43.51:999][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2022.01.29-02.43.52:024][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.01.29-02.43.52:049][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.01.29-02.43.52:075][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.01.29-02.43.52:099][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.01.29-02.43.52:124][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.01.29-02.43.52:149][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.01.29-02.43.52:174][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.01.29-02.43.52:199][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.01.29-02.43.52:224][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.01.29-02.43.52:250][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.01.29-02.43.52:275][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.01.29-02.43.52:300][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.01.29-02.43.52:324][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.01.29-02.43.52:349][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.01.29-02.43.52:374][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.01.29-02.43.52:398][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.01.29-02.43.52:424][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.01.29-02.43.52:448][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.01.29-02.43.52:472][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.01.29-02.43.52:498][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.01.29-02.43.52:523][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.01.29-02.43.52:548][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.01.29-02.43.52:572][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.01.29-02.43.52:598][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.01.29-02.43.52:622][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.01.29-02.43.52:648][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.01.29-02.43.52:673][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.01.29-02.43.52:699][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.01.29-02.43.52:724][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.01.29-02.43.52:749][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.01.29-02.43.52:773][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.01.29-02.43.52:798][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.01.29-02.43.52:823][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.01.29-02.43.52:849][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.01.29-02.43.52:873][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.01.29-02.43.52:899][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.01.29-02.43.52:925][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.01.29-02.43.52:951][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.01.29-02.43.52:977][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.01.29-02.43.53:001][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.01.29-02.43.53:025][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.01.29-02.43.53:049][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.01.29-02.43.53:080][171]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2022.01.29-02.43.53:104][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.01.29-02.43.53:283][171]AssetCheck: New page: Asset Save: multiple assets
+[2022.01.29-02.43.53:283][171]LogContentValidation: Display: Validating Material /Game/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/wood.wood
+[2022.01.29-02.43.53:283][171]LogContentValidation: Display: Validating StaticMesh /Game/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/cottage_home_lvl2__circleWindowTrim.cottage_home_lvl2__circleWindowTrim
+[2022.01.29-02.43.53:283][171]LogContentValidation: Display: Validating StaticMesh /Game/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/cottage_home_lvl2__circleWindowTrim_001.cottage_home_lvl2__circleWindowTrim_001
+[2022.01.29-02.43.53:283][171]LogContentValidation: Display: Validating Material /Game/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/door.door
+[2022.01.29-02.43.53:283][171]LogContentValidation: Display: Validating StaticMesh /Game/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/cottage_home_lvl2__Cube_020.cottage_home_lvl2__Cube_020
+[2022.01.29-02.43.53:283][171]LogContentValidation: Display: Validating StaticMesh /Game/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/cottage_home_lvl2__Cube_021.cottage_home_lvl2__Cube_021
+[2022.01.29-02.43.53:284][171]LogContentValidation: Display: Validating StaticMesh /Game/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/cottage_home_lvl2__Cube_024.cottage_home_lvl2__Cube_024
+[2022.01.29-02.43.53:284][171]LogContentValidation: Display: Validating StaticMesh /Game/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/cottage_home_lvl2__Cube_033.cottage_home_lvl2__Cube_033
+[2022.01.29-02.43.53:284][171]LogContentValidation: Display: Validating StaticMesh /Game/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/cottage_home_lvl2__Cube_034.cottage_home_lvl2__Cube_034
+[2022.01.29-02.43.53:284][171]LogContentValidation: Display: Validating StaticMesh /Game/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/cottage_home_lvl2__Cube_035.cottage_home_lvl2__Cube_035
+[2022.01.29-02.43.53:284][171]LogContentValidation: Display: Validating StaticMesh /Game/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/cottage_home_lvl2__Cube_036.cottage_home_lvl2__Cube_036
+[2022.01.29-02.43.53:284][171]LogContentValidation: Display: Validating StaticMesh /Game/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/cottage_home_lvl2__Cube_037.cottage_home_lvl2__Cube_037
+[2022.01.29-02.43.53:284][171]LogContentValidation: Display: Validating StaticMesh /Game/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/cottage_home_lvl2__Cube_038.cottage_home_lvl2__Cube_038
+[2022.01.29-02.43.53:284][171]LogContentValidation: Display: Validating StaticMesh /Game/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/cottage_home_lvl2__Cube_039.cottage_home_lvl2__Cube_039
+[2022.01.29-02.43.53:284][171]LogContentValidation: Display: Validating StaticMesh /Game/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/cottage_home_lvl2__Cube_041.cottage_home_lvl2__Cube_041
+[2022.01.29-02.43.53:284][171]LogContentValidation: Display: Validating StaticMesh /Game/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/cottage_home_lvl2__Cube_043.cottage_home_lvl2__Cube_043
+[2022.01.29-02.43.53:284][171]LogContentValidation: Display: Validating StaticMesh /Game/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/cottage_home_lvl2__Cube_044.cottage_home_lvl2__Cube_044
+[2022.01.29-02.43.53:284][171]LogContentValidation: Display: Validating StaticMesh /Game/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/cottage_home_lvl2__Cube_045.cottage_home_lvl2__Cube_045
+[2022.01.29-02.43.53:284][171]LogContentValidation: Display: Validating StaticMesh /Game/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/cottage_home_lvl2__Cube_046.cottage_home_lvl2__Cube_046
+[2022.01.29-02.43.53:284][171]LogContentValidation: Display: Validating StaticMesh /Game/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/cottage_home_lvl2__Cube_054.cottage_home_lvl2__Cube_054
+[2022.01.29-02.43.53:284][171]LogContentValidation: Display: Validating StaticMesh /Game/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/cottage_home_lvl2__Cube_055.cottage_home_lvl2__Cube_055
+[2022.01.29-02.43.53:284][171]LogContentValidation: Display: Validating StaticMesh /Game/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/cottage_home_lvl2__Cube_056.cottage_home_lvl2__Cube_056
+[2022.01.29-02.43.53:284][171]LogContentValidation: Display: Validating StaticMesh /Game/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/cottage_home_lvl2__Cube_059.cottage_home_lvl2__Cube_059
+[2022.01.29-02.43.53:284][171]LogContentValidation: Display: Validating StaticMesh /Game/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/cottage_home_lvl2__Cube_061.cottage_home_lvl2__Cube_061
+[2022.01.29-02.43.53:284][171]LogContentValidation: Display: Validating StaticMesh /Game/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/cottage_home_lvl2__Cube_063.cottage_home_lvl2__Cube_063
+[2022.01.29-02.43.53:284][171]LogContentValidation: Display: Validating StaticMesh /Game/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/cottage_home_lvl2__Cube_064.cottage_home_lvl2__Cube_064
+[2022.01.29-02.43.53:284][171]LogContentValidation: Display: Validating StaticMesh /Game/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/cottage_home_lvl2__Cube_068.cottage_home_lvl2__Cube_068
+[2022.01.29-02.43.53:284][171]LogContentValidation: Display: Validating StaticMesh /Game/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/cottage_home_lvl2__Cube_069.cottage_home_lvl2__Cube_069
+[2022.01.29-02.43.53:284][171]LogContentValidation: Display: Validating StaticMesh /Game/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/cottage_home_lvl2__Cube_070.cottage_home_lvl2__Cube_070
+[2022.01.29-02.43.53:284][171]LogContentValidation: Display: Validating StaticMesh /Game/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/cottage_home_lvl2__Cube_071.cottage_home_lvl2__Cube_071
+[2022.01.29-02.43.53:284][171]LogContentValidation: Display: Validating StaticMesh /Game/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/cottage_home_lvl2__Cube_073.cottage_home_lvl2__Cube_073
+[2022.01.29-02.43.53:284][171]LogContentValidation: Display: Validating StaticMesh /Game/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/cottage_home_lvl2__Cube_074.cottage_home_lvl2__Cube_074
+[2022.01.29-02.43.53:284][171]LogContentValidation: Display: Validating StaticMesh /Game/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/cottage_home_lvl2__Cube_077.cottage_home_lvl2__Cube_077
+[2022.01.29-02.43.53:284][171]LogContentValidation: Display: Validating StaticMesh /Game/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/cottage_home_lvl2__Cube_078.cottage_home_lvl2__Cube_078
+[2022.01.29-02.43.53:284][171]LogContentValidation: Display: Validating StaticMesh /Game/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/cottage_home_lvl2__Cube_079.cottage_home_lvl2__Cube_079
+[2022.01.29-02.43.53:284][171]LogContentValidation: Display: Validating StaticMesh /Game/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/cottage_home_lvl2__Cube_080.cottage_home_lvl2__Cube_080
+[2022.01.29-02.43.53:284][171]LogContentValidation: Display: Validating StaticMesh /Game/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/cottage_home_lvl2__Cube_081.cottage_home_lvl2__Cube_081
+[2022.01.29-02.43.53:284][171]LogContentValidation: Display: Validating StaticMesh /Game/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/cottage_home_lvl2__Cube_084.cottage_home_lvl2__Cube_084
+[2022.01.29-02.43.53:284][171]LogContentValidation: Display: Validating StaticMesh /Game/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/cottage_home_lvl2__Cube_085.cottage_home_lvl2__Cube_085
+[2022.01.29-02.43.53:284][171]LogContentValidation: Display: Validating Material /Game/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/shingles.shingles
+[2022.01.29-02.43.53:284][171]LogContentValidation: Display: Validating StaticMesh /Game/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/cottage_home_lvl2__Cube_086.cottage_home_lvl2__Cube_086
+[2022.01.29-02.43.53:285][171]LogContentValidation: Display: Validating StaticMesh /Game/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/cottage_home_lvl2__Cube_112.cottage_home_lvl2__Cube_112
+[2022.01.29-02.43.53:285][171]LogContentValidation: Display: Validating StaticMesh /Game/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/cottage_home_lvl2__Cube_114.cottage_home_lvl2__Cube_114
+[2022.01.29-02.43.53:285][171]LogContentValidation: Display: Validating StaticMesh /Game/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/cottage_home_lvl2__Cube_119.cottage_home_lvl2__Cube_119
+[2022.01.29-02.43.53:285][171]LogContentValidation: Display: Validating StaticMesh /Game/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/cottage_home_lvl2__Cube_120.cottage_home_lvl2__Cube_120
+[2022.01.29-02.43.53:285][171]LogContentValidation: Display: Validating StaticMesh /Game/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/cottage_home_lvl2__Cube_121.cottage_home_lvl2__Cube_121
+[2022.01.29-02.43.53:285][171]LogContentValidation: Display: Validating StaticMesh /Game/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/cottage_home_lvl2__Cube_122.cottage_home_lvl2__Cube_122
+[2022.01.29-02.43.53:285][171]LogContentValidation: Display: Validating StaticMesh /Game/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/cottage_home_lvl2__Cube_123.cottage_home_lvl2__Cube_123
+[2022.01.29-02.43.53:285][171]LogContentValidation: Display: Validating StaticMesh /Game/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/cottage_home_lvl2__Cube_124.cottage_home_lvl2__Cube_124
+[2022.01.29-02.43.53:285][171]LogContentValidation: Display: Validating StaticMesh /Game/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/cottage_home_lvl2__Cube_125.cottage_home_lvl2__Cube_125
+[2022.01.29-02.43.53:285][171]LogContentValidation: Display: Validating StaticMesh /Game/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/cottage_home_lvl2__Cube_129.cottage_home_lvl2__Cube_129
+[2022.01.29-02.43.53:285][171]LogContentValidation: Display: Validating StaticMesh /Game/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/cottage_home_lvl2__Cube_130.cottage_home_lvl2__Cube_130
+[2022.01.29-02.43.53:285][171]LogContentValidation: Display: Validating StaticMesh /Game/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/cottage_home_lvl2__Cube_132.cottage_home_lvl2__Cube_132
+[2022.01.29-02.43.53:285][171]LogContentValidation: Display: Validating StaticMesh /Game/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/cottage_home_lvl2__Cube_134.cottage_home_lvl2__Cube_134
+[2022.01.29-02.43.53:285][171]LogContentValidation: Display: Validating StaticMesh /Game/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/cottage_home_lvl2__Cube_137.cottage_home_lvl2__Cube_137
+[2022.01.29-02.43.53:285][171]LogContentValidation: Display: Validating StaticMesh /Game/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/cottage_home_lvl2__Cube_139.cottage_home_lvl2__Cube_139
+[2022.01.29-02.43.53:285][171]LogContentValidation: Display: Validating StaticMesh /Game/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/cottage_home_lvl2__Cube_140.cottage_home_lvl2__Cube_140
+[2022.01.29-02.43.53:285][171]LogContentValidation: Display: Validating StaticMesh /Game/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/cottage_home_lvl2__Cube_144.cottage_home_lvl2__Cube_144
+[2022.01.29-02.43.53:285][171]LogContentValidation: Display: Validating StaticMesh /Game/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/cottage_home_lvl2__Cube_146.cottage_home_lvl2__Cube_146
+[2022.01.29-02.43.53:285][171]LogContentValidation: Display: Validating StaticMesh /Game/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/cottage_home_lvl2__Cube_147.cottage_home_lvl2__Cube_147
+[2022.01.29-02.43.53:285][171]LogContentValidation: Display: Validating StaticMesh /Game/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/cottage_home_lvl2__Cube_153.cottage_home_lvl2__Cube_153
+[2022.01.29-02.43.53:285][171]LogContentValidation: Display: Validating StaticMesh /Game/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/cottage_home_lvl2__Cube_154.cottage_home_lvl2__Cube_154
+[2022.01.29-02.43.53:285][171]LogContentValidation: Display: Validating Material /Game/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/Material.Material
+[2022.01.29-02.43.53:285][171]LogContentValidation: Display: Validating StaticMesh /Game/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/cottage_home_lvl2__Cylinder.cottage_home_lvl2__Cylinder
+[2022.01.29-02.43.53:285][171]LogContentValidation: Display: Validating StaticMesh /Game/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/cottage_home_lvl2__Icosphere_001.cottage_home_lvl2__Icosphere_001
+[2022.01.29-02.43.53:285][171]LogContentValidation: Display: Validating Material /Game/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/walls.walls
+[2022.01.29-02.43.53:285][171]LogContentValidation: Display: Validating StaticMesh /Game/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/cottage_home_lvl2__Plane_001.cottage_home_lvl2__Plane_001
+[2022.01.29-02.43.53:285][171]LogContentValidation: Display: Validating Material /Game/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/tarpaper.tarpaper
+[2022.01.29-02.43.53:285][171]LogContentValidation: Display: Validating StaticMesh /Game/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/cottage_home_lvl2__Plane_002.cottage_home_lvl2__Plane_002
+[2022.01.29-02.43.53:285][171]LogContentValidation: Display: Validating StaticMesh /Game/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/cottage_home_lvl2__Plane_003.cottage_home_lvl2__Plane_003
+[2022.01.29-02.43.53:285][171]LogContentValidation: Display: Validating StaticMesh /Game/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/cottage_home_lvl2__Plane_006.cottage_home_lvl2__Plane_006
+[2022.01.29-02.43.53:285][171]LogContentValidation: Display: Validating StaticMesh /Game/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/cottage_home_lvl2__Plane_007.cottage_home_lvl2__Plane_007
+[2022.01.29-02.43.53:285][171]LogContentValidation: Display: Validating StaticMesh /Game/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/cottage_home_lvl2__Plane_008.cottage_home_lvl2__Plane_008
+[2022.01.29-02.43.53:285][171]LogContentValidation: Display: Validating StaticMesh /Game/Main/Maps/BUILDINGS/Residential/peasantHomes/cottageHomeParts/cottage_home_lvl2__Plane_010.cottage_home_lvl2__Plane_010
+[2022.01.29-02.43.53:285][171]LogContentValidation: Display: Validating Blueprint /Game/Main/Maps/BUILDINGS/Residential/peasantHomes/Cottage1.Cottage1
+[2022.01.29-02.43.53:286][171]LogContentValidation: Display: Validating StaticMesh /Game/Main/Maps/BUILDINGS/Residential/peasantHomes/shackHome1Parts/shack_home_1_Cube_021.shack_home_1_Cube_021
+[2022.01.29-02.43.53:286][171]LogContentValidation: Display: Validating StaticMesh /Game/Main/Maps/BUILDINGS/Residential/peasantHomes/shackHome1Parts/shack_home_1_Plane.shack_home_1_Plane
+[2022.01.29-02.43.53:286][171]LogContentValidation: Display: Validating StaticMesh /Game/Main/Maps/BUILDINGS/Residential/peasantHomes/shackHome1Parts/shack_home_1_Plane_001.shack_home_1_Plane_001
+[2022.01.29-02.43.53:286][171]LogContentValidation: Display: Validating StaticMesh /Game/Main/Maps/BUILDINGS/Residential/peasantHomes/shackHome1Parts/shack_home_1_Plane_002.shack_home_1_Plane_002
+[2022.01.29-02.43.53:286][171]LogContentValidation: Display: Validating StaticMesh /Game/Main/Maps/BUILDINGS/Residential/peasantHomes/shackHome1Parts/shack_home_1_Plane_003.shack_home_1_Plane_003
+[2022.01.29-02.43.53:286][171]LogContentValidation: Display: Validating StaticMesh /Game/Main/Maps/BUILDINGS/Residential/peasantHomes/shackHome1Parts/shack_home_1_Plane_004.shack_home_1_Plane_004
+[2022.01.29-02.43.53:286][171]LogContentValidation: Display: Validating StaticMesh /Game/Main/Maps/BUILDINGS/Residential/peasantHomes/shackHome1Parts/shack_home_1_Plane_005.shack_home_1_Plane_005
+[2022.01.29-02.43.53:286][171]LogContentValidation: Display: Validating StaticMesh /Game/Main/Maps/BUILDINGS/Residential/peasantHomes/shackHome1Parts/shack_home_1_Plane_006.shack_home_1_Plane_006
+[2022.01.29-02.43.53:286][171]LogContentValidation: Display: Validating Blueprint /Game/Main/Maps/BUILDINGS/Residential/peasantHomes/shack1.shack1
+[2022.01.29-02.43.53:286][171]LogContentValidation: Display: Validating ObjectRedirector /Game/Main/Maps/BUILDINGS/peasantHomes/Cottage1.Cottage1_C
+[2022.01.29-02.43.53:286][171]LogContentValidation: Display: Validating ObjectRedirector /Game/Main/Maps/BUILDINGS/peasantHomes/Cottage1.Default__Cottage1_C
+[2022.01.29-02.43.53:286][171]LogContentValidation: Display: Validating ObjectRedirector /Game/Main/Maps/BUILDINGS/peasantHomes/Cottage1.Cottage1
+[2022.01.29-02.43.53:286][171]LogContentValidation: Display: Validating ObjectRedirector /Game/Main/Maps/BUILDINGS/peasantHomes/shack1.shack1_C
+[2022.01.29-02.43.53:286][171]LogContentValidation: Display: Validating ObjectRedirector /Game/Main/Maps/BUILDINGS/peasantHomes/shack1.Default__shack1_C
+[2022.01.29-02.43.53:286][171]LogContentValidation: Display: Validating ObjectRedirector /Game/Main/Maps/BUILDINGS/peasantHomes/shack1.shack1
+[2022.01.29-02.44.13:461][729]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2022.01.29-02.44.23:119][729]LogSlate: Window 'Delete Assets' being destroyed
+[2022.01.29-02.44.57:218][383]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Main/Maps/BUILDINGS/Residential/peasantHomes/Cottage1.Cottage1
+[2022.01.29-02.45.02:059][470]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.01.29-02.45.06:864][909]LogBlueprint: Warning: Reparenting blueprint Blueprint /Game/Main/Maps/BUILDINGS/Residential/peasantHomes/Cottage1.Cottage1 from BuildingParent_C to ResidentialParent_C...
+[2022.01.29-02.45.06:957][909]BlueprintLog: New page: Compile Cottage1
+[2022.01.29-02.45.07:104][909]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2022.01.29-02.45.07:391][909]LogSlate: Took 0.042930 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.01.29-02.45.08:540][933]BlueprintLog: New page: Compile Cottage1
+[2022.01.29-02.45.08:680][933]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2022.01.29-02.45.10:939][971]LogSavePackage: Moving '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Saved/Cottage17FB852B54560E6548769928F20F7BC5B.tmp' to '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Content/Main/Maps/BUILDINGS/Residential/peasantHomes/Cottage1.uasset'
+[2022.01.29-02.45.10:958][971]AssetCheck: New page: Asset Save: Cottage1
+[2022.01.29-02.45.10:958][971]LogContentValidation: Display: Validating Blueprint /Game/Main/Maps/BUILDINGS/Residential/peasantHomes/Cottage1.Cottage1
+[2022.01.29-02.47.49:195][522]LogRenderer: Reallocating scene render targets to support 1000x684 Format 10 NumSamples 1 (Frame:1).
+[2022.01.29-02.48.24:339][ 74]BlueprintLog: New page: Compile Cottage1
+[2022.01.29-02.48.24:499][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2022.01.29-02.48.24:942][ 76]LogSavePackage: Moving '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Saved/Cottage1D75F6B4F4ED3949744E37D803F101B60.tmp' to '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Content/Main/Maps/BUILDINGS/Residential/peasantHomes/Cottage1.uasset'
+[2022.01.29-02.48.24:963][ 76]AssetCheck: New page: Asset Save: Cottage1
+[2022.01.29-02.48.24:963][ 76]LogContentValidation: Display: Validating Blueprint /Game/Main/Maps/BUILDINGS/Residential/peasantHomes/Cottage1.Cottage1
+[2022.01.29-02.49.16:231][604]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2022.01.29-02.49.16:862][604]LogSavePackage: Moving '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Saved/TestMapMain_Auto1770103224AFADF3AB0768096273F5AF6.tmp' to '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Saved/Autosaves/Game/Main/Maps/TestMapMain_Auto1.umap'
+[2022.01.29-02.49.16:865][604]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Main/Maps/TestMapMain' took 0.676
+[2022.01.29-02.49.16:865][604]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.676
+[2022.01.29-02.49.16:867][604]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Main/Blueprints/Buildings/GhostBuilding_BP] ([2] browsable assets)...
+[2022.01.29-02.49.16:867][604]OBJ SavePackage: Finished generating thumbnails for package [/Game/Main/Blueprints/Buildings/GhostBuilding_BP]
+[2022.01.29-02.49.16:887][604]LogSavePackage: Moving '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Saved/GhostBuilding_BP_Auto192A8F957408CD9B07E6646B28BF17CE6.tmp' to '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Saved/Autosaves/Game/Main/Blueprints/Buildings/GhostBuilding_BP_Auto1.uasset'
+[2022.01.29-02.49.16:906][604]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Main/HUDS/MainUI_HUD] ([2] browsable assets)...
+[2022.01.29-02.49.16:906][604]OBJ SavePackage: Finished generating thumbnails for package [/Game/Main/HUDS/MainUI_HUD]
+[2022.01.29-02.49.17:008][604]LogSavePackage: Moving '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Saved/MainUI_HUD_Auto116B3C47F477AB9B48295D694B56469D3.tmp' to '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Saved/Autosaves/Game/Main/HUDS/MainUI_HUD_Auto1.uasset'
+[2022.01.29-02.49.17:010][604]LogFileHelpers: Auto-saving content packages took 0.145
+[2022.01.29-02.49.49:093][194]BlueprintLog: New page: Compile GhostBuilding_BP
+[2022.01.29-02.49.49:148][194]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2022.01.29-02.49.49:916][210]LogSavePackage: Moving '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Saved/GhostBuilding_BP6954656D443F9DFBFDEFD6AFF44DDE33.tmp' to '../../../../../../Users/Rental/Documents/GitHub/the_flaming_wok/TakeThree 4.27/Content/Main/Blueprints/Buildings/GhostBuilding_BP.uasset'
+[2022.01.29-02.49.49:938][210]AssetCheck: New page: Asset Save: GhostBuilding_BP
+[2022.01.29-02.49.49:938][210]LogContentValidation: Display: Validating Blueprint /Game/Main/Blueprints/Buildings/GhostBuilding_BP.GhostBuilding_BP
+[2022.01.29-02.49.58:550][341]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Main/Blueprints/CameraPawn.CameraPawn
+[2022.01.29-02.51.37:970][150]LogSlate: Took 0.020791 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2022.01.29-02.52.13:607][505]BlueprintLog: New page: Compile CameraPawn
+[2022.01.29-02.52.13:608][505]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2022.01.29-02.52.13:891][505]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.283 s
+[2022.01.29-02.52.13:891][505]LogOutputDevice: Error: === Handled ensure: ===
+[2022.01.29-02.52.13:891][505]LogOutputDevice: Error: 
+[2022.01.29-02.52.13:891][505]LogOutputDevice: Error: Ensure condition failed: !FBlueprintCompileReinstancer::IsReinstClass(OwnerClass) [File:D:/Build/++UE4/Sync/Engine/Source/Editor/UnrealEd/Private/Kismet2/KismetReinstanceUtilities.cpp] [Line: 1763]
+[2022.01.29-02.52.13:891][505]LogOutputDevice: Error: OwnerClass should not be 'REINST_'! This means that a REINST class was parented to another REINST class, causing unwanted recursion!
+[2022.01.29-02.52.13:891][505]LogOutputDevice: Error: Stack: 
+[2022.01.29-02.52.13:891][505]LogOutputDevice: Error: [Callstack] 0x00007ff969481769 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.01.29-02.52.13:891][505]LogOutputDevice: Error: [Callstack] 0x00007ff968c998e8 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.01.29-02.52.13:891][505]LogOutputDevice: Error: [Callstack] 0x00007ff966b3e3bd UE4Editor-Kismet.dll!UnknownFunction []
+[2022.01.29-02.52.13:891][505]LogOutputDevice: Error: [Callstack] 0x00007ff966b3e501 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.01.29-02.52.13:891][505]LogOutputDevice: Error: [Callstack] 0x00007ff966b14627 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.01.29-02.52.13:891][505]LogOutputDevice: Error: [Callstack] 0x00007ff966abc02f UE4Editor-Kismet.dll!UnknownFunction []
+[2022.01.29-02.52.13:891][505]LogOutputDevice: Error: [Callstack] 0x00007ff966abbd71 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.01.29-02.52.13:891][505]LogOutputDevice: Error: [Callstack] 0x00007ff968c6dc4e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.01.29-02.52.13:891][505]LogOutputDevice: Error: [Callstack] 0x00007ff966bbee7c UE4Editor-Kismet.dll!UnknownFunction []
+[2022.01.29-02.52.13:891][505]LogOutputDevice: Error: [Callstack] 0x00007ff966bdca46 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.01.29-02.52.13:891][505]LogOutputDevice: Error: [Callstack] 0x00007ff980a1cf28 UE4Editor-Slate.dll!UnknownFunction []
+[2022.01.29-02.52.13:891][505]LogOutputDevice: Error: [Callstack] 0x00007ff980a42082 UE4Editor-Slate.dll!UnknownFunction []
+[2022.01.29-02.52.13:891][505]LogOutputDevice: Error: [Callstack] 0x00007ff980a1ca87 UE4Editor-Slate.dll!UnknownFunction []
+[2022.01.29-02.52.13:891][505]LogOutputDevice: Error: [Callstack] 0x00007ff980aba6fe UE4Editor-Slate.dll!UnknownFunction []
+[2022.01.29-02.52.13:891][505]LogOutputDevice: Error: [Callstack] 0x00007ff980ad280e UE4Editor-Slate.dll!UnknownFunction []
+[2022.01.29-02.52.13:891][505]LogOutputDevice: Error: [Callstack] 0x00007ff98092421e UE4Editor-Slate.dll!UnknownFunction []
+[2022.01.29-02.52.13:891][505]LogOutputDevice: Error: [Callstack] 0x00007ff98099e104 UE4Editor-Slate.dll!UnknownFunction []
+[2022.01.29-02.52.13:891][505]LogOutputDevice: Error: [Callstack] 0x00007ff980987097 UE4Editor-Slate.dll!UnknownFunction []
+[2022.01.29-02.52.13:891][505]LogOutputDevice: Error: [Callstack] 0x00007ff980979b62 UE4Editor-Slate.dll!UnknownFunction []
+[2022.01.29-02.52.13:891][505]LogOutputDevice: Error: [Callstack] 0x00007ff9af2cc025 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.01.29-02.52.13:891][505]LogOutputDevice: Error: [Callstack] 0x00007ff9af2b92b7 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.01.29-02.52.13:891][505]LogOutputDevice: Error: [Callstack] 0x00007ff9af2ce465 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.01.29-02.52.13:891][505]LogOutputDevice: Error: [Callstack] 0x00007ff9af2b4410 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.01.29-02.52.13:891][505]LogOutputDevice: Error: [Callstack] 0x00007ff9cfe8e7e8 USER32.dll!UnknownFunction []
+[2022.01.29-02.52.13:891][505]LogOutputDevice: Error: [Callstack] 0x00007ff9cfe8e229 USER32.dll!UnknownFunction []
+[2022.01.29-02.52.13:891][505]LogOutputDevice: Error: [Callstack] 0x00007ff9af2cfcd4 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.01.29-02.52.13:891][505]LogOutputDevice: Error: [Callstack] 0x00007ff70fcd7621 UE4Editor.exe!UnknownFunction []
+[2022.01.29-02.52.13:891][505]LogOutputDevice: Error: [Callstack] 0x00007ff70fcf0fbc UE4Editor.exe!UnknownFunction []
+[2022.01.29-02.52.13:891][505]LogOutputDevice: Error: [Callstack] 0x00007ff70fcf10aa UE4Editor.exe!UnknownFunction []
+[2022.01.29-02.52.13:891][505]LogOutputDevice: Error: [Callstack] 0x00007ff70fcf40cd UE4Editor.exe!UnknownFunction []
+[2022.01.29-02.52.13:891][505]LogOutputDevice: Error: [Callstack] 0x00007ff70fd05984 UE4Editor.exe!UnknownFunction []
+[2022.01.29-02.52.13:891][505]LogOutputDevice: Error: [Callstack] 0x00007ff70fd0853a UE4Editor.exe!UnknownFunction []
+[2022.01.29-02.52.13:891][505]LogOutputDevice: Error: [Callstack] 0x00007ff9cef47034 KERNEL32.dll!UnknownFunction []
+[2022.01.29-02.52.13:891][505]LogOutputDevice: Error: [Callstack] 0x00007ff9d0342651 ntdll.dll!UnknownFunction []
+[2022.01.29-02.52.13:891][505]LogOutputDevice: Error: 

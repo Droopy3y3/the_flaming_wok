@@ -1,0 +1,85 @@
+newmtl bucket_Mat
+Ni 1.45
+Ka 0 0 0
+d 1.0
+Ke 0.0
+Kd 0 0 0
+adobe_map_normal rustic_wishing_well/bucket_Mat_normal.png
+Tr 0
+illum 7
+Ks 1 1 1
+adobe_translucence 0.0
+adobe_map_roughness rustic_wishing_well/bucket_Mat_roughness.png
+adobe_interior_color 1.0 1.0 1.0
+adobe_density 0.0
+map_Pm rustic_wishing_well/bucket_Mat_metallic.png
+Ns 16
+map_Kd rustic_wishing_well/bucket_Mat_baseColor.png
+newmtl rope_Mat
+Ni 1.6
+Ka 0 0 0
+d 1.0
+Ke 0.0
+Kd 0 0 0
+adobe_map_normal rustic_wishing_well/rope_Mat_normal.png
+Tr 0
+illum 7
+Ks 1 1 1
+adobe_translucence 0.0
+adobe_map_roughness rustic_wishing_well/rope_Mat_roughness.png
+adobe_interior_color 1.0 1.0 1.0
+adobe_density 0.0
+map_Pm rustic_wishing_well/rope_Mat_metallic.png
+Ns 16
+map_Kd rustic_wishing_well/rope_Mat_baseColor.png
+newmtl walls_Mat
+Ni 1.45
+Ka 0 0 0
+d 1.0
+Ke 0.0
+Kd 0 0 0
+adobe_map_normal rustic_wishing_well/walls_Mat_normal.png
+Tr 0
+illum 7
+Ks 1 1 1
+adobe_translucence 0.0
+adobe_map_roughness rustic_wishing_well/walls_Mat_roughness.png
+adobe_interior_color 1.0 1.0 1.0
+adobe_density 0.0
+map_Pm rustic_wishing_well/walls_Mat_metallic.png
+Ns 16
+map_Kd rustic_wishing_well/walls_Mat_baseColor.png
+newmtl shingles_Mat
+Ni 1.45
+Ka 0 0 0
+d 1.0
+Ke 0.0
+Kd 0 0 0
+adobe_map_normal rustic_wishing_well/shingles_Mat_normal.png
+Tr 0
+illum 7
+Ks 1 1 1
+adobe_translucence 0.0
+adobe_map_roughness rustic_wishing_well/shingles_Mat_roughness.png
+adobe_interior_color 1.0 1.0 1.0
+adobe_density 0.0
+map_Pm rustic_wishing_well/shingles_Mat_metallic.png
+Ns 16
+map_Kd rustic_wishing_well/shingles_Mat_baseColor.png
+newmtl frame_Mat
+Ni 1.45
+Ka 0 0 0
+d 1.0
+Ke 0.0
+Kd 0 0 0
+adobe_map_normal rustic_wishing_well/frame_Mat_normal.png
+Tr 0
+illum 7
+Ks 1 1 1
+adobe_translucence 0.0
+adobe_map_roughness rustic_wishing_well/frame_Mat_roughness.png
+adobe_interior_color 1.0 1.0 1.0
+adobe_density 0.0
+map_Pm rustic_wishing_well/frame_Mat_metallic.png
+Ns 16
+map_Kd rustic_wishing_well/frame_Mat_baseColor.png

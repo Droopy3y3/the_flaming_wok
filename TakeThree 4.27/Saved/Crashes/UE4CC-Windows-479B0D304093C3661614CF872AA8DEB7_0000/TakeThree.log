@@ -1,0 +1,1436 @@
+﻿Log file open, 04/08/22 19:45:45
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: TakeThree
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.225450
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -7:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-17155196
+LogInit: Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 7 3700X 8-Core Processor             , GPU: AMD Radeon RX 5700 XT
+LogInit: Compiled (64-bit): Aug 13 2021 06:13:13
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line: 
+LogInit: Base Directory: D:/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Jeremy/Documents/ODD/the_flaming_wok/TakeThree 4.27/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.04.09-01.45.46:353][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.04.09-01.45.46:353][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.04.09-01.45.46:353][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Jeremy/Documents/ODD/the_flaming_wok/TakeThree 4.27/Saved/Config/Windows/Engine.ini]
+[2022.04.09-01.45.46:353][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.04.09-01.45.46:353][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Jeremy/Documents/ODD/the_flaming_wok/TakeThree 4.27/Saved/Config/Windows/Engine.ini]
+[2022.04.09-01.45.46:353][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Jeremy/Documents/ODD/the_flaming_wok/TakeThree 4.27/Saved/Config/Windows/Engine.ini]
+[2022.04.09-01.45.46:353][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.04.09-01.45.46:353][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.04.09-01.45.46:353][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.04.09-01.45.46:353][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.04.09-01.45.46:353][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.04.09-01.45.46:353][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.04.09-01.45.46:353][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.04.09-01.45.46:353][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.04.09-01.45.46:353][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.04.09-01.45.46:353][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.04.09-01.45.46:354][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.04.09-01.45.46:354][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.04.09-01.45.46:354][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.04.09-01.45.46:354][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.04.09-01.45.46:354][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Jeremy/Documents/ODD/the_flaming_wok/TakeThree 4.27/Saved/Config/Windows/Engine.ini]
+[2022.04.09-01.45.46:354][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.04.09-01.45.46:354][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.04.09-01.45.46:354][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.04.09-01.45.46:354][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.04.09-01.45.46:354][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.04.09-01.45.46:354][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.04.09-01.45.46:354][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.04.09-01.45.46:354][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.04.09-01.45.46:354][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.04.09-01.45.46:354][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.04.09-01.45.46:354][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.04.09-01.45.46:354][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.04.09-01.45.46:354][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.04.09-01.45.46:354][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.04.09-01.45.46:354][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Jeremy/Documents/ODD/the_flaming_wok/TakeThree 4.27/Saved/Config/Windows/Engine.ini]
+[2022.04.09-01.45.46:354][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Jeremy/Documents/ODD/the_flaming_wok/TakeThree 4.27/Saved/Config/Windows/Engine.ini]
+[2022.04.09-01.45.46:371][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Jeremy/Documents/ODD/the_flaming_wok/TakeThree 4.27/Saved/Config/Windows/Scalability.ini]
+[2022.04.09-01.45.46:371][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.04.09-01.45.46:371][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.04.09-01.45.46:371][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Jeremy/Documents/ODD/the_flaming_wok/TakeThree 4.27/Saved/Config/Windows/Scalability.ini]
+[2022.04.09-01.45.46:371][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.04.09-01.45.46:371][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Jeremy/Documents/ODD/the_flaming_wok/TakeThree 4.27/Saved/Config/Windows/Scalability.ini]
+[2022.04.09-01.45.46:371][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.04.09-01.45.46:371][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.04.09-01.45.46:371][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.04.09-01.45.46:371][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.04.09-01.45.46:371][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.04.09-01.45.46:371][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.04.09-01.45.46:371][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.04.09-01.45.46:371][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.04.09-01.45.46:371][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.04.09-01.45.46:371][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.04.09-01.45.46:371][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.04.09-01.45.46:371][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.04.09-01.45.46:371][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.04.09-01.45.46:371][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.04.09-01.45.46:371][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.04.09-01.45.46:372][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.04.09-01.45.46:372][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.04.09-01.45.46:372][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.04.09-01.45.46:372][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Jeremy/Documents/ODD/the_flaming_wok/TakeThree 4.27/Saved/Config/Windows/Scalability.ini]
+[2022.04.09-01.45.46:372][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.04.09-01.45.46:372][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.04.09-01.45.46:372][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.04.09-01.45.46:372][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.04.09-01.45.46:372][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.04.09-01.45.46:372][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.04.09-01.45.46:372][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.04.09-01.45.46:372][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.04.09-01.45.46:372][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.04.09-01.45.46:372][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.04.09-01.45.46:372][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.04.09-01.45.46:372][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.04.09-01.45.46:372][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.04.09-01.45.46:372][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.04.09-01.45.46:372][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.04.09-01.45.46:372][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.04.09-01.45.46:372][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.04.09-01.45.46:372][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.04.09-01.45.46:372][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.04.09-01.45.46:372][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.04.09-01.45.46:372][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.04.09-01.45.46:372][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.04.09-01.45.46:372][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.04.09-01.45.46:372][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.04.09-01.45.46:372][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.04.09-01.45.46:372][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.04.09-01.45.46:372][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.04.09-01.45.46:372][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.04.09-01.45.46:372][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.04.09-01.45.46:372][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.04.09-01.45.46:372][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Jeremy/Documents/ODD/the_flaming_wok/TakeThree 4.27/Saved/Config/Windows/Scalability.ini]
+[2022.04.09-01.45.46:372][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.04.09-01.45.46:372][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.04.09-01.45.46:372][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.04.09-01.45.46:372][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.04.09-01.45.46:372][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.04.09-01.45.46:372][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.04.09-01.45.46:372][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.04.09-01.45.46:372][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.04.09-01.45.46:372][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.04.09-01.45.46:372][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Jeremy/Documents/ODD/the_flaming_wok/TakeThree 4.27/Saved/Config/Windows/Scalability.ini]
+[2022.04.09-01.45.46:372][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.04.09-01.45.46:372][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.04.09-01.45.46:372][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.04.09-01.45.46:372][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.04.09-01.45.46:372][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.04.09-01.45.46:372][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.04.09-01.45.46:372][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.04.09-01.45.46:372][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.04.09-01.45.46:372][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.04.09-01.45.46:372][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.04.09-01.45.46:372][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.04.09-01.45.46:372][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.04.09-01.45.46:372][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.04.09-01.45.46:372][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.04.09-01.45.46:372][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.04.09-01.45.46:372][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.04.09-01.45.46:372][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.04.09-01.45.46:372][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.04.09-01.45.46:372][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.04.09-01.45.46:372][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.04.09-01.45.46:372][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.04.09-01.45.46:372][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.04.09-01.45.46:372][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.04.09-01.45.46:372][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.04.09-01.45.46:372][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.04.09-01.45.46:372][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.04.09-01.45.46:372][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.04.09-01.45.46:372][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.04.09-01.45.46:372][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Jeremy/Documents/ODD/the_flaming_wok/TakeThree 4.27/Saved/Config/Windows/Scalability.ini]
+[2022.04.09-01.45.46:372][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.04.09-01.45.46:372][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.04.09-01.45.46:372][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Jeremy/Documents/ODD/the_flaming_wok/TakeThree 4.27/Saved/Config/Windows/Scalability.ini]
+[2022.04.09-01.45.46:372][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.04.09-01.45.46:372][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.04.09-01.45.46:372][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.04.09-01.45.46:372][  0]LogInit: Selected Device Profile: [Windows]
+[2022.04.09-01.45.46:372][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.04.09-01.45.46:372][  0]LogHAL: Display: Platform has ~ 16 GB [17102946304 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.04.09-01.45.46:372][  0]LogInit: Going up to parent DeviceProfile []
+[2022.04.09-01.45.46:372][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Jeremy/Documents/ODD/the_flaming_wok/TakeThree 4.27/Saved/Config/Windows/Scalability.ini]
+[2022.04.09-01.45.46:372][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.04.09-01.45.46:372][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.04.09-01.45.46:373][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Jeremy/Documents/ODD/the_flaming_wok/TakeThree 4.27/Saved/Config/Windows/Scalability.ini]
+[2022.04.09-01.45.46:373][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.04.09-01.45.46:373][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Jeremy/Documents/ODD/the_flaming_wok/TakeThree 4.27/Saved/Config/Windows/Scalability.ini]
+[2022.04.09-01.45.46:373][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.04.09-01.45.46:373][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.04.09-01.45.46:373][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.04.09-01.45.46:373][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.04.09-01.45.46:373][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.04.09-01.45.46:373][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.04.09-01.45.46:373][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.04.09-01.45.46:373][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.04.09-01.45.46:373][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.04.09-01.45.46:373][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.04.09-01.45.46:373][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.04.09-01.45.46:373][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.04.09-01.45.46:373][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.04.09-01.45.46:373][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.04.09-01.45.46:373][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.04.09-01.45.46:373][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.04.09-01.45.46:373][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.04.09-01.45.46:373][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.04.09-01.45.46:373][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Jeremy/Documents/ODD/the_flaming_wok/TakeThree 4.27/Saved/Config/Windows/Scalability.ini]
+[2022.04.09-01.45.46:373][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.04.09-01.45.46:373][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.04.09-01.45.46:373][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.04.09-01.45.46:373][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.04.09-01.45.46:373][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.04.09-01.45.46:373][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.04.09-01.45.46:373][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.04.09-01.45.46:373][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.04.09-01.45.46:373][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.04.09-01.45.46:373][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.04.09-01.45.46:373][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.04.09-01.45.46:373][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.04.09-01.45.46:373][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.04.09-01.45.46:373][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.04.09-01.45.46:373][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.04.09-01.45.46:373][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.04.09-01.45.46:373][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.04.09-01.45.46:373][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.04.09-01.45.46:373][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.04.09-01.45.46:373][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.04.09-01.45.46:373][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.04.09-01.45.46:373][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.04.09-01.45.46:373][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.04.09-01.45.46:373][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.04.09-01.45.46:373][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.04.09-01.45.46:373][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.04.09-01.45.46:373][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.04.09-01.45.46:373][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.04.09-01.45.46:373][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.04.09-01.45.46:373][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.04.09-01.45.46:373][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Jeremy/Documents/ODD/the_flaming_wok/TakeThree 4.27/Saved/Config/Windows/Scalability.ini]
+[2022.04.09-01.45.46:373][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.04.09-01.45.46:373][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.04.09-01.45.46:373][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.04.09-01.45.46:373][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.04.09-01.45.46:373][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.04.09-01.45.46:373][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.04.09-01.45.46:373][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.04.09-01.45.46:373][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.04.09-01.45.46:373][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.04.09-01.45.46:373][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Jeremy/Documents/ODD/the_flaming_wok/TakeThree 4.27/Saved/Config/Windows/Scalability.ini]
+[2022.04.09-01.45.46:373][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.04.09-01.45.46:373][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.04.09-01.45.46:373][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.04.09-01.45.46:373][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.04.09-01.45.46:373][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.04.09-01.45.46:373][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.04.09-01.45.46:373][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.04.09-01.45.46:373][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.04.09-01.45.46:373][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.04.09-01.45.46:373][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.04.09-01.45.46:373][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.04.09-01.45.46:373][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.04.09-01.45.46:373][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.04.09-01.45.46:373][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.04.09-01.45.46:373][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.04.09-01.45.46:373][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.04.09-01.45.46:373][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.04.09-01.45.46:373][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.04.09-01.45.46:373][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.04.09-01.45.46:373][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.04.09-01.45.46:373][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.04.09-01.45.46:373][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.04.09-01.45.46:373][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.04.09-01.45.46:373][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.04.09-01.45.46:373][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.04.09-01.45.46:373][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.04.09-01.45.46:373][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.04.09-01.45.46:373][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.04.09-01.45.46:373][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Jeremy/Documents/ODD/the_flaming_wok/TakeThree 4.27/Saved/Config/Windows/Scalability.ini]
+[2022.04.09-01.45.46:373][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.04.09-01.45.46:373][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.04.09-01.45.46:373][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Jeremy/Documents/ODD/the_flaming_wok/TakeThree 4.27/Saved/Config/Windows/Scalability.ini]
+[2022.04.09-01.45.46:373][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.04.09-01.45.46:373][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.04.09-01.45.46:373][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.04.09-01.45.46:373][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.04.09-01.45.46:374][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.04.09-01.45.46:374][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.04.09-01.45.46:374][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.04.09-01.45.46:374][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Jeremy/Documents/ODD/the_flaming_wok/TakeThree 4.27/Saved/Config/Windows/Engine.ini]
+[2022.04.09-01.45.46:374][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Jeremy/Documents/ODD/the_flaming_wok/TakeThree 4.27/Saved/Config/Windows/Editor.ini]
+[2022.04.09-01.45.46:374][  0]LogInit: Computer: DESKTOP-RR3M4MF
+[2022.04.09-01.45.46:374][  0]LogInit: User: Jeremy
+[2022.04.09-01.45.46:374][  0]LogInit: CPU Page size=4096, Cores=8
+[2022.04.09-01.45.46:374][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.04.09-01.45.46:374][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2022.04.09-01.45.46:374][  0]LogMemory: Platform Memory Stats for Windows
+[2022.04.09-01.45.46:374][  0]LogMemory: Process Physical Memory: 149.58 MB used, 149.59 MB peak
+[2022.04.09-01.45.46:374][  0]LogMemory: Process Virtual Memory: 131.28 MB used, 131.28 MB peak
+[2022.04.09-01.45.46:374][  0]LogMemory: Physical Memory: 7174.43 MB used,  9136.21 MB free, 16310.64 MB total
+[2022.04.09-01.45.46:374][  0]LogMemory: Virtual Memory: 134194264.00 MB used,  23464.60 MB free, 134217728.00 MB total
+[2022.04.09-01.45.46:555][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.04.09-01.45.46:578][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.04.09-01.45.46:579][  0]LogInit: Using OS detected language (en-US).
+[2022.04.09-01.45.46:579][  0]LogInit: Using OS detected locale (en-US).
+[2022.04.09-01.45.46:585][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2022.04.09-01.45.46:765][  0]LogInit: Setting process to per monitor DPI aware
+[2022.04.09-01.45.46:775][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.04.09-01.45.46:792][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.04.09-01.45.46:792][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.04.09-01.45.46:964][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2022.04.09-01.45.46:966][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.04.09-01.45.46:966][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.04.09-01.45.46:966][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.04.09-01.45.46:966][  0]LogD3D11RHI: D3D11 adapters:
+[2022.04.09-01.45.47:002][  0]LogD3D11RHI:    0. 'AMD Radeon RX 5700 XT' (Feature Level 11_0)
+[2022.04.09-01.45.47:002][  0]LogD3D11RHI:       8151/0/8155 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x1002
+[2022.04.09-01.45.47:004][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.04.09-01.45.47:004][  0]LogD3D11RHI:       0/0/8155 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.04.09-01.45.47:004][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2022.04.09-01.45.47:011][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.04.09-01.45.47:011][  0]LogD3D11RHI:     GPU DeviceId: 0x731f (for the marketing name, search the web for "GPU Device Id")
+[2022.04.09-01.45.47:011][  0]LogWindows: EnumDisplayDevices:
+[2022.04.09-01.45.47:011][  0]LogWindows:    0. 'AMD Radeon RX 5700 XT' (P:1 D:1)
+[2022.04.09-01.45.47:012][  0]LogWindows:    1. 'AMD Radeon RX 5700 XT' (P:0 D:1)
+[2022.04.09-01.45.47:012][  0]LogWindows:    2. 'AMD Radeon RX 5700 XT' (P:0 D:0)
+[2022.04.09-01.45.47:012][  0]LogWindows:    3. 'AMD Radeon RX 5700 XT' (P:0 D:0)
+[2022.04.09-01.45.47:012][  0]LogWindows:    4. 'AMD Radeon RX 5700 XT' (P:0 D:0)
+[2022.04.09-01.45.47:013][  0]LogWindows:    5. 'AMD Radeon RX 5700 XT' (P:0 D:0)
+[2022.04.09-01.45.47:013][  0]LogWindows:    6. 'AMD Radeon RX 5700 XT' (P:0 D:0)
+[2022.04.09-01.45.47:013][  0]LogWindows: DebugString: FoundDriverCount:7 
+[2022.04.09-01.45.47:013][  0]LogD3D11RHI:     Adapter Name: AMD Radeon RX 5700 XT
+[2022.04.09-01.45.47:013][  0]LogD3D11RHI:   Driver Version: AMD Software: Adrenalin Edition 22.4.1 (internal:30.0.15021.1001, unified:30.0.15021.1001)
+[2022.04.09-01.45.47:013][  0]LogD3D11RHI:      Driver Date: 3-31-2022
+[2022.04.09-01.45.47:013][  0]LogRHI: Texture pool is 5168 MB (70% of 7383 MB)
+[2022.04.09-01.45.47:070][  0]LogD3D11RHI: Created device via AGS, feature level 11_0, supported extensions 1fffffbf.
+[2022.04.09-01.45.47:070][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.04.09-01.45.47:070][  0]LogD3D11RHI: Async texture creation enabled
+[2022.04.09-01.45.47:070][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.04.09-01.45.47:083][  0]LogD3D11RHI: GPU Timing Frequency: 100.000000 (Debug: 2 1)
+[2022.04.09-01.45.47:328][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.04.09-01.45.47:349][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.04.09-01.45.47:349][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.04.09-01.45.47:349][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.04.09-01.45.47:349][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.04.09-01.45.47:349][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.04.09-01.45.47:349][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.04.09-01.45.47:349][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.04.09-01.45.47:349][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.04.09-01.45.47:349][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.04.09-01.45.47:349][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.04.09-01.45.47:368][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.04.09-01.45.47:368][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.04.09-01.45.47:377][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.04.09-01.45.47:382][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.04.09-01.45.47:386][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.04.09-01.45.47:391][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.04.09-01.45.47:400][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.04.09-01.45.47:405][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.04.09-01.45.47:409][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.04.09-01.45.47:433][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.04.09-01.45.47:433][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.04.09-01.45.47:442][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.04.09-01.45.47:446][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.04.09-01.45.47:451][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.04.09-01.45.47:455][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.04.09-01.45.47:464][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.04.09-01.45.47:465][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.04.09-01.45.47:474][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.04.09-01.45.47:478][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.04.09-01.45.47:483][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.04.09-01.45.47:487][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.04.09-01.45.47:487][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.04.09-01.45.47:494][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.04.09-01.45.47:532][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2022.04.09-01.45.47:561][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.04.09-01.45.47:561][  0]LogShaderCompilers: Guid format shader working directory is -14 characters bigger than the processId version (C:/Users/Jeremy/Documents/ODD/the_flaming_wok/TakeThree 4.27/Intermediate/Shaders/WorkingDirectory/16124/).
+[2022.04.09-01.45.47:561][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Jeremy/AppData/Local/Temp/UnrealShaderWorkingDir/73A147664850D533743D4797321DDD99/'.
+[2022.04.09-01.45.47:561][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.04.09-01.45.47:561][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.04.09-01.45.47:561][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.04.09-01.45.48:194][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.04.09-01.45.48:242][  0]LogDerivedDataCache: Loaded boot cache 0.05s 95MB C:/Users/Jeremy/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.04.09-01.45.48:242][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Jeremy/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2022.04.09-01.45.48:242][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/Jeremy/Documents/ODD/the_flaming_wok/TakeThree 4.27/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.04.09-01.45.48:242][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.04.09-01.45.48:242][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/Jeremy/Documents/ODD/the_flaming_wok/TakeThree 4.27/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.04.09-01.45.48:242][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.04.09-01.45.48:258][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.04.09-01.45.48:258][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.04.09-01.45.48:258][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.04.09-01.45.48:264][  0]LogDerivedDataCache: Speed tests for C:/Users/Jeremy/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.04.09-01.45.48:264][  0]LogDerivedDataCache: Display: Performance to C:/Users/Jeremy/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.03ms. RandomReadSpeed=1452.18MBs, RandomWriteSpeed=171.83MBs. Assigned SpeedClass 'Local'
+[2022.04.09-01.45.48:265][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Jeremy/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.04.09-01.45.48:265][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.04.09-01.45.48:265][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.04.09-01.45.48:307][  0]LogSlate: Using FreeType 2.10.0
+[2022.04.09-01.45.48:308][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.04.09-01.45.48:330][  0]LogAssetRegistry: FAssetRegistry took 0.0026 seconds to start up
+[2022.04.09-01.45.48:564][  0]LogInit: Selected Device Profile: [Windows]
+[2022.04.09-01.45.48:564][  0]LogInit: Active device profile: [000001D30AE9AF00][000001D300A03A00 49] Windows
+[2022.04.09-01.45.48:564][  0]LogInit: Profiles: [000001D30AE9AF00][000001D300A03A00 49] Windows, [000001D30AE51300][000001D30A059B80 49] WindowsNoEditor, [000001D30AE99300][000001D30A05C180 49] WindowsServer, [000001D30AE52500][000001D30A060300 49] WindowsClient, [000001D30AE9A400][000001D30A064480 49] IOS, [000001D30AE53E00][000001D30A068600 49] iPadAir, [000001D30AE9AA00][000001D300A06740 49] iPadAir2, [000001D30ADFEC00][000001D309A4E980 49] IPadPro, [000001D30ADFED00][000001D30A06C9C0 49] iPadAir3, [000001D30AE98700][000001D309A52B00 49] iPadAir4, [000001D30ADFF500][000001D309A5AC80 49] iPadMini2, [000001D30AE99900][000001D309A5EE00 49] iPadMini3, [000001D30ADFCE00][000001D309A62F80 49] iPadMini4, [000001D30AE9A100][000001D309A67100 49] iPadMini5, [000001D30AE42500][000001D305E873C0 49] iPhone6, [000001D30AE42600][000001D305E83400 49] iPodTouch6, [000001D30ADFCF00][000001D305E8F6C0 49] iPhone7, [000001D30ADFDE00][000001D305E8B700 49] iPodTouch7, [000001D30AE42C00][000001D305E93880 49] iPhone5S, [000001D30ADFCA00][000001D305E97A00 49] iPhone6Plus, [000001D30AE40E00][000001D305E9BB80 49] iPhone6S, [000001D30ADFD300][000001D305E9E180 49] iPhone6SPlus, [000001D30AE43900][000001D305EA2300 49] iPhone7Plus, [000001D30ADFF600][000001D305EA6480 49] iPhoneSE, [000001D30AE40400][000001D305EAA600 49] iPhone8, [000001D30ADFC700][000001D305EAE780 49] iPhone8Plus, [000001D30AE43100][000001D305EB2900 49] iPhoneX, [000001D30ADFD000][000001D309A56A40 49] iPhoneXS, [000001D30AE41A00][000001D305EB6B80 49] iPhoneXSMax, [000001D30ADFC800][000001D305EBACC0 49] iPhoneXR, [000001D30AE41C00][000001D305EC2E40 49] iPhone11, [000001D30ADFEF00][000001D305EC6FC0 49] iPhone11Pro, [000001D30AE43B00][000001D305ECB140 49] iPhone11ProMax, [000001D30ADFD900][000001D305ECF2C0 49] iPhoneSE2, [000001D30AE42800][000001D309C05440 49] iPhone12Mini, [000001D30ADFFF00][000001D309C095C0 49] iPhone12, [000001D30AE40F00][000001D309C0D740 49] iPhone12Pro, [000001D30ADFC300][000001D309C118C0 49] iPhone12ProMax, [000001D30AE42700][000001D309C15A40 49] iPadPro105, [000001D30ADFDF00][000001D309C19BC0 49] iPadPro129, [000001D30AE41200][000001D309C1C1C0 49] iPadPro97, [000001D30ADFD700][000001D309C20340 49] iPadPro2_129, [000001D30AE42000][000001D309C244C0 49] iPad5, [000001D30ADFC100][000001D309C28640 49] iPad6, [000001D30AE43200][000001D309C2C7C0 49] iPad7, [000001D30ADFC500][000001D309C30940 49] iPad8, [000001D30AE42A00][000001D309C34AC0 49] iPadPro11, [000001D30ADFE800][000001D305EBEC00 49] iPadPro2_11, [000001D30AE40800][000001D309C38D40 49] iPadPro3_129, [000001D30ADFEE00][000001D309C3CE80 49] iPadPro4_129, [000001D30AE42900][000001D309C40FC0 49] AppleTV, [000001D30ADFD100][000001D309C49140 49] AppleTV4K, [000001D30AE40B00][000001D309C4D2C0 49] TVOS, [000001D30ADFE900][000001D309C51440 49] Mac, [000001D30AE50500][000001D309C555C0 49] MacClient, [000001D30AECD600][000001D309C59740 49] MacNoEditor, [000001D30AE52D00][000001D309C5D8C0 49] MacServer, [000001D30AECD400][000001D305EDDA40 49] Linux, [000001D30AE50B00][000001D305EE1BC0 49] LinuxAArch64, [000001D30AECC300][000001D305EE41C0 49] LinuxNoEditor, [000001D30AE50100][000001D305EE8340 49] LinuxAArch64NoEditor, [000001D30AECDD00][000001D305EEC4C0 49] LinuxClient, [000001D30AE53700][000001D305EF0640 49] LinuxAArch64Client, [000001D30AECD500][000001D305EF47C0 49] LinuxServer, [000001D30AE50A00][000001D305EF8940 49] LinuxAArch64Server, [000001D30AECD800][000001D305EFCAC0 49] Android, [000001D30AE52F00][000001D305F00C40 49] Android_Low, [000001D30AECD200][000001D309C44D80 49] Android_Mid, [000001D30AE50800][000001D305F04EC0 49] Android_High, [000001D30AECD100][000001D305F09000 49] Android_Default, [000001D30AE51F00][000001D305F0D140 49] Android_Adreno4xx, [000001D30AECD000][000001D305F152C0 49] Android_Adreno5xx_Low, [000001D30ADFE000][000001D305F19440 49] Android_Adreno5xx, [000001D30AE43D00][000001D305F1D5C0 49] Android_Adreno6xx, [000001D30ADFE200][000001D305F21740 49] Android_Adreno6xx_Vulkan, [000001D30AE41D00][000001D305F258C0 49] Android_Mali_T6xx, [000001D30ADFC600][000001D305F29A40 49] Android_Mali_T7xx, [000001D30AE40700][000001D305F2DBC0 49] Android_Mali_T8xx, [000001D30ADFF300][000001D305F301C0 49] Android_Mali_G71, [000001D30AE43400][000001D305F34340 49] Android_Mali_G72, [000001D30ADFFA00][000001D305F384C0 49] Android_Mali_G72_Vulkan, [000001D30AE43000][000001D305F3C640 49] Android_Mali_G76, [000001D30AECCF00][000001D305F407C0 49] Android_Mali_G76_Vulkan, [000001D30AE41400][000001D305F44940 49] Android_Mali_G77, [000001D30AECDB00][000001D305F48AC0 49] Android_Mali_G77_Vulkan, [000001D30AE42400][000001D305F4CC40 49] Android_Mali_G78, [000001D30AECD900][000001D305F50DC0 49] Android_Mali_G78_Vulkan, [000001D30AE43300][000001D305F54F40 49] Android_Mali_G710, [000001D30AECDA00][000001D305F11080 49] Android_Mali_G710_Vulkan, [000001D30AE40C00][000001D305F591C0 49] Android_Vulkan_SM5, [000001D30AECCE00][000001D305F5D300 49] Android_PowerVR_G6xxx, [000001D30AE42200][000001D305F65480 49] Android_PowerVR_GT7xxx, [000001D30AECDE00][000001D305F69600 49] Android_PowerVR_GE8xxx, [000001D30AE42D00][000001D30991B780 49] Android_PowerVR_GM9xxx, [000001D30ADFF400][000001D30991F900 49] Android_PowerVR_GM9xxx_Vulkan, [000001D30AE41300][000001D309923A80 49] Android_TegraK1, [000001D30ADFC900][000001D309927C00 49] Android_Unknown_Vulkan, [000001D30AE41F00][000001D30992A200 49] Lumin, [000001D30ADFCC00][000001D30992E380 49] Lumin_Desktop, [000001D30AE40600][000001D309932500 49] HoloLens, 
+[2022.04.09-01.45.48:678][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.04.09-01.45.48:678][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.04.09-01.45.48:678][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.04.09-01.45.48:679][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.04.09-01.45.48:679][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.04.09-01.45.48:697][  0]LogNetVersion: TakeThree 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 1545721811)
+[2022.04.09-01.45.49:053][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.04.09-01.45.49:102][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.04.09-01.45.49:108][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2022.04.09-01.45.49:108][  0]LogUObjectAllocator: 4301856 out of 0 bytes used by permanent object pool.
+[2022.04.09-01.45.49:108][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.04.09-01.45.49:368][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: C51DE59C417F4360153DF094277C8466 | Instance: 114E67914D04DEB4C4F1C4A2FC52380C (DESKTOP-RR3M4MF-16124).
+[2022.04.09-01.45.49:384][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/MenuSeparator.png' error.
+[2022.04.09-01.45.49:384][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/MenuSeparator.png
+[2022.04.09-01.45.49:384][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/Selection.png' error.
+[2022.04.09-01.45.49:384][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/Selection.png
+[2022.04.09-01.45.49:384][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/Selector.png' error.
+[2022.04.09-01.45.49:384][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/Selector.png
+[2022.04.09-01.45.49:384][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Onto.png' error.
+[2022.04.09-01.45.49:384][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Onto.png
+[2022.04.09-01.45.49:384][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Above.png' error.
+[2022.04.09-01.45.49:385][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/FlatButton.png' error.
+[2022.04.09-01.45.49:385][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Above.png
+[2022.04.09-01.45.49:385][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Below.png' error.
+[2022.04.09-01.45.49:385][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Below.png
+[2022.04.09-01.45.49:385][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/RoundedSelection_16x.png' error.
+[2022.04.09-01.45.49:385][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/RoundedSelection_16x.png
+[2022.04.09-01.45.49:385][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/FlatButton.png
+[2022.04.09-01.45.49:401][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2022.04.09-01.45.49:401][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2022.04.09-01.45.49:401][  0]LogPython: Using Python 3.7.7
+[2022.04.09-01.45.49:952][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.04.09-01.45.49:958][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.04.09-01.45.50:120][  0]SourceControl: Source control is disabled
+[2022.04.09-01.45.50:121][  0]SourceControl: Source control is disabled
+[2022.04.09-01.45.50:126][  0]SourceControl: Source control is disabled
+[2022.04.09-01.45.50:129][  0]SourceControl: Source control is disabled
+[2022.04.09-01.45.50:135][  0]SourceControl: Source control is disabled
+[2022.04.09-01.45.50:141][  0]LogUProjectInfo: Found projects:
+[2022.04.09-01.45.50:147][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.04.09-01.45.50:147][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.04.09-01.45.50:148][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.04.09-01.45.50:352][  0]LogOpenImageDenoise: OIDN starting up
+[2022.04.09-01.45.50:398][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.04.09-01.45.50:419][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.04.09-01.45.50:419][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.04.09-01.45.50:534][  0]LogCollectionManager: Loaded 0 collections in 0.000859 seconds
+[2022.04.09-01.45.50:562][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Jeremy/Documents/ODD/the_flaming_wok/TakeThree 4.27/Saved/Collections/' took 0.00s
+[2022.04.09-01.45.50:562][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Jeremy/Documents/ODD/the_flaming_wok/TakeThree 4.27/Content/Developers/Jeremy/Collections/' took 0.00s
+[2022.04.09-01.45.50:562][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Jeremy/Documents/ODD/the_flaming_wok/TakeThree 4.27/Content/Collections/' took 0.00s
+[2022.04.09-01.45.50:562][  0]LogOcInput: OculusInput pre-init called
+[2022.04.09-01.45.50:759][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/MenuSeparator.png' error.
+[2022.04.09-01.45.50:759][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/MenuSeparator.png
+[2022.04.09-01.45.50:759][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/Selector.png' error.
+[2022.04.09-01.45.50:759][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/Selector.png
+[2022.04.09-01.45.50:759][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/Selection.png' error.
+[2022.04.09-01.45.50:759][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/Selection.png
+[2022.04.09-01.45.50:759][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Onto.png' error.
+[2022.04.09-01.45.50:759][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Onto.png
+[2022.04.09-01.45.50:759][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Above.png' error.
+[2022.04.09-01.45.50:759][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Above.png
+[2022.04.09-01.45.50:759][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Below.png' error.
+[2022.04.09-01.45.50:759][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/RoundedSelection_16x.png' error.
+[2022.04.09-01.45.50:759][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/RoundedSelection_16x.png
+[2022.04.09-01.45.50:759][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Below.png
+[2022.04.09-01.45.50:760][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/FlatButton.png' error.
+[2022.04.09-01.45.50:760][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/FlatButton.png
+[2022.04.09-01.45.50:760][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2022.04.09-01.45.50:760][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2022.04.09-01.45.50:760][  0]LogEngine: Initializing Engine...
+[2022.04.09-01.45.50:762][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2022.04.09-01.45.50:762][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.04.09-01.45.50:762][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.04.09-01.45.50:763][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.04.09-01.45.50:859][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.04.09-01.45.50:870][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.04.09-01.45.50:878][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.04.09-01.45.50:882][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.04.09-01.45.50:883][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.04.09-01.45.50:883][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.04.09-01.45.50:883][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.04.09-01.45.50:883][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.09-01.45.50:883][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.09-01.45.50:883][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.09-01.45.50:883][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.09-01.45.50:883][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.09-01.45.50:883][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.09-01.45.50:883][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.09-01.45.50:883][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.09-01.45.50:884][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.09-01.45.50:884][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.09-01.45.50:884][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.09-01.45.50:884][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.09-01.45.50:923][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.09-01.45.50:923][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.04.09-01.45.50:997][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.04.09-01.45.50:997][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.09-01.45.51:000][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.09-01.45.51:000][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.09-01.45.51:001][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.09-01.45.51:001][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.09-01.45.51:001][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.09-01.45.51:002][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.09-01.45.51:002][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.09-01.45.51:002][  0]LogInit: FAudioDevice initialized.
+[2022.04.09-01.45.51:002][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.04.09-01.45.51:002][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.04.09-01.45.51:059][  0]LogDerivedDataCache: Saved boot cache 0.06s 95MB C:/Users/Jeremy/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.04.09-01.45.51:059][  0]LogInit: Texture streaming: Enabled
+[2022.04.09-01.45.51:071][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.0-17155196+++UE4+Release-4.27
+[2022.04.09-01.45.51:074][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.04.09-01.45.51:074][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.04.09-01.45.51:075][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.04.09-01.45.51:102][  0]LogInit: Transaction tracking system initialized
+[2022.04.09-01.45.51:123][  0]BlueprintLog: New page: Editor Load
+[2022.04.09-01.45.51:182][  0]LocalizationService: Localization service is disabled
+[2022.04.09-01.45.51:205][  0]TimingProfiler: Initialize
+[2022.04.09-01.45.51:205][  0]TimingProfiler: OnSessionChanged
+[2022.04.09-01.45.51:205][  0]LoadingProfiler: Initialize
+[2022.04.09-01.45.51:205][  0]LoadingProfiler: OnSessionChanged
+[2022.04.09-01.45.51:205][  0]NetworkingProfiler: Initialize
+[2022.04.09-01.45.51:205][  0]NetworkingProfiler: OnSessionChanged
+[2022.04.09-01.45.51:205][  0]MemoryProfiler: Initialize
+[2022.04.09-01.45.51:205][  0]MemoryProfiler: OnSessionChanged
+[2022.04.09-01.45.51:262][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.04.09-01.45.51:263][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.04.09-01.45.51:263][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.04.09-01.45.51:345][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.04.09-01.45.51:345][  0]LogCook: Display: Mobile HDR setting 1
+[2022.04.09-01.45.51:447][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Jeremy/Documents/ODD/the_flaming_wok/TakeThree 4.27/Content/' took 0.01s
+[2022.04.09-01.45.51:615][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/MenuSeparator.png' error.
+[2022.04.09-01.45.51:615][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/MenuSeparator.png
+[2022.04.09-01.45.51:615][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/Selector.png' error.
+[2022.04.09-01.45.51:615][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/Selector.png
+[2022.04.09-01.45.51:615][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Above.png' error.
+[2022.04.09-01.45.51:615][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Above.png
+[2022.04.09-01.45.51:615][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/Selection.png' error.
+[2022.04.09-01.45.51:615][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/Selection.png
+[2022.04.09-01.45.51:615][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Onto.png' error.
+[2022.04.09-01.45.51:615][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Below.png' error.
+[2022.04.09-01.45.51:615][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Below.png
+[2022.04.09-01.45.51:615][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/FlatButton.png' error.
+[2022.04.09-01.45.51:615][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/FlatButton.png
+[2022.04.09-01.45.51:615][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/RoundedSelection_16x.png' error.
+[2022.04.09-01.45.51:615][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/RoundedSelection_16x.png
+[2022.04.09-01.45.51:615][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Onto.png
+[2022.04.09-01.45.51:660][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2022.04.09-01.45.51:660][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2022.04.09-01.45.51:660][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.04.09-01.45.51:663][  0]SourceControl: Source control is disabled
+[2022.04.09-01.45.51:663][  0]LogUnrealEdMisc: Loading editor; pre map load, took 6.595
+[2022.04.09-01.45.51:663][  0]Cmd: MAP LOAD FILE="C:/Users/Jeremy/Documents/ODD/the_flaming_wok/TakeThree 4.27/Content/TopDownBP/Maps/TopDownExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.04.09-01.45.51:663][  0]LogEditorServer: Warning: Can't find file 'C:/Users/Jeremy/Documents/ODD/the_flaming_wok/TakeThree 4.27/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2022.04.09-01.45.51:663][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.04.09-01.45.51:664][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.114ms to complete.
+[2022.04.09-01.45.51:664][  0]LogFileHelpers: Loading map 'TopDownExampleMap' took 0.000
+[2022.04.09-01.45.51:665][  0]LogUnrealEdMisc: Total Editor Startup Time, took 6.597
+[2022.04.09-01.45.51:759][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.09-01.45.51:764][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.09-01.45.51:769][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.09-01.45.51:774][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.09-01.45.51:782][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.04.09-01.45.51:782][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.09-01.45.51:782][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.04.09-01.45.51:782][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.09-01.45.51:782][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2022.04.09-01.45.51:782][  0]LogPakFile: OnPakFileMounted2Time == 0.000051
+[2022.04.09-01.45.51:783][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.04.09-01.45.51:783][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.09-01.45.51:783][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.04.09-01.45.51:783][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.09-01.45.51:783][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2022.04.09-01.45.51:783][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2022.04.09-01.45.51:783][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2022.04.09-01.45.51:783][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.09-01.45.51:783][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2022.04.09-01.45.51:783][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.09-01.45.51:783][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2022.04.09-01.45.51:783][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2022.04.09-01.45.51:784][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.04.09-01.45.51:784][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.09-01.45.51:784][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.04.09-01.45.51:784][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.09-01.45.51:784][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/StarterContent.upack)
+[2022.04.09-01.45.51:784][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2022.04.09-01.45.51:785][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.04.09-01.45.51:785][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.09-01.45.51:785][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.04.09-01.45.51:785][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.09-01.45.51:785][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2022.04.09-01.45.51:785][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2022.04.09-01.45.51:785][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.04.09-01.45.51:785][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.09-01.45.51:785][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.04.09-01.45.51:785][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.09-01.45.51:785][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2022.04.09-01.45.51:785][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2022.04.09-01.45.51:786][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.04.09-01.45.51:786][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.09-01.45.51:786][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.04.09-01.45.51:786][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.09-01.45.51:786][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2022.04.09-01.45.51:786][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2022.04.09-01.45.51:787][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.04.09-01.45.51:787][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.09-01.45.51:787][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.04.09-01.45.51:787][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.09-01.45.51:787][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2022.04.09-01.45.51:787][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2022.04.09-01.45.51:787][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.04.09-01.45.51:787][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.09-01.45.51:787][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.04.09-01.45.51:787][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.09-01.45.51:787][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2022.04.09-01.45.51:787][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2022.04.09-01.45.51:788][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.04.09-01.45.51:788][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.09-01.45.51:788][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.04.09-01.45.51:788][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.09-01.45.51:788][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2022.04.09-01.45.51:788][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2022.04.09-01.45.51:789][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.04.09-01.45.51:789][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.09-01.45.51:789][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.04.09-01.45.51:789][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.09-01.45.51:789][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2022.04.09-01.45.51:789][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2022.04.09-01.45.51:789][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.04.09-01.45.51:789][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.09-01.45.51:789][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.04.09-01.45.51:789][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.09-01.45.51:789][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2022.04.09-01.45.51:789][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2022.04.09-01.45.51:790][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.04.09-01.45.51:790][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.09-01.45.51:790][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.04.09-01.45.51:790][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.09-01.45.51:790][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2022.04.09-01.45.51:790][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2022.04.09-01.45.51:791][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.04.09-01.45.51:791][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.09-01.45.51:791][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.04.09-01.45.51:791][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.09-01.45.51:791][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2022.04.09-01.45.51:791][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2022.04.09-01.45.51:791][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.04.09-01.45.51:791][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.09-01.45.51:791][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.04.09-01.45.51:791][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.09-01.45.51:791][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2022.04.09-01.45.51:791][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2022.04.09-01.45.51:792][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.04.09-01.45.51:792][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.09-01.45.51:792][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.04.09-01.45.51:792][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.09-01.45.51:792][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2022.04.09-01.45.51:792][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2022.04.09-01.45.51:793][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.04.09-01.45.51:793][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.09-01.45.51:793][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.04.09-01.45.51:793][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.09-01.45.51:793][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2022.04.09-01.45.51:793][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2022.04.09-01.45.51:793][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.04.09-01.45.51:793][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.09-01.45.51:793][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.04.09-01.45.51:793][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.09-01.45.51:793][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2022.04.09-01.45.51:793][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2022.04.09-01.45.51:794][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.04.09-01.45.51:794][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.09-01.45.51:794][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.04.09-01.45.51:794][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.09-01.45.51:794][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2022.04.09-01.45.51:794][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2022.04.09-01.45.51:794][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.04.09-01.45.51:794][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.09-01.45.51:794][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.04.09-01.45.51:794][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.09-01.45.51:795][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2022.04.09-01.45.51:795][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2022.04.09-01.45.51:795][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.04.09-01.45.51:795][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.09-01.45.51:795][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.04.09-01.45.51:795][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.09-01.45.51:795][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2022.04.09-01.45.51:795][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2022.04.09-01.45.51:796][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.04.09-01.45.51:796][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.09-01.45.51:796][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.04.09-01.45.51:796][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.09-01.45.51:796][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2022.04.09-01.45.51:796][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2022.04.09-01.45.51:796][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2022.04.09-01.45.51:796][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.09-01.45.51:796][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2022.04.09-01.45.51:796][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.09-01.45.51:796][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2022.04.09-01.45.51:796][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2022.04.09-01.45.51:797][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.04.09-01.45.51:797][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.09-01.45.51:797][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.04.09-01.45.51:797][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.09-01.45.51:797][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2022.04.09-01.45.51:797][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2022.04.09-01.45.51:798][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.04.09-01.45.51:798][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.09-01.45.51:798][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.04.09-01.45.51:798][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.09-01.45.51:798][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2022.04.09-01.45.51:798][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2022.04.09-01.45.51:798][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.04.09-01.45.51:798][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.09-01.45.51:798][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.04.09-01.45.51:798][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.09-01.45.51:798][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2022.04.09-01.45.51:798][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2022.04.09-01.45.51:880][  0]LogSlate: Took 0.000217 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.04.09-01.45.51:881][  0]LogSlate: Took 0.000125 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.04.09-01.45.51:882][  0]LogSlate: Took 0.000123 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.04.09-01.45.51:953][  0]LogRenderer: Reallocating scene render targets to support 1472x572 Format 10 NumSamples 1 (Frame:1).
+[2022.04.09-01.45.52:050][  0]LogSlate: Took 0.000137 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.04.09-01.45.52:102][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Back_Click.
+[2022.04.09-01.45.52:102][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2022.04.09-01.45.52:102][  0]LogLoad: (Engine Initialization) Total time: 7.03 seconds
+[2022.04.09-01.45.52:102][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.04.09-01.45.52:162][  0]LogAssetRegistry: Asset discovery search completed in 3.8327 seconds
+[2022.04.09-01.45.52:168][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2022.04.09-01.45.52:169][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.04.09-01.45.52:257][  3]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0112 seconds. Added 3822 classes and 928 folders.
+[2022.04.09-01.45.59:672][873]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.04.09-01.46.00:326][873]LogStaticMesh: Building static mesh SM_Bonfire...
+[2022.04.09-01.46.00:327][873]LogStaticMesh: Built static mesh [0.00s] /Game/GreenwoodFantasyVillage/Meshes/SM_Bonfire.SM_Bonfire
+[2022.04.09-01.46.00:900][873]LogStaticMesh: Warning: Mesh SM_FenceSmallC_2m is recomputing physics on load. It must be resaved before it will cook deterministically. Please resave /Game/GreenwoodFantasyVillage/Meshes/SM_FenceSmallC_2m.SM_FenceSmallC_2m.
+[2022.04.09-01.46.00:912][873]LogStaticMesh: Warning: Mesh SM_Cabbage is recomputing physics on load. It must be resaved before it will cook deterministically. Please resave /Game/GreenwoodFantasyVillage/Meshes/SM_Cabbage.SM_Cabbage.
+[2022.04.09-01.46.00:926][873]LogStaticMesh: Warning: Mesh SM_Carrot is recomputing physics on load. It must be resaved before it will cook deterministically. Please resave /Game/GreenwoodFantasyVillage/Meshes/SM_Carrot.SM_Carrot.
+[2022.04.09-01.46.00:947][873]LogStaticMesh: Warning: Mesh SM_Corn is recomputing physics on load. It must be resaved before it will cook deterministically. Please resave /Game/GreenwoodFantasyVillage/Meshes/SM_Corn.SM_Corn.
+[2022.04.09-01.46.00:963][873]LogStaticMesh: Warning: Mesh SM_Onion is recomputing physics on load. It must be resaved before it will cook deterministically. Please resave /Game/GreenwoodFantasyVillage/Meshes/SM_Onion.SM_Onion.
+[2022.04.09-01.46.00:973][873]LogStaticMesh: Warning: Mesh SM_Pumpkin is recomputing physics on load. It must be resaved before it will cook deterministically. Please resave /Game/GreenwoodFantasyVillage/Meshes/SM_Pumpkin.SM_Pumpkin.
+[2022.04.09-01.46.01:271][873]LogStaticMesh: Building static mesh SM_Ground_16m_CliffWaterfall...
+[2022.04.09-01.46.01:272][873]LogStaticMesh: Built static mesh [0.00s] /Game/GreenwoodFantasyVillage/Meshes/LandscapeModules/SM_Ground_16m_CliffWaterfall.SM_Ground_16m_CliffWaterfall
+[2022.04.09-01.46.01:283][873]LogStaticMesh: Building static mesh SM_Ground_16m_CoastCornerInside...
+[2022.04.09-01.46.01:283][873]LogStaticMesh: Built static mesh [0.00s] /Game/GreenwoodFantasyVillage/Meshes/LandscapeModules/SM_Ground_16m_CoastCornerInside.SM_Ground_16m_CoastCornerInside
+[2022.04.09-01.46.01:300][873]LogStaticMesh: Building static mesh SM_Ground_16m_HillSmallCornerInside...
+[2022.04.09-01.46.01:301][873]LogStaticMesh: Built static mesh [0.00s] /Game/GreenwoodFantasyVillage/Meshes/LandscapeModules/SM_Ground_16m_HillSmallCornerInside.SM_Ground_16m_HillSmallCornerInside
+[2022.04.09-01.46.01:464][873]LogStaticMesh: Building static mesh SM_Ground_8m_Coast...
+[2022.04.09-01.46.01:464][873]LogStaticMesh: Built static mesh [0.00s] /Game/GreenwoodFantasyVillage/Meshes/LandscapeModules/SM_Ground_8m_Coast.SM_Ground_8m_Coast
+[2022.04.09-01.46.01:503][873]LogStaticMesh: Building static mesh SM_Ground_8m_LakeBottom...
+[2022.04.09-01.46.01:503][873]LogStaticMesh: Built static mesh [0.00s] /Game/GreenwoodFantasyVillage/Meshes/LandscapeModules/SM_Ground_8m_LakeBottom.SM_Ground_8m_LakeBottom
+[2022.04.09-01.46.01:613][873]LogStaticMesh: Building static mesh SM_Ground_8m_Plantation...
+[2022.04.09-01.46.01:614][873]LogStaticMesh: Built static mesh [0.00s] /Game/GreenwoodFantasyVillage/Meshes/LandscapeModules/SM_Ground_8m_Plantation.SM_Ground_8m_Plantation
+[2022.04.09-01.46.01:642][873]LogStaticMesh: Building static mesh SM_Ground_8m_Square...
+[2022.04.09-01.46.01:642][873]LogStaticMesh: Built static mesh [0.00s] /Game/GreenwoodFantasyVillage/Meshes/LandscapeModules/SM_Ground_8m_Square.SM_Ground_8m_Square
+[2022.04.09-01.46.01:658][873]LogStaticMesh: Building static mesh SM_Ground_8m_SquareCornerOutside...
+[2022.04.09-01.46.01:658][873]LogStaticMesh: Built static mesh [0.00s] /Game/GreenwoodFantasyVillage/Meshes/LandscapeModules/SM_Ground_8m_SquareCornerOutside.SM_Ground_8m_SquareCornerOutside
+[2022.04.09-01.46.02:169][873]LogStaticMesh: Warning: Mesh SM_StairsWoodenA is recomputing physics on load. It must be resaved before it will cook deterministically. Please resave /Game/GreenwoodFantasyVillage/Meshes/SM_StairsWoodenA.SM_StairsWoodenA.
+[2022.04.09-01.46.02:379][873]LogStaticMesh: Warning: Mesh SM_Crate is recomputing physics on load. It must be resaved before it will cook deterministically. Please resave /Game/GreenwoodFantasyVillage/Meshes/SM_Crate.SM_Crate.
+[2022.04.09-01.46.02:477][873]LogStaticMesh: Warning: Mesh SM_BridgeOnColumns is recomputing physics on load. It must be resaved before it will cook deterministically. Please resave /Game/GreenwoodFantasyVillage/Meshes/SM_BridgeOnColumns.SM_BridgeOnColumns.
+[2022.04.09-01.46.02:639][873]LogStaticMesh: Warning: Mesh SM_Logs is recomputing physics on load. It must be resaved before it will cook deterministically. Please resave /Game/GreenwoodFantasyVillage/Meshes/InventoryProps/SM_Logs.SM_Logs.
+[2022.04.09-01.46.02:662][873]LogStaticMesh: Warning: Mesh SM_HaystackB is recomputing physics on load. It must be resaved before it will cook deterministically. Please resave /Game/GreenwoodFantasyVillage/Meshes/InventoryProps/SM_HaystackB.SM_HaystackB.
+[2022.04.09-01.46.02:667][873]LogStaticMesh: Warning: Mesh SM_HaystackA is recomputing physics on load. It must be resaved before it will cook deterministically. Please resave /Game/GreenwoodFantasyVillage/Meshes/InventoryProps/SM_HaystackA.SM_HaystackA.
+[2022.04.09-01.46.03:282][873]LogTexture: Display: Building textures: HQ_Lightmap1_8 (OODLE_AutoDXT, 64X64)
+[2022.04.09-01.46.03:282][873]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (OODLE_DXT1, 1024X1024)
+[2022.04.09-01.46.03:282][873]LogStaticMesh: Building static mesh SM_Pot...
+[2022.04.09-01.46.03:285][873]LogTexture: Display: Building textures: HQ_Lightmap1_5 (OODLE_AutoDXT, 1024X1024)
+[2022.04.09-01.46.03:285][873]LogStaticMesh: Built static mesh [0.00s] /Game/GreenwoodFantasyVillage/Meshes/SM_Pot.SM_Pot
+[2022.04.09-01.46.03:290][873]LogTexture: Display: Building textures: HQ_Lightmap1_7 (OODLE_AutoDXT, 1024X1024)
+[2022.04.09-01.46.03:290][873]LogTexture: Display: Building textures: HQ_Lightmap1_6 (OODLE_AutoDXT, 1024X1024)
+[2022.04.09-01.46.03:290][873]LogTexture: Display: Building textures: LQ_Lightmap_1_6 (OODLE_DXT1, 1024X1024)
+[2022.04.09-01.46.03:290][873]LogStaticMesh: Building static mesh SM_BridgePiece...
+[2022.04.09-01.46.03:292][873]LogTexture: Display: Building textures: LQ_Lightmap_1_7 (OODLE_DXT1, 1024X1024)
+[2022.04.09-01.46.03:292][873]LogStaticMesh: Built static mesh [0.00s] /Game/GreenwoodFantasyVillage/Meshes/SM_BridgePiece.SM_BridgePiece
+[2022.04.09-01.46.03:594][873]LogTexture: Display: Building textures: HQ_Lightmap1_3 (OODLE_AutoDXT, 1024X1024)
+[2022.04.09-01.46.03:594][873]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (OODLE_DXT1, 1024X1024)
+[2022.04.09-01.46.03:594][873]LogTexture: Display: Building textures: HQ_Lightmap1_2 (OODLE_AutoDXT, 1024X1024)
+[2022.04.09-01.46.03:594][873]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (OODLE_DXT1, 1024X1024)
+[2022.04.09-01.46.03:594][873]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.04.09-01.46.03:594][873]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.04.09-01.46.03:594][873]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.04.09-01.46.03:594][873]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.04.09-01.46.03:594][873]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.04.09-01.46.03:594][873]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (OODLE_DXT1, 1024X1024)
+[2022.04.09-01.46.03:594][873]LogTexture: Display: Building textures: HQ_Lightmap1_4 (OODLE_AutoDXT, 1024X1024)
+[2022.04.09-01.46.03:594][873]LogTexture: Display: Building textures: HQ_Lightmap1_1 (OODLE_AutoDXT, 2048X2048)
+[2022.04.09-01.46.03:594][873]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.04.09-01.46.03:594][873]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.04.09-01.46.03:595][873]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.04.09-01.46.03:595][873]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.04.09-01.46.03:595][873]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (OODLE_DXT1, 2048X2048)
+[2022.04.09-01.46.03:595][873]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.04.09-01.46.03:595][873]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.04.09-01.46.03:595][873]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.04.09-01.46.03:595][873]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.04.09-01.46.03:595][873]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.04.09-01.46.03:595][873]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.04.09-01.46.03:595][873]LogTexture: Display: Building textures: LQ_Lightmap_1_8 (OODLE_DXT1, 64X64)
+[2022.04.09-01.46.03:595][873]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.04.09-01.46.03:595][873]LogStaticMesh: Building static mesh SM_BridgeColumn...
+[2022.04.09-01.46.03:595][873]LogStaticMesh: Built static mesh [0.00s] /Game/GreenwoodFantasyVillage/Meshes/SM_BridgeColumn.SM_BridgeColumn
+[2022.04.09-01.46.03:958][873]LogTexture: Display: Building textures: T_HouseA_02_bc (OODLE_AutoDXT, 2048X2048)
+[2022.04.09-01.46.03:958][873]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.04.09-01.46.03:958][873]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.04.09-01.46.03:958][873]LogTexture: Display: Building textures: T_Mill_Barn_e (OODLE_AutoDXT, 1024X1024)
+[2022.04.09-01.46.03:958][873]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.04.09-01.46.03:958][873]LogMaterial: Display: Missing cached shadermap for M_Masked_Simple in PCD3D_SM5, Default, SM5 (DDC key hash: EB0F28C4E6921BA0190F7B7E494BEE97D5F9BF51), compiling. 
+[2022.04.09-01.46.04:106][873]LogShaderCompilers: Display: Submitted 159 shader compile jobs with 'Low' priority
+[2022.04.09-01.46.04:171][873]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 159
+[2022.04.09-01.46.04:171][873]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 149
+[2022.04.09-01.46.04:171][873]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 139
+[2022.04.09-01.46.04:171][873]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 129
+[2022.04.09-01.46.04:171][873]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 119
+[2022.04.09-01.46.04:171][873]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 109
+[2022.04.09-01.46.04:171][873]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 99
+[2022.04.09-01.46.04:171][873]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 89
+[2022.04.09-01.46.04:171][873]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 79
+[2022.04.09-01.46.04:171][873]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 69
+[2022.04.09-01.46.04:171][873]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 59
+[2022.04.09-01.46.04:171][873]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 49
+[2022.04.09-01.46.04:171][873]LogShaderCompilers: Display: Started 120 'Local' shader compile jobs with 'Low' priority
+[2022.04.09-01.46.04:171][873]LogMaterial: Display: Missing cached shadermap for M_Triplanar_mobile in PCD3D_SM5, Default, SM5 (DDC key hash: BB9B2ED1E3ACD211D0E0B15F3CC216E878DDCD8B), compiling. 
+[2022.04.09-01.46.04:202][873]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2022.04.09-01.46.04:206][873]LogStaticMesh: Building static mesh SM_LightColumn_FireBowl...
+[2022.04.09-01.46.04:223][873]LogStaticMesh: Built static mesh [0.02s] /Game/GreenwoodFantasyVillage/Meshes/SM_LightColumn_FireBowl.SM_LightColumn_FireBowl
+[2022.04.09-01.46.04:227][873]LogStaticMesh: Building static mesh SM_LightColumn_separate...
+[2022.04.09-01.46.04:241][873]LogStaticMesh: Built static mesh [0.01s] /Game/GreenwoodFantasyVillage/Meshes/SM_LightColumn_separate.SM_LightColumn_separate
+[2022.04.09-01.46.04:288][873]LogTexture: Display: Building textures: T_Texts_bc (OODLE_AutoDXT, 512X512)
+[2022.04.09-01.46.04:289][873]LogTexture: Display: Building textures: T_Fireball (OODLE_AutoDXT, 512X512)
+[2022.04.09-01.46.04:289][873]LogObjectTools: Deleting 3 worlds: /Game/GreenwoodFantasyVillage/Maps/GreenwoodVillage_demoMap.GreenwoodVillage_demoMap, /Game/GreenwoodFantasyVillage/Maps/GreenwoodVillage_demoMap_night.GreenwoodVillage_demoMap_night, /Game/GreenwoodFantasyVillage/Maps/GreenwoodVillage_overviewMap.GreenwoodVillage_overviewMap
+[2022.04.09-01.46.04:289][873]LogObjectTools: Currently 3 active worlds: /Temp/Untitled_0.Untitled, /Engine/Transient.World_0, /Engine/Transient.World_1
+[2022.04.09-01.46.04:339][873]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2022.04.09-01.46.07:738][873]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 64
+[2022.04.09-01.46.07:738][873]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Low' priority
+[2022.04.09-01.46.08:288][873]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 58
+[2022.04.09-01.46.08:288][873]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Low' priority
+[2022.04.09-01.46.08:361][873]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 53
+[2022.04.09-01.46.08:361][873]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 48
+[2022.04.09-01.46.08:361][873]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.04.09-01.46.08:439][873]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 43
+[2022.04.09-01.46.08:439][873]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Low' priority
+[2022.04.09-01.46.08:494][873]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 39
+[2022.04.09-01.46.08:494][873]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Low' priority
+[2022.04.09-01.46.08:611][873]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 35
+[2022.04.09-01.46.08:611][873]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Low' priority
+[2022.04.09-01.46.09:330][873]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 32
+[2022.04.09-01.46.09:330][873]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Low' priority
+[2022.04.09-01.46.09:394][873]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 29
+[2022.04.09-01.46.09:394][873]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 26
+[2022.04.09-01.46.09:394][873]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Low' priority
+[2022.04.09-01.46.09:413][873]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 23
+[2022.04.09-01.46.09:414][873]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2022.04.09-01.46.09:848][873]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 21
+[2022.04.09-01.46.09:848][873]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2022.04.09-01.46.10:215][873]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 19
+[2022.04.09-01.46.10:215][873]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2022.04.09-01.46.10:234][873]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 17
+[2022.04.09-01.46.10:234][873]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2022.04.09-01.46.10:255][873]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 15
+[2022.04.09-01.46.10:255][873]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2022.04.09-01.46.10:310][873]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 13
+[2022.04.09-01.46.10:310][873]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2022.04.09-01.46.10:382][873]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 11
+[2022.04.09-01.46.10:382][873]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 10
+[2022.04.09-01.46.10:382][873]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2022.04.09-01.46.10:550][873]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 9
+[2022.04.09-01.46.10:550][873]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2022.04.09-01.46.10:607][873]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 8
+[2022.04.09-01.46.10:607][873]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2022.04.09-01.46.10:627][873]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2022.04.09-01.46.10:627][873]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2022.04.09-01.46.10:763][873]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 6
+[2022.04.09-01.46.10:763][873]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2022.04.09-01.46.10:784][873]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 5
+[2022.04.09-01.46.10:784][873]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2022.04.09-01.46.10:820][873]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 4
+[2022.04.09-01.46.10:820][873]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2022.04.09-01.46.10:857][873]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 3
+[2022.04.09-01.46.10:857][873]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 2
+[2022.04.09-01.46.10:857][873]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2022.04.09-01.46.10:895][873]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 1
+[2022.04.09-01.46.10:895][873]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2022.04.09-01.46.21:423][873]LogSlate: Window 'Delete Assets' being destroyed
+[2022.04.09-01.46.21:445][873]LogUObjectGlobals: Force Deleting 355 Package(s):
+	Asset Name: /Game/GreenwoodFantasyVillage/Blueprints/BP_Bonfire.BP_Bonfire
+	Asset Name: /Game/GreenwoodFantasyVillage/Blueprints/BP_BonfireAssembled.BP_BonfireAssembled
+	Asset Name: /Game/GreenwoodFantasyVillage/Blueprints/BP_GardenBed_Cabbage.BP_GardenBed_Cabbage
+	Asset Name: /Game/GreenwoodFantasyVillage/Blueprints/BP_GardenBed_Carrot.BP_GardenBed_Carrot
+	Asset Name: /Game/GreenwoodFantasyVillage/Blueprints/BP_GardenBed_Corn.BP_GardenBed_Corn
+	Asset Name: /Game/GreenwoodFantasyVillage/Blueprints/BP_GardenBed_Empty.BP_GardenBed_Empty
+	Asset Name: /Game/GreenwoodFantasyVillage/Blueprints/BP_GardenBed_Onion.BP_GardenBed_Onion
+	Asset Name: /Game/GreenwoodFantasyVillage/Blueprints/BP_GardenBed_Pumpkin.BP_GardenBed_Pumpkin
+	Asset Name: /Game/GreenwoodFantasyVillage/Blueprints/BP_GroundFog.BP_GroundFog
+	Asset Name: /Game/GreenwoodFantasyVillage/Blueprints/BP_Lighthouse.BP_Lighthouse
+[2022.04.09-01.46.21:448][873]LogSlate: Took 0.000230 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.04.09-01.46.29:586][873]LogMaterial: Display: Missing cached shadermap for M_Opaque_Emissive in PCD3D_SM5, Default, SM5 (DDC key hash: E4E6C3CE4CEDDF79C8A13ACE3DC43E7DA9D6C5A6), compiling. 
+[2022.04.09-01.46.29:586][873]LogMaterial: Warning: [AssetLog] C:\Users\Jeremy\Documents\ODD\the_flaming_wok\TakeThree 4.27\Content\GreenwoodFantasyVillage\Materials\MasterMaterials\M_Opaque_Emissive.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.09-01.46.29:586][873]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.04.09-01.46.29:587][873]LogMaterial: Display: Missing cached shadermap for M_Opaque_Emissive in PCD3D_SM5, Default, SM5 (DDC key hash: E4E6C3CE4CEDDF79C8A13ACE3DC43E7DA9D6C5A6), compiling. 
+[2022.04.09-01.46.29:588][873]LogMaterial: Warning: [AssetLog] C:\Users\Jeremy\Documents\ODD\the_flaming_wok\TakeThree 4.27\Content\GreenwoodFantasyVillage\Materials\MasterMaterials\M_Opaque_Emissive.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.09-01.46.29:588][873]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.04.09-01.46.29:589][873]LogMaterial: Display: Missing cached shadermap for M_Opaque_Emissive in PCD3D_SM5, Default, SM5 (DDC key hash: E4E6C3CE4CEDDF79C8A13ACE3DC43E7DA9D6C5A6), compiling. 
+[2022.04.09-01.46.29:589][873]LogMaterial: Warning: [AssetLog] C:\Users\Jeremy\Documents\ODD\the_flaming_wok\TakeThree 4.27\Content\GreenwoodFantasyVillage\Materials\MasterMaterials\M_Opaque_Emissive.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.09-01.46.29:589][873]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.04.09-01.46.29:590][873]LogMaterial: Display: Missing cached shadermap for M_Opaque_Emissive in PCD3D_SM5, Default, SM5 (DDC key hash: E4E6C3CE4CEDDF79C8A13ACE3DC43E7DA9D6C5A6), compiling. 
+[2022.04.09-01.46.29:590][873]LogMaterial: Warning: [AssetLog] C:\Users\Jeremy\Documents\ODD\the_flaming_wok\TakeThree 4.27\Content\GreenwoodFantasyVillage\Materials\MasterMaterials\M_Opaque_Emissive.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.09-01.46.29:590][873]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.04.09-01.46.29:591][873]LogMaterial: Display: Missing cached shadermap for M_Opaque_Emissive in PCD3D_SM5, Default, SM5 (DDC key hash: E4E6C3CE4CEDDF79C8A13ACE3DC43E7DA9D6C5A6), compiling. 
+[2022.04.09-01.46.29:592][873]LogMaterial: Warning: [AssetLog] C:\Users\Jeremy\Documents\ODD\the_flaming_wok\TakeThree 4.27\Content\GreenwoodFantasyVillage\Materials\MasterMaterials\M_Opaque_Emissive.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.09-01.46.29:592][873]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.04.09-01.46.29:593][873]LogMaterial: Display: Missing cached shadermap for M_Opaque_Emissive in PCD3D_SM5, Default, SM5 (DDC key hash: E4E6C3CE4CEDDF79C8A13ACE3DC43E7DA9D6C5A6), compiling. 
+[2022.04.09-01.46.29:593][873]LogMaterial: Warning: [AssetLog] C:\Users\Jeremy\Documents\ODD\the_flaming_wok\TakeThree 4.27\Content\GreenwoodFantasyVillage\Materials\MasterMaterials\M_Opaque_Emissive.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.09-01.46.29:593][873]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.04.09-01.46.29:594][873]LogMaterial: Display: Missing cached shadermap for M_Opaque_Emissive in PCD3D_SM5, Default, SM5 (DDC key hash: E4E6C3CE4CEDDF79C8A13ACE3DC43E7DA9D6C5A6), compiling. 
+[2022.04.09-01.46.29:594][873]LogMaterial: Warning: [AssetLog] C:\Users\Jeremy\Documents\ODD\the_flaming_wok\TakeThree 4.27\Content\GreenwoodFantasyVillage\Materials\MasterMaterials\M_Opaque_Emissive.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.09-01.46.29:594][873]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.04.09-01.46.29:595][873]LogMaterial: Display: Missing cached shadermap for M_Opaque_Emissive in PCD3D_SM5, Default, SM5 (DDC key hash: E4E6C3CE4CEDDF79C8A13ACE3DC43E7DA9D6C5A6), compiling. 
+[2022.04.09-01.46.29:596][873]LogMaterial: Warning: [AssetLog] C:\Users\Jeremy\Documents\ODD\the_flaming_wok\TakeThree 4.27\Content\GreenwoodFantasyVillage\Materials\MasterMaterials\M_Opaque_Emissive.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.09-01.46.29:596][873]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.04.09-01.46.29:602][873]LogStaticMesh: Building static mesh SM_Bonfire...
+[2022.04.09-01.46.29:602][873]LogStaticMesh: Built static mesh [0.00s] /Game/GreenwoodFantasyVillage/Meshes/SM_Bonfire.SM_Bonfire
+[2022.04.09-01.46.29:604][873]LogMaterial: Display: Missing cached shadermap for M_Smoke in PCD3D_SM5, Default, SM5 (DDC key hash: F829D30C733B1000E0B942DC2083D13412C76941), compiling. 
+[2022.04.09-01.46.29:605][873]LogMaterial: Warning: [AssetLog] C:\Users\Jeremy\Documents\ODD\the_flaming_wok\TakeThree 4.27\Content\GreenwoodFantasyVillage\Materials\MasterMaterials\M_Smoke.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.09-01.46.29:605][873]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.04.09-01.46.29:606][873]LogMaterial: Display: Missing cached shadermap for M_Fire in PCD3D_SM5, Default, SM5 (DDC key hash: 2BCF4DF95468367411A792CB5E91D534DFB98FCE), compiling. 
+[2022.04.09-01.46.29:607][873]LogMaterial: Warning: [AssetLog] C:\Users\Jeremy\Documents\ODD\the_flaming_wok\TakeThree 4.27\Content\GreenwoodFantasyVillage\Materials\MasterMaterials\M_Fire.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.09-01.46.29:607][873]LogMaterial: Display: 	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+[2022.04.09-01.46.29:608][873]LogMaterial: Display: Missing cached shadermap for M_Fire in PCD3D_SM5, Default, SM5 (DDC key hash: 2BCF4DF95468367411A792CB5E91D534DFB98FCE), compiling. 
+[2022.04.09-01.46.29:608][873]LogMaterial: Warning: [AssetLog] C:\Users\Jeremy\Documents\ODD\the_flaming_wok\TakeThree 4.27\Content\GreenwoodFantasyVillage\Materials\MasterMaterials\M_Fire.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.09-01.46.29:608][873]LogMaterial: Display: 	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+[2022.04.09-01.46.29:629][873]LogStaticMesh: Building static mesh SM_BonfireAessembled...
+[2022.04.09-01.46.29:632][873]LogStaticMesh: Built static mesh [0.00s] /Game/GreenwoodFantasyVillage/Meshes/SM_BonfireAessembled.SM_BonfireAessembled
+[2022.04.09-01.46.29:635][873]LogMaterial: Display: Missing cached shadermap for M_Masked in PCD3D_SM5, Default, SM5 (DDC key hash: 5951A58DFACD389A0D85D471427D2C80B323C306), compiling. 
+[2022.04.09-01.46.29:635][873]LogMaterial: Warning: [AssetLog] C:\Users\Jeremy\Documents\ODD\the_flaming_wok\TakeThree 4.27\Content\GreenwoodFantasyVillage\Materials\MasterMaterials\M_Masked.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.09-01.46.29:635][873]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.04.09-01.46.29:637][873]LogMaterial: Display: Missing cached shadermap for M_Masked in PCD3D_SM5, Default, SM5 (DDC key hash: 5951A58DFACD389A0D85D471427D2C80B323C306), compiling. 
+[2022.04.09-01.46.29:638][873]LogMaterial: Warning: [AssetLog] C:\Users\Jeremy\Documents\ODD\the_flaming_wok\TakeThree 4.27\Content\GreenwoodFantasyVillage\Materials\MasterMaterials\M_Masked.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.09-01.46.29:638][873]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.04.09-01.46.29:639][873]LogMaterial: Display: Missing cached shadermap for M_Masked in PCD3D_SM5, Default, SM5 (DDC key hash: 5951A58DFACD389A0D85D471427D2C80B323C306), compiling. 
+[2022.04.09-01.46.29:639][873]LogMaterial: Warning: [AssetLog] C:\Users\Jeremy\Documents\ODD\the_flaming_wok\TakeThree 4.27\Content\GreenwoodFantasyVillage\Materials\MasterMaterials\M_Masked.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.09-01.46.29:639][873]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.04.09-01.46.29:641][873]LogMaterial: Display: Missing cached shadermap for M_Masked in PCD3D_SM5, Default, SM5 (DDC key hash: 5951A58DFACD389A0D85D471427D2C80B323C306), compiling. 
+[2022.04.09-01.46.29:641][873]LogMaterial: Warning: [AssetLog] C:\Users\Jeremy\Documents\ODD\the_flaming_wok\TakeThree 4.27\Content\GreenwoodFantasyVillage\Materials\MasterMaterials\M_Masked.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.09-01.46.29:641][873]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.04.09-01.46.29:642][873]LogMaterial: Display: Missing cached shadermap for M_Masked in PCD3D_SM5, Default, SM5 (DDC key hash: 5951A58DFACD389A0D85D471427D2C80B323C306), compiling. 
+[2022.04.09-01.46.29:643][873]LogMaterial: Warning: [AssetLog] C:\Users\Jeremy\Documents\ODD\the_flaming_wok\TakeThree 4.27\Content\GreenwoodFantasyVillage\Materials\MasterMaterials\M_Masked.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.09-01.46.29:643][873]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.04.09-01.46.29:644][873]LogMaterial: Display: Missing cached shadermap for M_Masked in PCD3D_SM5, Default, SM5 (DDC key hash: 5951A58DFACD389A0D85D471427D2C80B323C306), compiling. 
+[2022.04.09-01.46.29:644][873]LogMaterial: Warning: [AssetLog] C:\Users\Jeremy\Documents\ODD\the_flaming_wok\TakeThree 4.27\Content\GreenwoodFantasyVillage\Materials\MasterMaterials\M_Masked.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.09-01.46.29:645][873]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.04.09-01.46.29:646][873]LogMaterial: Display: Missing cached shadermap for M_Masked in PCD3D_SM5, Default, SM5 (DDC key hash: 5951A58DFACD389A0D85D471427D2C80B323C306), compiling. 
+[2022.04.09-01.46.29:646][873]LogMaterial: Warning: [AssetLog] C:\Users\Jeremy\Documents\ODD\the_flaming_wok\TakeThree 4.27\Content\GreenwoodFantasyVillage\Materials\MasterMaterials\M_Masked.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.09-01.46.29:646][873]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.04.09-01.46.29:648][873]LogMaterial: Display: Missing cached shadermap for M_Masked in PCD3D_SM5, Default, SM5 (DDC key hash: 5951A58DFACD389A0D85D471427D2C80B323C306), compiling. 
+[2022.04.09-01.46.29:648][873]LogMaterial: Warning: [AssetLog] C:\Users\Jeremy\Documents\ODD\the_flaming_wok\TakeThree 4.27\Content\GreenwoodFantasyVillage\Materials\MasterMaterials\M_Masked.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.09-01.46.29:648][873]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.04.09-01.46.29:649][873]LogMaterial: Display: Missing cached shadermap for M_Masked in PCD3D_SM5, Default, SM5 (DDC key hash: 5951A58DFACD389A0D85D471427D2C80B323C306), compiling. 
+[2022.04.09-01.46.29:650][873]LogMaterial: Warning: [AssetLog] C:\Users\Jeremy\Documents\ODD\the_flaming_wok\TakeThree 4.27\Content\GreenwoodFantasyVillage\Materials\MasterMaterials\M_Masked.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.09-01.46.29:650][873]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.04.09-01.46.29:651][873]LogMaterial: Display: Missing cached shadermap for M_Masked in PCD3D_SM5, Default, SM5 (DDC key hash: 5951A58DFACD389A0D85D471427D2C80B323C306), compiling. 
+[2022.04.09-01.46.29:651][873]LogMaterial: Warning: [AssetLog] C:\Users\Jeremy\Documents\ODD\the_flaming_wok\TakeThree 4.27\Content\GreenwoodFantasyVillage\Materials\MasterMaterials\M_Masked.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.09-01.46.29:651][873]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.04.09-01.46.29:653][873]LogMaterial: Display: Missing cached shadermap for M_Masked in PCD3D_SM5, Default, SM5 (DDC key hash: 5951A58DFACD389A0D85D471427D2C80B323C306), compiling. 
+[2022.04.09-01.46.29:653][873]LogMaterial: Warning: [AssetLog] C:\Users\Jeremy\Documents\ODD\the_flaming_wok\TakeThree 4.27\Content\GreenwoodFantasyVillage\Materials\MasterMaterials\M_Masked.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.09-01.46.29:653][873]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.04.09-01.46.29:654][873]LogMaterial: Display: Missing cached shadermap for M_Masked in PCD3D_SM5, Default, SM5 (DDC key hash: 5951A58DFACD389A0D85D471427D2C80B323C306), compiling. 
+[2022.04.09-01.46.29:655][873]LogMaterial: Warning: [AssetLog] C:\Users\Jeremy\Documents\ODD\the_flaming_wok\TakeThree 4.27\Content\GreenwoodFantasyVillage\Materials\MasterMaterials\M_Masked.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.09-01.46.29:655][873]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.04.09-01.46.29:660][873]LogMaterial: Display: Missing cached shadermap for M_Opaque_DitheredLOD in PCD3D_SM5, Default, SM5 (DDC key hash: DF75C0AAC6DC0E733DBAF7690F758E594A1C3379), compiling. 
+[2022.04.09-01.46.29:660][873]LogMaterial: Warning: [AssetLog] C:\Users\Jeremy\Documents\ODD\the_flaming_wok\TakeThree 4.27\Content\GreenwoodFantasyVillage\Materials\MasterMaterials\M_Opaque_DitheredLOD.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.09-01.46.29:660][873]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.04.09-01.46.29:661][873]LogMaterial: Display: Missing cached shadermap for M_Opaque_DitheredLOD in PCD3D_SM5, Default, SM5 (DDC key hash: DF75C0AAC6DC0E733DBAF7690F758E594A1C3379), compiling. 
+[2022.04.09-01.46.29:662][873]LogMaterial: Warning: [AssetLog] C:\Users\Jeremy\Documents\ODD\the_flaming_wok\TakeThree 4.27\Content\GreenwoodFantasyVillage\Materials\MasterMaterials\M_Opaque_DitheredLOD.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.09-01.46.29:662][873]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.04.09-01.46.29:663][873]LogMaterial: Display: Missing cached shadermap for M_Opaque_DitheredLOD in PCD3D_SM5, Default, SM5 (DDC key hash: DF75C0AAC6DC0E733DBAF7690F758E594A1C3379), compiling. 
+[2022.04.09-01.46.29:663][873]LogMaterial: Warning: [AssetLog] C:\Users\Jeremy\Documents\ODD\the_flaming_wok\TakeThree 4.27\Content\GreenwoodFantasyVillage\Materials\MasterMaterials\M_Opaque_DitheredLOD.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.09-01.46.29:663][873]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.04.09-01.46.29:664][873]LogMaterial: Display: Missing cached shadermap for M_Opaque_DitheredLOD in PCD3D_SM5, Default, SM5 (DDC key hash: DF75C0AAC6DC0E733DBAF7690F758E594A1C3379), compiling. 
+[2022.04.09-01.46.29:666][873]LogMaterial: Warning: [AssetLog] C:\Users\Jeremy\Documents\ODD\the_flaming_wok\TakeThree 4.27\Content\GreenwoodFantasyVillage\Materials\MasterMaterials\M_Opaque_DitheredLOD.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.09-01.46.29:666][873]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.04.09-01.46.29:666][873]LogMaterial: Display: Missing cached shadermap for M_Opaque_DitheredLOD in PCD3D_SM5, Default, SM5 (DDC key hash: DF75C0AAC6DC0E733DBAF7690F758E594A1C3379), compiling. 
+[2022.04.09-01.46.29:666][873]LogMaterial: Warning: [AssetLog] C:\Users\Jeremy\Documents\ODD\the_flaming_wok\TakeThree 4.27\Content\GreenwoodFantasyVillage\Materials\MasterMaterials\M_Opaque_DitheredLOD.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.09-01.46.29:666][873]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.04.09-01.46.29:668][873]LogMaterial: Display: Missing cached shadermap for M_Opaque_DitheredLOD in PCD3D_SM5, Default, SM5 (DDC key hash: DF75C0AAC6DC0E733DBAF7690F758E594A1C3379), compiling. 
+[2022.04.09-01.46.29:668][873]LogMaterial: Warning: [AssetLog] C:\Users\Jeremy\Documents\ODD\the_flaming_wok\TakeThree 4.27\Content\GreenwoodFantasyVillage\Materials\MasterMaterials\M_Opaque_DitheredLOD.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.09-01.46.29:668][873]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.04.09-01.46.29:670][873]LogMaterial: Display: Missing cached shadermap for M_Opaque_DitheredLOD in PCD3D_SM5, Default, SM5 (DDC key hash: DF75C0AAC6DC0E733DBAF7690F758E594A1C3379), compiling. 
+[2022.04.09-01.46.29:670][873]LogMaterial: Warning: [AssetLog] C:\Users\Jeremy\Documents\ODD\the_flaming_wok\TakeThree 4.27\Content\GreenwoodFantasyVillage\Materials\MasterMaterials\M_Opaque_DitheredLOD.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.09-01.46.29:670][873]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.04.09-01.46.29:672][873]LogMaterial: Display: Missing cached shadermap for M_Opaque_DitheredLOD in PCD3D_SM5, Default, SM5 (DDC key hash: DF75C0AAC6DC0E733DBAF7690F758E594A1C3379), compiling. 
+[2022.04.09-01.46.29:672][873]LogMaterial: Warning: [AssetLog] C:\Users\Jeremy\Documents\ODD\the_flaming_wok\TakeThree 4.27\Content\GreenwoodFantasyVillage\Materials\MasterMaterials\M_Opaque_DitheredLOD.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.09-01.46.29:672][873]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.04.09-01.46.29:673][873]LogMaterial: Display: Missing cached shadermap for M_Opaque_DitheredLOD in PCD3D_SM5, Default, SM5 (DDC key hash: DF75C0AAC6DC0E733DBAF7690F758E594A1C3379), compiling. 
+[2022.04.09-01.46.29:673][873]LogMaterial: Warning: [AssetLog] C:\Users\Jeremy\Documents\ODD\the_flaming_wok\TakeThree 4.27\Content\GreenwoodFantasyVillage\Materials\MasterMaterials\M_Opaque_DitheredLOD.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.09-01.46.29:673][873]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.04.09-01.46.29:675][873]LogMaterial: Display: Missing cached shadermap for M_Opaque_DitheredLOD in PCD3D_SM5, Default, SM5 (DDC key hash: DF75C0AAC6DC0E733DBAF7690F758E594A1C3379), compiling. 
+[2022.04.09-01.46.29:675][873]LogMaterial: Warning: [AssetLog] C:\Users\Jeremy\Documents\ODD\the_flaming_wok\TakeThree 4.27\Content\GreenwoodFantasyVillage\Materials\MasterMaterials\M_Opaque_DitheredLOD.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.09-01.46.29:675][873]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.04.09-01.46.29:676][873]LogMaterial: Display: Missing cached shadermap for M_Opaque_DitheredLOD in PCD3D_SM5, Default, SM5 (DDC key hash: DF75C0AAC6DC0E733DBAF7690F758E594A1C3379), compiling. 
+[2022.04.09-01.46.29:676][873]LogMaterial: Warning: [AssetLog] C:\Users\Jeremy\Documents\ODD\the_flaming_wok\TakeThree 4.27\Content\GreenwoodFantasyVillage\Materials\MasterMaterials\M_Opaque_DitheredLOD.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.09-01.46.29:676][873]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.04.09-01.46.29:678][873]LogMaterial: Display: Missing cached shadermap for M_Opaque_DitheredLOD in PCD3D_SM5, Default, SM5 (DDC key hash: DF75C0AAC6DC0E733DBAF7690F758E594A1C3379), compiling. 
+[2022.04.09-01.46.29:678][873]LogMaterial: Warning: [AssetLog] C:\Users\Jeremy\Documents\ODD\the_flaming_wok\TakeThree 4.27\Content\GreenwoodFantasyVillage\Materials\MasterMaterials\M_Opaque_DitheredLOD.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.09-01.46.29:678][873]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.04.09-01.46.29:696][873]LogStaticMesh: Building static mesh SM_Cabbage...
+[2022.04.09-01.46.29:698][873]LogStaticMesh: Built static mesh [0.00s] /Game/GreenwoodFantasyVillage/Meshes/SM_Cabbage.SM_Cabbage
+[2022.04.09-01.46.29:701][873]LogMaterial: Display: Missing cached shadermap for M_Opaque in PCD3D_SM5, Default, SM5 (DDC key hash: 9F8FD399EF37513E97370693F497AEECB2647EDC), compiling. 
+[2022.04.09-01.46.29:702][873]LogMaterial: Warning: [AssetLog] C:\Users\Jeremy\Documents\ODD\the_flaming_wok\TakeThree 4.27\Content\GreenwoodFantasyVillage\Materials\MasterMaterials\M_Opaque.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.09-01.46.29:702][873]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.04.09-01.46.29:703][873]LogMaterial: Display: Missing cached shadermap for M_Opaque in PCD3D_SM5, Default, SM5 (DDC key hash: 9F8FD399EF37513E97370693F497AEECB2647EDC), compiling. 
+[2022.04.09-01.46.29:704][873]LogMaterial: Warning: [AssetLog] C:\Users\Jeremy\Documents\ODD\the_flaming_wok\TakeThree 4.27\Content\GreenwoodFantasyVillage\Materials\MasterMaterials\M_Opaque.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.09-01.46.29:704][873]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.04.09-01.46.29:705][873]LogMaterial: Display: Missing cached shadermap for M_Opaque in PCD3D_SM5, Default, SM5 (DDC key hash: 9F8FD399EF37513E97370693F497AEECB2647EDC), compiling. 
+[2022.04.09-01.46.29:705][873]LogMaterial: Warning: [AssetLog] C:\Users\Jeremy\Documents\ODD\the_flaming_wok\TakeThree 4.27\Content\GreenwoodFantasyVillage\Materials\MasterMaterials\M_Opaque.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.09-01.46.29:705][873]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.04.09-01.46.29:706][873]LogMaterial: Display: Missing cached shadermap for M_Opaque in PCD3D_SM5, Default, SM5 (DDC key hash: 9F8FD399EF37513E97370693F497AEECB2647EDC), compiling. 
+[2022.04.09-01.46.29:706][873]LogMaterial: Warning: [AssetLog] C:\Users\Jeremy\Documents\ODD\the_flaming_wok\TakeThree 4.27\Content\GreenwoodFantasyVillage\Materials\MasterMaterials\M_Opaque.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.09-01.46.29:706][873]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.04.09-01.46.29:707][873]LogMaterial: Display: Missing cached shadermap for M_Opaque in PCD3D_SM5, Default, SM5 (DDC key hash: 9F8FD399EF37513E97370693F497AEECB2647EDC), compiling. 
+[2022.04.09-01.46.29:708][873]LogMaterial: Warning: [AssetLog] C:\Users\Jeremy\Documents\ODD\the_flaming_wok\TakeThree 4.27\Content\GreenwoodFantasyVillage\Materials\MasterMaterials\M_Opaque.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.09-01.46.29:708][873]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.04.09-01.46.29:709][873]LogMaterial: Display: Missing cached shadermap for M_Opaque in PCD3D_SM5, Default, SM5 (DDC key hash: 9F8FD399EF37513E97370693F497AEECB2647EDC), compiling. 
+[2022.04.09-01.46.29:709][873]LogMaterial: Warning: [AssetLog] C:\Users\Jeremy\Documents\ODD\the_flaming_wok\TakeThree 4.27\Content\GreenwoodFantasyVillage\Materials\MasterMaterials\M_Opaque.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.09-01.46.29:709][873]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.04.09-01.46.29:710][873]LogMaterial: Display: Missing cached shadermap for M_Opaque in PCD3D_SM5, Default, SM5 (DDC key hash: 9F8FD399EF37513E97370693F497AEECB2647EDC), compiling. 
+[2022.04.09-01.46.29:710][873]LogMaterial: Warning: [AssetLog] C:\Users\Jeremy\Documents\ODD\the_flaming_wok\TakeThree 4.27\Content\GreenwoodFantasyVillage\Materials\MasterMaterials\M_Opaque.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.09-01.46.29:710][873]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.04.09-01.46.29:711][873]LogMaterial: Display: Missing cached shadermap for M_Opaque in PCD3D_SM5, Default, SM5 (DDC key hash: 9F8FD399EF37513E97370693F497AEECB2647EDC), compiling. 
+[2022.04.09-01.46.29:712][873]LogMaterial: Warning: [AssetLog] C:\Users\Jeremy\Documents\ODD\the_flaming_wok\TakeThree 4.27\Content\GreenwoodFantasyVillage\Materials\MasterMaterials\M_Opaque.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.09-01.46.29:712][873]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.04.09-01.46.29:712][873]LogMaterial: Display: Missing cached shadermap for M_Opaque in PCD3D_SM5, Default, SM5 (DDC key hash: 9F8FD399EF37513E97370693F497AEECB2647EDC), compiling. 
+[2022.04.09-01.46.29:713][873]LogMaterial: Warning: [AssetLog] C:\Users\Jeremy\Documents\ODD\the_flaming_wok\TakeThree 4.27\Content\GreenwoodFantasyVillage\Materials\MasterMaterials\M_Opaque.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.09-01.46.29:713][873]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.04.09-01.46.29:714][873]LogMaterial: Display: Missing cached shadermap for M_Opaque in PCD3D_SM5, Default, SM5 (DDC key hash: 9F8FD399EF37513E97370693F497AEECB2647EDC), compiling. 
+[2022.04.09-01.46.29:714][873]LogMaterial: Warning: [AssetLog] C:\Users\Jeremy\Documents\ODD\the_flaming_wok\TakeThree 4.27\Content\GreenwoodFantasyVillage\Materials\MasterMaterials\M_Opaque.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.09-01.46.29:714][873]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.04.09-01.46.29:715][873]LogMaterial: Display: Missing cached shadermap for M_Opaque in PCD3D_SM5, Default, SM5 (DDC key hash: 9F8FD399EF37513E97370693F497AEECB2647EDC), compiling. 
+[2022.04.09-01.46.29:715][873]LogMaterial: Warning: [AssetLog] C:\Users\Jeremy\Documents\ODD\the_flaming_wok\TakeThree 4.27\Content\GreenwoodFantasyVillage\Materials\MasterMaterials\M_Opaque.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.09-01.46.29:715][873]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.04.09-01.46.29:716][873]LogMaterial: Display: Missing cached shadermap for M_Opaque in PCD3D_SM5, Default, SM5 (DDC key hash: 9F8FD399EF37513E97370693F497AEECB2647EDC), compiling. 
+[2022.04.09-01.46.29:717][873]LogMaterial: Warning: [AssetLog] C:\Users\Jeremy\Documents\ODD\the_flaming_wok\TakeThree 4.27\Content\GreenwoodFantasyVillage\Materials\MasterMaterials\M_Opaque.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.09-01.46.29:717][873]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.04.09-01.46.29:762][873]LogStaticMesh: Building static mesh SM_FenceSmallC_2m...
+[2022.04.09-01.46.29:765][873]LogStaticMesh: Built static mesh [0.00s] /Game/GreenwoodFantasyVillage/Meshes/SM_FenceSmallC_2m.SM_FenceSmallC_2m
+[2022.04.09-01.46.29:768][873]LogMaterial: Display: Missing cached shadermap for M_TriplanarVertexBlend in PCD3D_SM5, Default, SM5 (DDC key hash: 6487814E0FE3927C8856E20CEE378BB9FF00EAD0), compiling. 
+[2022.04.09-01.46.29:768][873]LogMaterial: Warning: [AssetLog] C:\Users\Jeremy\Documents\ODD\the_flaming_wok\TakeThree 4.27\Content\GreenwoodFantasyVillage\Materials\MasterMaterials\M_TriplanarVertexBlend.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.09-01.46.29:768][873]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.04.09-01.46.29:768][873]LogMaterial: Display: 	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+[2022.04.09-01.46.29:770][873]LogMaterial: Display: Missing cached shadermap for M_TriplanarVertexBlend in PCD3D_SM5, Default, SM5 (DDC key hash: 6487814E0FE3927C8856E20CEE378BB9FF00EAD0), compiling. 
+[2022.04.09-01.46.29:770][873]LogMaterial: Warning: [AssetLog] C:\Users\Jeremy\Documents\ODD\the_flaming_wok\TakeThree 4.27\Content\GreenwoodFantasyVillage\Materials\MasterMaterials\M_TriplanarVertexBlend.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.09-01.46.29:770][873]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.04.09-01.46.29:771][873]LogMaterial: Display: 	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+[2022.04.09-01.46.29:772][873]LogMaterial: Display: Missing cached shadermap for M_TriplanarVertexBlend in PCD3D_SM5, Default, SM5 (DDC key hash: 6487814E0FE3927C8856E20CEE378BB9FF00EAD0), compiling. 
+[2022.04.09-01.46.29:772][873]LogMaterial: Warning: [AssetLog] C:\Users\Jeremy\Documents\ODD\the_flaming_wok\TakeThree 4.27\Content\GreenwoodFantasyVillage\Materials\MasterMaterials\M_TriplanarVertexBlend.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.09-01.46.29:772][873]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.04.09-01.46.29:772][873]LogMaterial: Display: 	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+[2022.04.09-01.46.29:773][873]LogMaterial: Display: Missing cached shadermap for M_TriplanarVertexBlend in PCD3D_SM5, Default, SM5 (DDC key hash: 6487814E0FE3927C8856E20CEE378BB9FF00EAD0), compiling. 
+[2022.04.09-01.46.29:774][873]LogMaterial: Warning: [AssetLog] C:\Users\Jeremy\Documents\ODD\the_flaming_wok\TakeThree 4.27\Content\GreenwoodFantasyVillage\Materials\MasterMaterials\M_TriplanarVertexBlend.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.09-01.46.29:774][873]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.04.09-01.46.29:774][873]LogMaterial: Display: 	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+[2022.04.09-01.46.29:775][873]LogMaterial: Display: Missing cached shadermap for M_TriplanarVertexBlend in PCD3D_SM5, Default, SM5 (DDC key hash: 6487814E0FE3927C8856E20CEE378BB9FF00EAD0), compiling. 
+[2022.04.09-01.46.29:775][873]LogMaterial: Warning: [AssetLog] C:\Users\Jeremy\Documents\ODD\the_flaming_wok\TakeThree 4.27\Content\GreenwoodFantasyVillage\Materials\MasterMaterials\M_TriplanarVertexBlend.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.09-01.46.29:775][873]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.04.09-01.46.29:775][873]LogMaterial: Display: 	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+[2022.04.09-01.46.29:776][873]LogMaterial: Display: Missing cached shadermap for M_TriplanarVertexBlend in PCD3D_SM5, Default, SM5 (DDC key hash: 6487814E0FE3927C8856E20CEE378BB9FF00EAD0), compiling. 
+[2022.04.09-01.46.29:777][873]LogMaterial: Warning: [AssetLog] C:\Users\Jeremy\Documents\ODD\the_flaming_wok\TakeThree 4.27\Content\GreenwoodFantasyVillage\Materials\MasterMaterials\M_TriplanarVertexBlend.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.09-01.46.29:777][873]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.04.09-01.46.29:777][873]LogMaterial: Display: 	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+[2022.04.09-01.46.29:778][873]LogMaterial: Display: Missing cached shadermap for M_TriplanarVertexBlend in PCD3D_SM5, Default, SM5 (DDC key hash: 6487814E0FE3927C8856E20CEE378BB9FF00EAD0), compiling. 
+[2022.04.09-01.46.29:778][873]LogMaterial: Warning: [AssetLog] C:\Users\Jeremy\Documents\ODD\the_flaming_wok\TakeThree 4.27\Content\GreenwoodFantasyVillage\Materials\MasterMaterials\M_TriplanarVertexBlend.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.09-01.46.29:778][873]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.04.09-01.46.29:778][873]LogMaterial: Display: 	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+[2022.04.09-01.46.29:779][873]LogMaterial: Display: Missing cached shadermap for M_TriplanarVertexBlend in PCD3D_SM5, Default, SM5 (DDC key hash: 6487814E0FE3927C8856E20CEE378BB9FF00EAD0), compiling. 
+[2022.04.09-01.46.29:780][873]LogMaterial: Warning: [AssetLog] C:\Users\Jeremy\Documents\ODD\the_flaming_wok\TakeThree 4.27\Content\GreenwoodFantasyVillage\Materials\MasterMaterials\M_TriplanarVertexBlend.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.09-01.46.29:780][873]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.04.09-01.46.29:780][873]LogMaterial: Display: 	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+[2022.04.09-01.46.29:781][873]LogMaterial: Display: Missing cached shadermap for M_TriplanarVertexBlend in PCD3D_SM5, Default, SM5 (DDC key hash: 6487814E0FE3927C8856E20CEE378BB9FF00EAD0), compiling. 
+[2022.04.09-01.46.29:781][873]LogMaterial: Warning: [AssetLog] C:\Users\Jeremy\Documents\ODD\the_flaming_wok\TakeThree 4.27\Content\GreenwoodFantasyVillage\Materials\MasterMaterials\M_TriplanarVertexBlend.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.09-01.46.29:781][873]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.04.09-01.46.29:781][873]LogMaterial: Display: 	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+[2022.04.09-01.46.29:782][873]LogMaterial: Display: Missing cached shadermap for M_TriplanarVertexBlend in PCD3D_SM5, Default, SM5 (DDC key hash: 6487814E0FE3927C8856E20CEE378BB9FF00EAD0), compiling. 
+[2022.04.09-01.46.29:783][873]LogMaterial: Warning: [AssetLog] C:\Users\Jeremy\Documents\ODD\the_flaming_wok\TakeThree 4.27\Content\GreenwoodFantasyVillage\Materials\MasterMaterials\M_TriplanarVertexBlend.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.09-01.46.29:783][873]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.04.09-01.46.29:783][873]LogMaterial: Display: 	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+[2022.04.09-01.46.29:784][873]LogMaterial: Display: Missing cached shadermap for M_TriplanarVertexBlend in PCD3D_SM5, Default, SM5 (DDC key hash: 6487814E0FE3927C8856E20CEE378BB9FF00EAD0), compiling. 
+[2022.04.09-01.46.29:784][873]LogMaterial: Warning: [AssetLog] C:\Users\Jeremy\Documents\ODD\the_flaming_wok\TakeThree 4.27\Content\GreenwoodFantasyVillage\Materials\MasterMaterials\M_TriplanarVertexBlend.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.09-01.46.29:784][873]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.04.09-01.46.29:784][873]LogMaterial: Display: 	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+[2022.04.09-01.46.29:785][873]LogMaterial: Display: Missing cached shadermap for M_TriplanarVertexBlend in PCD3D_SM5, Default, SM5 (DDC key hash: 6487814E0FE3927C8856E20CEE378BB9FF00EAD0), compiling. 
+[2022.04.09-01.46.29:786][873]LogMaterial: Warning: [AssetLog] C:\Users\Jeremy\Documents\ODD\the_flaming_wok\TakeThree 4.27\Content\GreenwoodFantasyVillage\Materials\MasterMaterials\M_TriplanarVertexBlend.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.09-01.46.29:786][873]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.04.09-01.46.29:786][873]LogMaterial: Display: 	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+[2022.04.09-01.46.29:787][873]LogMaterial: Display: Missing cached shadermap for M_TriplanarVertexBlend in PCD3D_SM5, Default, SM5 (DDC key hash: 6487814E0FE3927C8856E20CEE378BB9FF00EAD0), compiling. 
+[2022.04.09-01.46.29:787][873]LogMaterial: Warning: [AssetLog] C:\Users\Jeremy\Documents\ODD\the_flaming_wok\TakeThree 4.27\Content\GreenwoodFantasyVillage\Materials\MasterMaterials\M_TriplanarVertexBlend.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.09-01.46.29:787][873]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.04.09-01.46.29:787][873]LogMaterial: Display: 	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+[2022.04.09-01.46.29:788][873]LogMaterial: Display: Missing cached shadermap for M_TriplanarVertexBlend in PCD3D_SM5, Default, SM5 (DDC key hash: 6487814E0FE3927C8856E20CEE378BB9FF00EAD0), compiling. 
+[2022.04.09-01.46.29:789][873]LogMaterial: Warning: [AssetLog] C:\Users\Jeremy\Documents\ODD\the_flaming_wok\TakeThree 4.27\Content\GreenwoodFantasyVillage\Materials\MasterMaterials\M_TriplanarVertexBlend.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.09-01.46.29:789][873]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.04.09-01.46.29:789][873]LogMaterial: Display: 	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+[2022.04.09-01.46.29:790][873]LogMaterial: Display: Missing cached shadermap for M_TriplanarVertexBlend in PCD3D_SM5, Default, SM5 (DDC key hash: 6487814E0FE3927C8856E20CEE378BB9FF00EAD0), compiling. 
+[2022.04.09-01.46.29:791][873]LogMaterial: Warning: [AssetLog] C:\Users\Jeremy\Documents\ODD\the_flaming_wok\TakeThree 4.27\Content\GreenwoodFantasyVillage\Materials\MasterMaterials\M_TriplanarVertexBlend.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.09-01.46.29:791][873]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.04.09-01.46.29:791][873]LogMaterial: Display: 	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+[2022.04.09-01.46.29:791][873]LogMaterial: Display: Missing cached shadermap for M_TriplanarVertexBlend in PCD3D_SM5, Default, SM5 (DDC key hash: 6487814E0FE3927C8856E20CEE378BB9FF00EAD0), compiling. 
+[2022.04.09-01.46.29:792][873]LogMaterial: Warning: [AssetLog] C:\Users\Jeremy\Documents\ODD\the_flaming_wok\TakeThree 4.27\Content\GreenwoodFantasyVillage\Materials\MasterMaterials\M_TriplanarVertexBlend.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.09-01.46.29:792][873]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.04.09-01.46.29:792][873]LogMaterial: Display: 	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+[2022.04.09-01.46.29:804][873]LogStaticMesh: Building static mesh SM_GardenBed_6x4m...
+[2022.04.09-01.46.29:805][873]LogStaticMesh: Built static mesh [0.00s] /Game/GreenwoodFantasyVillage/Meshes/SM_GardenBed_6x4m.SM_GardenBed_6x4m
+[2022.04.09-01.46.29:817][873]LogStaticMesh: Building static mesh SM_Carrot...
+[2022.04.09-01.46.29:818][873]LogStaticMesh: Built static mesh [0.00s] /Game/GreenwoodFantasyVillage/Meshes/SM_Carrot.SM_Carrot
+[2022.04.09-01.46.29:831][873]LogStaticMesh: Building static mesh SM_Corn...
+[2022.04.09-01.46.29:832][873]LogStaticMesh: Built static mesh [0.00s] /Game/GreenwoodFantasyVillage/Meshes/SM_Corn.SM_Corn
+[2022.04.09-01.46.29:849][873]LogStaticMesh: Building static mesh SM_Onion...
+[2022.04.09-01.46.29:850][873]LogStaticMesh: Built static mesh [0.00s] /Game/GreenwoodFantasyVillage/Meshes/SM_Onion.SM_Onion
+[2022.04.09-01.46.29:863][873]LogStaticMesh: Building static mesh SM_Pumpkin...
+[2022.04.09-01.46.29:864][873]LogStaticMesh: Built static mesh [0.00s] /Game/GreenwoodFantasyVillage/Meshes/SM_Pumpkin.SM_Pumpkin
+[2022.04.09-01.46.29:865][873]LogStaticMesh: Warning: SM_Pumpkin has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2022.04.09-01.46.29:865][873]LogStaticMesh: Warning: SM_Pumpkin has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.04.09-01.46.29:869][873]LogMaterial: Display: Missing cached shadermap for M_Fog in PCD3D_SM5, Default, SM5 (DDC key hash: 3C9DD952DDE03FE78003E618CF80B524838D1AA8), compiling. 
+[2022.04.09-01.46.29:870][873]LogMaterial: Warning: [AssetLog] C:\Users\Jeremy\Documents\ODD\the_flaming_wok\TakeThree 4.27\Content\GreenwoodFantasyVillage\Materials\MasterMaterials\M_Fog.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.09-01.46.29:870][873]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.04.09-01.46.29:871][873]LogMaterial: Display: Missing cached shadermap for M_Fog in PCD3D_SM5, Default, SM5 (DDC key hash: 3C9DD952DDE03FE78003E618CF80B524838D1AA8), compiling. 
+[2022.04.09-01.46.29:872][873]LogMaterial: Warning: [AssetLog] C:\Users\Jeremy\Documents\ODD\the_flaming_wok\TakeThree 4.27\Content\GreenwoodFantasyVillage\Materials\MasterMaterials\M_Fog.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.09-01.46.29:872][873]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.04.09-01.46.29:873][873]LogMaterial: Display: Missing cached shadermap for M_Fog in PCD3D_SM5, Default, SM5 (DDC key hash: 3C9DD952DDE03FE78003E618CF80B524838D1AA8), compiling. 
+[2022.04.09-01.46.29:874][873]LogMaterial: Warning: [AssetLog] C:\Users\Jeremy\Documents\ODD\the_flaming_wok\TakeThree 4.27\Content\GreenwoodFantasyVillage\Materials\MasterMaterials\M_Fog.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.09-01.46.29:874][873]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.04.09-01.46.29:875][873]LogMaterial: Display: Missing cached shadermap for M_Fog in PCD3D_SM5, Default, SM5 (DDC key hash: 3C9DD952DDE03FE78003E618CF80B524838D1AA8), compiling. 
+[2022.04.09-01.46.29:876][873]LogMaterial: Warning: [AssetLog] C:\Users\Jeremy\Documents\ODD\the_flaming_wok\TakeThree 4.27\Content\GreenwoodFantasyVillage\Materials\MasterMaterials\M_Fog.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.09-01.46.29:876][873]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.04.09-01.46.29:882][873]LogStaticMesh: Building static mesh SM_Plane...
+[2022.04.09-01.46.29:883][873]LogStaticMesh: Built static mesh [0.00s] /Game/GreenwoodFantasyVillage/Meshes/SM_Plane.SM_Plane
+[2022.04.09-01.46.29:890][873]LogStaticMesh: Building static mesh SM_LightCone...
+[2022.04.09-01.46.29:893][873]LogStaticMesh: Built static mesh [0.00s] /Game/GreenwoodFantasyVillage/Meshes/SM_LightCone.SM_LightCone
+[2022.04.09-01.46.29:906][873]LogStaticMesh: Building static mesh SM_Lighthouse...
+[2022.04.09-01.46.29:910][873]LogStaticMesh: Built static mesh [0.00s] /Game/GreenwoodFantasyVillage/Meshes/SM_Lighthouse.SM_Lighthouse
+[2022.04.09-01.46.29:911][873]LogStaticMesh: Warning: SM_Lighthouse has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2022.04.09-01.46.29:911][873]LogStaticMesh: Warning: SM_Lighthouse has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.04.09-01.46.29:916][873]LogStaticMesh: Building static mesh SM_Lighthouse_Mirror...
+[2022.04.09-01.46.29:917][873]LogStaticMesh: Built static mesh [0.00s] /Game/GreenwoodFantasyVillage/Meshes/SM_Lighthouse_Mirror.SM_Lighthouse_Mirror
+[2022.04.09-01.46.29:926][873]LogStaticMesh: Building static mesh SM_LightStand...
+[2022.04.09-01.46.29:927][873]LogStaticMesh: Built static mesh [0.00s] /Game/GreenwoodFantasyVillage/Meshes/SM_LightStand.SM_LightStand
+[2022.04.09-01.46.29:944][873]LogStaticMesh: Building static mesh SM_LightColumn...
+[2022.04.09-01.46.29:946][873]LogStaticMesh: Built static mesh [0.00s] /Game/GreenwoodFantasyVillage/Meshes/SM_LightColumn.SM_LightColumn
+[2022.04.09-01.46.29:956][873]LogStaticMesh: Building static mesh SM_Mill...
+[2022.04.09-01.46.29:958][873]LogStaticMesh: Built static mesh [0.00s] /Game/GreenwoodFantasyVillage/Meshes/SM_Mill.SM_Mill
+[2022.04.09-01.46.29:965][873]LogStaticMesh: Building static mesh SM_Mill_Blades...
+[2022.04.09-01.46.29:966][873]LogStaticMesh: Built static mesh [0.00s] /Game/GreenwoodFantasyVillage/Meshes/SM_Mill_Blades.SM_Mill_Blades
+[2022.04.09-01.46.29:971][873]LogStaticMesh: Building static mesh SM_Ground_16m...
+[2022.04.09-01.46.29:972][873]LogStaticMesh: Built static mesh [0.00s] /Game/GreenwoodFantasyVillage/Meshes/LandscapeModules/SM_Ground_16m.SM_Ground_16m
+[2022.04.09-01.46.29:976][873]LogStaticMesh: Building static mesh SM_Ground_16m_CliffCornerInside...
+[2022.04.09-01.46.29:977][873]LogStaticMesh: Built static mesh [0.00s] /Game/GreenwoodFantasyVillage/Meshes/LandscapeModules/SM_Ground_16m_CliffCornerInside.SM_Ground_16m_CliffCornerInside
+[2022.04.09-01.46.29:979][873]LogMaterial: Display: Missing cached shadermap for M_WaterRiver in PCD3D_SM5, Default, SM5 (DDC key hash: 663E50D7F4CED5FEDD78834DEF74C77C47340BAB), compiling. 
+[2022.04.09-01.46.29:980][873]LogMaterial: Warning: [AssetLog] C:\Users\Jeremy\Documents\ODD\the_flaming_wok\TakeThree 4.27\Content\GreenwoodFantasyVillage\Materials\MasterMaterials\M_WaterRiver.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.09-01.46.29:980][873]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.04.09-01.46.29:981][873]LogMaterial: Display: Missing cached shadermap for M_WaterRiver in PCD3D_SM5, Default, SM5 (DDC key hash: 663E50D7F4CED5FEDD78834DEF74C77C47340BAB), compiling. 
+[2022.04.09-01.46.29:982][873]LogMaterial: Warning: [AssetLog] C:\Users\Jeremy\Documents\ODD\the_flaming_wok\TakeThree 4.27\Content\GreenwoodFantasyVillage\Materials\MasterMaterials\M_WaterRiver.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.09-01.46.29:982][873]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.04.09-01.46.29:983][873]LogMaterial: Display: Missing cached shadermap for M_WaterRiver in PCD3D_SM5, Default, SM5 (DDC key hash: 663E50D7F4CED5FEDD78834DEF74C77C47340BAB), compiling. 
+[2022.04.09-01.46.29:983][873]LogMaterial: Warning: [AssetLog] C:\Users\Jeremy\Documents\ODD\the_flaming_wok\TakeThree 4.27\Content\GreenwoodFantasyVillage\Materials\MasterMaterials\M_WaterRiver.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.09-01.46.29:983][873]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.04.09-01.46.29:985][873]LogMaterial: Display: Missing cached shadermap for M_WaterRiver in PCD3D_SM5, Default, SM5 (DDC key hash: 663E50D7F4CED5FEDD78834DEF74C77C47340BAB), compiling. 
+[2022.04.09-01.46.29:985][873]LogMaterial: Warning: [AssetLog] C:\Users\Jeremy\Documents\ODD\the_flaming_wok\TakeThree 4.27\Content\GreenwoodFantasyVillage\Materials\MasterMaterials\M_WaterRiver.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.09-01.46.29:985][873]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.04.09-01.46.29:989][873]LogStaticMesh: Building static mesh SM_Ground_16m_CliffWaterfall...
+[2022.04.09-01.46.29:990][873]LogStaticMesh: Built static mesh [0.00s] /Game/GreenwoodFantasyVillage/Meshes/LandscapeModules/SM_Ground_16m_CliffWaterfall.SM_Ground_16m_CliffWaterfall
+[2022.04.09-01.46.29:995][873]LogStaticMesh: Building static mesh SM_Ground_16m_CliffWaterfall_Water...
+[2022.04.09-01.46.29:995][873]LogStaticMesh: Built static mesh [0.00s] /Game/GreenwoodFantasyVillage/Meshes/LandscapeModules/SM_Ground_16m_CliffWaterfall_Water.SM_Ground_16m_CliffWaterfall_Water
+[2022.04.09-01.46.30:001][873]LogStaticMesh: Building static mesh SM_Ground_16m_CoastCornerInside...
+[2022.04.09-01.46.30:002][873]LogStaticMesh: Built static mesh [0.00s] /Game/GreenwoodFantasyVillage/Meshes/LandscapeModules/SM_Ground_16m_CoastCornerInside.SM_Ground_16m_CoastCornerInside
+[2022.04.09-01.46.30:007][873]LogStaticMesh: Building static mesh SM_Ground_16m_Hill...
+[2022.04.09-01.46.30:008][873]LogStaticMesh: Built static mesh [0.00s] /Game/GreenwoodFantasyVillage/Meshes/LandscapeModules/SM_Ground_16m_Hill.SM_Ground_16m_Hill
+[2022.04.09-01.46.30:010][873]LogStaticMesh: Building static mesh SM_Ground_16m_HillSmallCornerInside...
+[2022.04.09-01.46.30:010][873]LogStaticMesh: Built static mesh [0.00s] /Game/GreenwoodFantasyVillage/Meshes/LandscapeModules/SM_Ground_16m_HillSmallCornerInside.SM_Ground_16m_HillSmallCornerInside
+[2022.04.09-01.46.30:015][873]LogStaticMesh: Building static mesh SM_Ground_16m_River...
+[2022.04.09-01.46.30:016][873]LogStaticMesh: Built static mesh [0.00s] /Game/GreenwoodFantasyVillage/Meshes/LandscapeModules/SM_Ground_16m_River.SM_Ground_16m_River
+[2022.04.09-01.46.30:021][873]LogStaticMesh: Building static mesh SM_Ground_16m_River_Water...
+[2022.04.09-01.46.30:021][873]LogStaticMesh: Built static mesh [0.00s] /Game/GreenwoodFantasyVillage/Meshes/LandscapeModules/SM_Ground_16m_River_Water.SM_Ground_16m_River_Water
+[2022.04.09-01.46.30:029][873]LogStaticMesh: Building static mesh SM_Ground_16m_RiverCornerL...
+[2022.04.09-01.46.30:030][873]LogStaticMesh: Built static mesh [0.00s] /Game/GreenwoodFantasyVillage/Meshes/LandscapeModules/SM_Ground_16m_RiverCornerL.SM_Ground_16m_RiverCornerL
+[2022.04.09-01.46.30:036][873]LogStaticMesh: Building static mesh SM_Ground_16m_RiverCornerL_Water...
+[2022.04.09-01.46.30:036][873]LogStaticMesh: Built static mesh [0.00s] /Game/GreenwoodFantasyVillage/Meshes/LandscapeModules/SM_Ground_16m_RiverCornerL_Water.SM_Ground_16m_RiverCornerL_Water
+[2022.04.09-01.46.30:042][873]LogStaticMesh: Building static mesh SM_Ground_16m_RiverCornerR...
+[2022.04.09-01.46.30:043][873]LogStaticMesh: Built static mesh [0.00s] /Game/GreenwoodFantasyVillage/Meshes/LandscapeModules/SM_Ground_16m_RiverCornerR.SM_Ground_16m_RiverCornerR
+[2022.04.09-01.46.30:048][873]LogStaticMesh: Building static mesh SM_Ground_16m_RiverCornerR_Water...
+[2022.04.09-01.46.30:048][873]LogStaticMesh: Built static mesh [0.00s] /Game/GreenwoodFantasyVillage/Meshes/LandscapeModules/SM_Ground_16m_RiverCornerR_Water.SM_Ground_16m_RiverCornerR_Water
+[2022.04.09-01.46.30:055][873]LogStaticMesh: Building static mesh SM_Ground_16m_RiverCurve...
+[2022.04.09-01.46.30:056][873]LogStaticMesh: Built static mesh [0.00s] /Game/GreenwoodFantasyVillage/Meshes/LandscapeModules/SM_Ground_16m_RiverCurve.SM_Ground_16m_RiverCurve
+[2022.04.09-01.46.30:061][873]LogStaticMesh: Building static mesh SM_Ground_16m_RiverCurve_Water...
+[2022.04.09-01.46.30:061][873]LogStaticMesh: Built static mesh [0.00s] /Game/GreenwoodFantasyVillage/Meshes/LandscapeModules/SM_Ground_16m_RiverCurve_Water.SM_Ground_16m_RiverCurve_Water
+[2022.04.09-01.46.30:068][873]LogStaticMesh: Building static mesh SM_Ground_16m_RiverPathway...
+[2022.04.09-01.46.30:069][873]LogStaticMesh: Built static mesh [0.00s] /Game/GreenwoodFantasyVillage/Meshes/LandscapeModules/SM_Ground_16m_RiverPathway.SM_Ground_16m_RiverPathway
+[2022.04.09-01.46.30:075][873]LogStaticMesh: Building static mesh SM_Ground_16m_RiverPathway_Water...
+[2022.04.09-01.46.30:075][873]LogStaticMesh: Built static mesh [0.00s] /Game/GreenwoodFantasyVillage/Meshes/LandscapeModules/SM_Ground_16m_RiverPathway_Water.SM_Ground_16m_RiverPathway_Water
+[2022.04.09-01.46.30:084][873]LogStaticMesh: Building static mesh SM_Ground_8m...
+[2022.04.09-01.46.30:084][873]LogStaticMesh: Built static mesh [0.00s] /Game/GreenwoodFantasyVillage/Meshes/LandscapeModules/SM_Ground_8m.SM_Ground_8m
+[2022.04.09-01.46.30:089][873]LogStaticMesh: Building static mesh SM_Ground_8m_Cliff...
+[2022.04.09-01.46.30:090][873]LogStaticMesh: Built static mesh [0.00s] /Game/GreenwoodFantasyVillage/Meshes/LandscapeModules/SM_Ground_8m_Cliff.SM_Ground_8m_Cliff
+[2022.04.09-01.46.30:095][873]LogStaticMesh: Building static mesh SM_Ground_8m_CliffCornerOutside...
+[2022.04.09-01.46.30:095][873]LogStaticMesh: Built static mesh [0.00s] /Game/GreenwoodFantasyVillage/Meshes/LandscapeModules/SM_Ground_8m_CliffCornerOutside.SM_Ground_8m_CliffCornerOutside
+[2022.04.09-01.46.30:100][873]LogStaticMesh: Building static mesh SM_Ground_8m_Cliff_Pathway...
+[2022.04.09-01.46.30:101][873]LogStaticMesh: Built static mesh [0.00s] /Game/GreenwoodFantasyVillage/Meshes/LandscapeModules/SM_Ground_8m_Cliff_Pathway.SM_Ground_8m_Cliff_Pathway
+[2022.04.09-01.46.30:102][873]LogStaticMesh: Building static mesh SM_Ground_8m_Coast...
+[2022.04.09-01.46.30:102][873]LogStaticMesh: Built static mesh [0.00s] /Game/GreenwoodFantasyVillage/Meshes/LandscapeModules/SM_Ground_8m_Coast.SM_Ground_8m_Coast
+[2022.04.09-01.46.30:107][873]LogStaticMesh: Building static mesh SM_Ground_8m_HillSmall...
+[2022.04.09-01.46.30:108][873]LogStaticMesh: Built static mesh [0.00s] /Game/GreenwoodFantasyVillage/Meshes/LandscapeModules/SM_Ground_8m_HillSmall.SM_Ground_8m_HillSmall
+[2022.04.09-01.46.30:113][873]LogStaticMesh: Building static mesh SM_Ground_8m_HillSmallCornerOutside...
+[2022.04.09-01.46.30:114][873]LogStaticMesh: Built static mesh [0.00s] /Game/GreenwoodFantasyVillage/Meshes/LandscapeModules/SM_Ground_8m_HillSmallCornerOutside.SM_Ground_8m_HillSmallCornerOutside
+[2022.04.09-01.46.30:121][873]LogStaticMesh: Building static mesh SM_Ground_8m_HillSmallPathway...
+[2022.04.09-01.46.30:122][873]LogStaticMesh: Built static mesh [0.00s] /Game/GreenwoodFantasyVillage/Meshes/LandscapeModules/SM_Ground_8m_HillSmallPathway.SM_Ground_8m_HillSmallPathway
+[2022.04.09-01.46.30:124][873]LogStaticMesh: Building static mesh SM_Ground_8m_LakeBottom...
+[2022.04.09-01.46.30:124][873]LogStaticMesh: Built static mesh [0.00s] /Game/GreenwoodFantasyVillage/Meshes/LandscapeModules/SM_Ground_8m_LakeBottom.SM_Ground_8m_LakeBottom
+[2022.04.09-01.46.30:128][873]LogStaticMesh: Building static mesh SM_Ground_8m_Pathway...
+[2022.04.09-01.46.30:129][873]LogStaticMesh: Built static mesh [0.00s] /Game/GreenwoodFantasyVillage/Meshes/LandscapeModules/SM_Ground_8m_Pathway.SM_Ground_8m_Pathway
+[2022.04.09-01.46.30:134][873]LogStaticMesh: Building static mesh SM_Ground_8m_PathwayCorner...
+[2022.04.09-01.46.30:134][873]LogStaticMesh: Built static mesh [0.00s] /Game/GreenwoodFantasyVillage/Meshes/LandscapeModules/SM_Ground_8m_PathwayCorner.SM_Ground_8m_PathwayCorner
+[2022.04.09-01.46.30:139][873]LogStaticMesh: Building static mesh SM_Ground_8m_PathwayCornerB...
+[2022.04.09-01.46.30:140][873]LogStaticMesh: Built static mesh [0.00s] /Game/GreenwoodFantasyVillage/Meshes/LandscapeModules/SM_Ground_8m_PathwayCornerB.SM_Ground_8m_PathwayCornerB
+[2022.04.09-01.46.30:145][873]LogStaticMesh: Building static mesh SM_Ground_8m_PathwayCross...
+[2022.04.09-01.46.30:146][873]LogStaticMesh: Built static mesh [0.00s] /Game/GreenwoodFantasyVillage/Meshes/LandscapeModules/SM_Ground_8m_PathwayCross.SM_Ground_8m_PathwayCross
+[2022.04.09-01.46.30:152][873]LogStaticMesh: Building static mesh SM_Ground_8m_PathwayCrossT...
+[2022.04.09-01.46.30:153][873]LogStaticMesh: Built static mesh [0.00s] /Game/GreenwoodFantasyVillage/Meshes/LandscapeModules/SM_Ground_8m_PathwayCrossT.SM_Ground_8m_PathwayCrossT
+[2022.04.09-01.46.30:157][873]LogStaticMesh: Building static mesh SM_Ground_8m_PathwayCurve...
+[2022.04.09-01.46.30:158][873]LogStaticMesh: Built static mesh [0.00s] /Game/GreenwoodFantasyVillage/Meshes/LandscapeModules/SM_Ground_8m_PathwayCurve.SM_Ground_8m_PathwayCurve
+[2022.04.09-01.46.30:163][873]LogStaticMesh: Building static mesh SM_Ground_8m_PathwayEnd...
+[2022.04.09-01.46.30:163][873]LogStaticMesh: Built static mesh [0.00s] /Game/GreenwoodFantasyVillage/Meshes/LandscapeModules/SM_Ground_8m_PathwayEnd.SM_Ground_8m_PathwayEnd
+[2022.04.09-01.46.30:169][873]LogStaticMesh: Building static mesh SM_Ground_8m_PathwaySquareA...
+[2022.04.09-01.46.30:170][873]LogStaticMesh: Built static mesh [0.00s] /Game/GreenwoodFantasyVillage/Meshes/LandscapeModules/SM_Ground_8m_PathwaySquareA.SM_Ground_8m_PathwaySquareA
+[2022.04.09-01.46.30:175][873]LogStaticMesh: Building static mesh SM_Ground_8m_PathwaySquareB...
+[2022.04.09-01.46.30:176][873]LogStaticMesh: Built static mesh [0.00s] /Game/GreenwoodFantasyVillage/Meshes/LandscapeModules/SM_Ground_8m_PathwaySquareB.SM_Ground_8m_PathwaySquareB
+[2022.04.09-01.46.30:177][873]LogStaticMesh: Building static mesh SM_Ground_8m_Plantation...
+[2022.04.09-01.46.30:178][873]LogStaticMesh: Built static mesh [0.00s] /Game/GreenwoodFantasyVillage/Meshes/LandscapeModules/SM_Ground_8m_Plantation.SM_Ground_8m_Plantation
+[2022.04.09-01.46.30:182][873]LogStaticMesh: Building static mesh SM_Ground_8m_PlantationCorner...
+[2022.04.09-01.46.30:183][873]LogStaticMesh: Built static mesh [0.00s] /Game/GreenwoodFantasyVillage/Meshes/LandscapeModules/SM_Ground_8m_PlantationCorner.SM_Ground_8m_PlantationCorner
+[2022.04.09-01.46.30:188][873]LogStaticMesh: Building static mesh SM_Ground_8m_PlantationSide...
+[2022.04.09-01.46.30:188][873]LogStaticMesh: Built static mesh [0.00s] /Game/GreenwoodFantasyVillage/Meshes/LandscapeModules/SM_Ground_8m_PlantationSide.SM_Ground_8m_PlantationSide
+[2022.04.09-01.46.30:189][873]LogStaticMesh: Building static mesh SM_Ground_8m_Square...
+[2022.04.09-01.46.30:190][873]LogStaticMesh: Built static mesh [0.00s] /Game/GreenwoodFantasyVillage/Meshes/LandscapeModules/SM_Ground_8m_Square.SM_Ground_8m_Square
+[2022.04.09-01.46.30:194][873]LogStaticMesh: Building static mesh SM_Ground_8m_SquareCorner...
+[2022.04.09-01.46.30:194][873]LogStaticMesh: Built static mesh [0.00s] /Game/GreenwoodFantasyVillage/Meshes/LandscapeModules/SM_Ground_8m_SquareCorner.SM_Ground_8m_SquareCorner
+[2022.04.09-01.46.30:196][873]LogStaticMesh: Building static mesh SM_Ground_8m_SquareCornerOutside...
+[2022.04.09-01.46.30:197][873]LogStaticMesh: Built static mesh [0.00s] /Game/GreenwoodFantasyVillage/Meshes/LandscapeModules/SM_Ground_8m_SquareCornerOutside.SM_Ground_8m_SquareCornerOutside
+[2022.04.09-01.46.30:201][873]LogStaticMesh: Building static mesh SM_Ground_8m_SquarePathway...
+[2022.04.09-01.46.30:202][873]LogStaticMesh: Built static mesh [0.00s] /Game/GreenwoodFantasyVillage/Meshes/LandscapeModules/SM_Ground_8m_SquarePathway.SM_Ground_8m_SquarePathway
+[2022.04.09-01.46.30:207][873]LogStaticMesh: Building static mesh SM_Ground_8m_SquareSide...
+[2022.04.09-01.46.30:207][873]LogStaticMesh: Built static mesh [0.00s] /Game/GreenwoodFantasyVillage/Meshes/LandscapeModules/SM_Ground_8m_SquareSide.SM_Ground_8m_SquareSide

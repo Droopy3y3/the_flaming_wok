@@ -11,3 +11,6 @@ TakeThree 4.27/Saved/AutoScreenshot.png
 TakeThree 4.27/Saved/Config/Windows/Engine.ini
 TakeThree 4.27/Saved/Logs/TakeThree.log
 TakeThree 4.27/Content/Main/Blueprints/CameraPawnController.uasset
+*.log
+*.png
+*.png
